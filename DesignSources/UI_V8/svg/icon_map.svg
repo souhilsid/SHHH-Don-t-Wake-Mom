@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon map</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M36,74 L94,52 L162,74 L220,52 L220,184 L162,206 L94,184 L36,206Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M94,56 V182 M162,78 V202" fill="none" stroke="#261239" stroke-width="38"/>
+<path d="M150,58 C150,30 190,30 190,58 C190,80 170,98 170,112 C170,98 150,80 150,58Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M36,74 L94,52 L162,74 L220,52 L220,184 L162,206 L94,184 L36,206Z" fill="#FFF0BA"/>
+<path d="M94,56 V182 M162,78 V202" fill="none" stroke="#261239" stroke-width="10"/>
+<path d="M150,58 C150,30 190,30 190,58 C190,80 170,98 170,112 C170,98 150,80 150,58Z" fill="#F57F78"/>
+</g></svg>

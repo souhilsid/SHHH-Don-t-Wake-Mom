@@ -1,0 +1,30 @@
+{
+  "project": "SHHH! — Don't Wake Mom!",
+  "date": "2026-11-08",
+  "engine_handoff_snapshot": "Unity 6000.0.62f1 / URP 17.0.4 / Meta XR 201 / OpenXR 1.16.1 — verify actual packages",
+  "platform": [
+    "Meta Quest 2",
+    "Meta Quest 3",
+    "Meta Quest 3S"
+  ],
+  "decisions": {
+    "01_locomotion": "C — hybrid hand interaction, optional controller smooth movement and teleport comfort",
+    "02_sibling_rig": "A — disconnected visual head, torso, hands, shoes; hidden logical rig; Mom conventional humanoid",
+    "03_animation": "A — shared sibling rig, distinct character personality and cosmetics",
+    "04_chores": "C — >=60; catalog specifies 72 authored procedural recipes",
+    "05_task_steps": "B — 2–5 meaningful physical actions with forgiveness",
+    "06_sabotage": "B — household reversal, physical pranks, pets, cover-ups, recoverable",
+    "07_house": "B — connected accessible world with round-specific task focus",
+    "08_bots": "B — deterministic bounded planning plus optional dialogue",
+    "09_mom": "B — bounded dynamic actual investigation, one major interrogation per round",
+    "10_voice": "B — optional human spatial and LiveKit Mom/bot, nonvoice equivalent",
+    "11_disconnect": "A — bot substitution and harmless spectators",
+    "12_customization": "B — modular outfits/hair/shoes/hats/glasses/emotes/colors",
+    "13_progression": "B — lightweight XP/cosmetic unlocks, no monetization assumption",
+    "14_audio": "B — dynamic comedic stealth music and spatial sound",
+    "15_rooms": "B — essential house plus child bedroom, bathroom, foyer and pet area",
+    "16_creativity": "B — preserve all locked rules; improve implementation creatively"
+  },
+  "brand_tokens": "Read supplied SHHH brand_tokens.json, full color SVG and guidelines; Luckiest Guy-inspired logo, Fredoka supporting UI",
+  "current_handoff": "V5 13 simulated book interaction checks reported; headset and complete game not verified"
+}

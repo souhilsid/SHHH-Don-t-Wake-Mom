@@ -1,0 +1,72 @@
+{
+  "brand": "SHHH! - Don't Wake Mom!",
+  "version": "1.0",
+  "date": "2026-11-08",
+  "color_space": "sRGB",
+  "palette": {
+    "midnight_ink": {
+      "hex": "#211530",
+      "usage": "Primary game-night background"
+    },
+    "deep_shadow": {
+      "hex": "#261239",
+      "usage": "Outlines and deep contrast"
+    },
+    "royal_purple": {
+      "hex": "#70409F",
+      "usage": "Extrusion and energetic layers"
+    },
+    "moon_cream": {
+      "hex": "#FFF0BA",
+      "usage": "Secondary letter highlights"
+    },
+    "hush_yellow": {
+      "hex": "#FFCF2E",
+      "usage": "Primary title color / joyous accent"
+    },
+    "sneaky_coral": {
+      "hex": "#F57F78",
+      "usage": "Small accent edges"
+    },
+    "party_pink": {
+      "hex": "#F45F73",
+      "usage": "Banners, transitions, energy"
+    },
+    "ribbon_red": {
+      "hex": "#C92C4D",
+      "usage": "Secondary ribbon / emphasis"
+    },
+    "soft_white": {
+      "hex": "#FFF8E8",
+      "usage": "Accessible light surfaces"
+    }
+  },
+  "typography": {
+    "logo_reference_typeface": {
+      "name": "Luckiest Guy",
+      "role": "creative lettering reference; approved raster artwork uses individually illustrated, non-semantic letterforms",
+      "google_fonts_url": "https://fonts.google.com/specimen/Luckiest+Guy",
+      "license": "Apache License 2.0"
+    },
+    "subtitle_and_display_ui": {
+      "name": "Fredoka",
+      "weight": "600-700",
+      "google_fonts_url": "https://fonts.google.com/specimen/Fredoka",
+      "license": "SIL Open Font License 1.1"
+    },
+    "small_ui_body": {
+      "name": "Nunito Sans",
+      "weight": "400-700",
+      "google_fonts_url": "https://fonts.google.com/specimen/Nunito+Sans",
+      "license": "Check included license if redistributing font files"
+    }
+  },
+  "logo_rules": {
+    "clear_space": "At least 0.08 x the larger dimension of the full logo; 10% recommended for promotional artwork.",
+    "min_full_lockup_px": 320,
+    "min_icon_px": 48,
+    "no_distortion": true,
+    "preserve_tagline": true
+  },
+  "note": "Palette normalized from approved artwork for reproducibility; multi-tone original artwork naturally contains additional sampled colors. True vector trace is not semantic typography."
+}

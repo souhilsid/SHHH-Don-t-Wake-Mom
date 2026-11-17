@@ -1,0 +1,40 @@
+SHHH CLAUDE FULL PRODUCTION HANDOFF
+Unity source project, credentials, real Quest device NOT INCLUDED.
+
+00_Master_Brief/SHHH_CLAUDE_MASTER_PRODUCTION_PROMPT_FINAL.md	89120 bytes
+00_Master_Brief/SHHH_CLAUDE_START_HERE.md	2438 bytes
+00_Master_Brief/SHHH_Locked_Decisions.json	1977 bytes
+01_Previous_Directives/SHHH_Astra_Full_3D_World_Production_Prompt_v1.md	38162 bytes
+01_Previous_Directives/SHHH_ASTRA_V5_HANDCRAFTED_ART_RECOVERY_PROMPT.md	29865 bytes
+02_Codex_Handoff/Pasted text.txt	25611 bytes
+02_Codex_Handoff/Pasted text (2).txt	15074 bytes
+03_References/SHHH_new_reference_contact_sheet.jpg	708996 bytes
+03_References/SHHH_Complete_Brand_Kit_v1.zip	9305265 bytes
+03_References/Images/Moonlit Family Kitchen Adventure-1.png	3153505 bytes
+03_References/Images/Cozy Cartoon Kitchen at Night-2.png	3121077 bytes
+03_References/Images/Cozy Midnight Kitchen Chore Quest-3.png	3127373 bytes
+03_References/Images/Living Room VR Stealth Adventure-1.png	3217722 bytes
+03_References/Images/Shhh! Create a Distraction-2.png	3225272 bytes
+03_References/Images/Don’t Wake Mom_ Cozy Chore Quest-3.png	3229672 bytes
+03_References/Images/Shhh! Don’t Wake Mom!-4.png	3104378 bytes
+03_References/Images/Mom Character Turnaround Sheet(1).png	3196369 bytes
+03_References/Images/Shhh! Sibling Character Turnaround Sheet(1).png	3175736 bytes
+03_References/Images/SHHH! Family Stage VR Lobby(1).png	3328564 bytes
+03_References/Images/VR Character Customization Lobby(1).png	3337482 bytes
+03_References/Images/Cozy Colorful Laundry Room-1.png	3285339 bytes
+03_References/Images/Cozy Moonlit Laundry Room-2.png	3106617 bytes
+03_References/Images/Cozy Sunlit Laundry Room-3.png	3222691 bytes
+03_References/Images/ChatGPT Image Nov 8, 2026, 01_42_53 PM.png	1696007 bytes
+03_References/Images/ChatGPT Image Nov 8, 2026, 01_42_59 PM.png	1870192 bytes
+03_References/Images/ChatGPT Image Nov 8, 2026, 01_43_06 PM.png	1672223 bytes
+03_References/Images/image(20261108-123810).png	1358194 bytes
+03_References/Images/image(20261108-123825).png	1075337 bytes
+03_References/Images/image(20261108-123848).png	1270695 bytes
+03_References/Images/01_LivingRuntime.png	1849887 bytes
+03_References/Images/02_BooksShelved.png	1855148 bytes
+03_References/Images/03_Sabotage.png	1834446 bytes
+03_References/Images/04_Repair.png	1862735 bytes
+03_References/Images/05_BookContact_0.png	966242 bytes
+03_References/Images/05_BookContact_1.png	635179 bytes
+03_References/Images/05_BookContact_Closeup.png	1724858 bytes
+03_References/Images/Route_Bedside.png	396118 bytes

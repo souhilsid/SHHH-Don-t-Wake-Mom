@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon card</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M82,30 H174 Q192,30 192,48 V188 Q192,206 174,206 H82 Q64,206 64,188 V48 Q64,30 82,30Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M90,46 H166 Q176,46 176,56 V106 Q176,116 166,116 H90 Q80,116 80,106 V56 Q80,46 90,46Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M84,140 H172 M84,164 H150" fill="none" stroke="#261239" stroke-width="38"/>
+<path d="M82,30 H174 Q192,30 192,48 V188 Q192,206 174,206 H82 Q64,206 64,188 V48 Q64,30 82,30Z" fill="#FFF0BA"/>
+<path d="M90,46 H166 Q176,46 176,56 V106 Q176,116 166,116 H90 Q80,116 80,106 V56 Q80,46 90,46Z" fill="#9ED9D6"/>
+<path d="M84,140 H172 M84,164 H150" fill="none" stroke="#261239" stroke-width="10"/>
+</g></svg>

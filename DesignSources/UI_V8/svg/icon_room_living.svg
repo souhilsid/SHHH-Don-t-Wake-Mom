@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon room_living</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M56,100 H200 Q222,100 222,122 V158 Q222,180 200,180 H56 Q34,180 34,158 V122 Q34,100 56,100Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M74,70 H182 Q202,70 202,90 V112 Q202,132 182,132 H74 Q54,132 54,112 V90 Q54,70 74,70Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M46,176 H52 Q58,176 58,182 V200 Q58,206 52,206 H46 Q40,206 40,200 V182 Q40,176 46,176Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M204,176 H210 Q216,176 216,182 V200 Q216,206 210,206 H204 Q198,206 198,200 V182 Q198,176 204,176Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M128,104 V160" fill="none" stroke="#261239" stroke-width="36"/>
+<path d="M56,100 H200 Q222,100 222,122 V158 Q222,180 200,180 H56 Q34,180 34,158 V122 Q34,100 56,100Z" fill="#F57F78"/>
+<path d="M74,70 H182 Q202,70 202,90 V112 Q202,132 182,132 H74 Q54,132 54,112 V90 Q54,70 74,70Z" fill="#F57F78"/>
+<path d="M46,176 H52 Q58,176 58,182 V200 Q58,206 52,206 H46 Q40,206 40,200 V182 Q40,176 46,176Z" fill="#261239"/>
+<path d="M204,176 H210 Q216,176 216,182 V200 Q216,206 210,206 H204 Q198,206 198,200 V182 Q198,176 204,176Z" fill="#261239"/>
+<path d="M128,104 V160" fill="none" stroke="#261239" stroke-width="8"/>
+</g></svg>

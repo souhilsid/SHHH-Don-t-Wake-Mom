@@ -1,0 +1,91 @@
+{
+ "voice": "am_michael",
+ "model": "kokoro-v1.0.onnx sha256 7d5df8ec...",
+ "lines": {
+  "N01": {
+   "text": "It's late.",
+   "speed": 0.85,
+   "sec": 0.886
+  },
+  "N02": {
+   "text": "The house is a total mess...",
+   "speed": 0.88,
+   "sec": 1.884
+  },
+  "N03": {
+   "text": "and Mom is finally asleep.",
+   "speed": 0.86,
+   "sec": 1.891
+  },
+  "N04": {
+   "text": "So tonight, you and your siblings have one job.",
+   "speed": 0.92,
+   "sec": 2.873
+  },
+  "N05a": {
+   "text": "Pair up the slippers.",
+   "speed": 0.95,
+   "sec": 1.161
+  },
+  "N05b": {
+   "text": "Stack the mugs.",
+   "speed": 0.98,
+   "sec": 1.003
+  },
+  "N05c": {
+   "text": "Fold the towels.",
+   "speed": 0.98,
+   "sec": 1.071
+  },
+  "N05d": {
+   "text": "Scrub the plates.",
+   "speed": 0.98,
+   "sec": 1.053
+  },
+  "N06": {
+   "text": "without making a single sound.",
+   "speed": 0.86,
+   "sec": 1.963
+  },
+  "N07": {
+   "text": "Mostly.",
+   "speed": 0.85,
+   "sec": 0.842
+  },
+  "N08a": {
+   "text": "The cat is bored.",
+   "speed": 0.98,
+   "sec": 1.13
+  },
+  "N08b": {
+   "text": "The dog is hungry.",
+   "speed": 0.98,
+   "sec": 1.193
+  },
+  "N08c": {
+   "text": "Your siblings are... not helping.",
+   "speed": 0.94,
+   "sec": 1.97
+  },
+  "N09": {
+   "text": "And every little noise wakes Mom up a little more.",
+   "speed": 0.95,
+   "sec": 2.72
+  },
+  "N10": {
+   "text": "And when she finds a mess... somebody's getting blamed.",
+   "speed": 0.92,
+   "sec": 3.122
+  },
+  "N11": {
+   "text": "So be quick. Be helpful. And whatever you do...",
+   "speed": 0.9,
+   "sec": 2.883
+  },
+  "N12": {
+   "text": "Shhh. Don't wake Mom.",
+   "speed": 0.8,
+   "sec": 2.719
+  }
+ }
+}

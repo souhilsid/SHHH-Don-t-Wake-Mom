@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon alert</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M128,30 L226,206 H30Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M128,84 H128 Q140,84 140,96 V142 Q140,154 128,154 H128 Q116,154 116,142 V96 Q116,84 128,84Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M114,178 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M128,30 L226,206 H30Z" fill="#FFCF2E"/>
+<path d="M128,84 H128 Q140,84 140,96 V142 Q140,154 128,154 H128 Q116,154 116,142 V96 Q116,84 128,84Z" fill="#261239"/>
+<path d="M114,178 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0Z" fill="#261239"/>
+</g></svg>

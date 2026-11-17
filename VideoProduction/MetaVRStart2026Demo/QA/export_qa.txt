@@ -1,0 +1,10 @@
+== MetaVRStart2026Demo/Final/SHHH_Meta_VR_Start_2026_Official_Demo.mp4
+size_bytes 277340958
+sha256 3080f10cf362f1288c0f8cc70b05d0a811a9ba4820dcfa0f6cf146e1dd27f38d
+stream|codec_name=h264|profile=High|width=1920|height=1080|pix_fmt=yuv420p|color_space=bt709|field_order=progressive|r_frame_rate=30/1|avg_frame_rate=30/1|
+stream|codec_name=aac|profile=LC|sample_rate=48000|channels=2|r_frame_rate=0/0|avg_frame_rate=0/0
+format|format_name=mov,mp4,m4a,3gp,3g2,mj2|duration=173.300000|bit_rate=12802813
+faststart (moov before mdat): True
+ I: -14.7 LUFS
+ LRA: 11.0 LU
+ Peak: -1.6 dBFS

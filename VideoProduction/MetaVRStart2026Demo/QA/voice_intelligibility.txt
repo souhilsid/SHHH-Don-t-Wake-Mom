@@ -1,0 +1,28 @@
+   3.35  1.00  SCRIPT: MOM: I know that sound. That's a plate.                      | HEARD: I know that sound, that's a plate.
+   6.05  0.83  SCRIPT: Welcome to SHHH! Don't Wake Mom.                             | HEARD: Welcome to Shh, Don't Wake Mom.
+  10.45  0.90  SCRIPT: Four siblings. One sleeping Mom. A whole house of chores.    | HEARD: four sibling, one sleeping mom, a whole house of chores.
+  14.60  1.00  SCRIPT: Pick your look.                                              | HEARD: Pick your look.
+  15.90  1.00  SCRIPT: Then play solo against bot siblings, or open a room and play | HEARD: then play solo against bot siblings, or open a room and play with a fr
+  24.50  1.00  SCRIPT: Every job is hands-on.                                       | HEARD: Every job is hands-on.
+  26.40  0.91  SCRIPT: Press the toy chest open, and sort the blocks by colour.     | HEARD: Press the toy chest open and sort the blocks by color.
+  38.95  1.00  SCRIPT: Pump soap onto the sponge,                                   | HEARD: pump soap onto the sponge.
+  41.95  1.00  SCRIPT: hold the plate, and scrub until it's actually clean.         | HEARD: Hold the plate and scrub until it's actually clean.
+  51.80  1.00  SCRIPT: Open the fridge by its handle. Groceries go on the shelves.  | HEARD: Open the fridge by its handle. Groceries go on the shelves.
+  64.60  0.88  SCRIPT: Lift the bin lid. In goes the trash.                         | HEARD: Lift the bin lid and goes the trash.
+  69.40  1.00  SCRIPT: Hold the blanket with one hand, and rub with the other to fo | HEARD: Hold the blanket with one hand, and rub with the other to fold it.
+  83.00  1.00  SCRIPT: Hop from room to room with a finger gun, while your siblings | HEARD: Hop from room to room with a finger gun, while your siblings race you 
+  95.85  1.00  SCRIPT: Your watch shows the clock, your points, and how close Mom i | HEARD: Your watch shows the clock, your points, and how close mom is to wakin
+ 100.85  1.00  SCRIPT: Sneakily mess up a rival's job,                              | HEARD: sneakily mess up a rival's job.
+ 103.50  1.00  SCRIPT: but someone may be watching.                                 | HEARD: but someone may be watching.
+ 137.20  1.00  SCRIPT: Saw a sibling mess with your job? Show Mom.                  | HEARD: saw a sibling mess with your job, show mom.
+ 109.05  1.00  SCRIPT: The pets don't help.                                         | HEARD: The pets don't help.
+ 120.30  1.00  SCRIPT: Every clink, crash and bang wakes Mom up a little more.      | HEARD: Every clink, crash, and bang wakes mom up a little more.
+ 123.80  0.89  SCRIPT: MOM: I am getting up. I am really getting up.                | HEARD: I am betting up, I am really getting up.
+ 128.60  1.00  SCRIPT: And when Mom is up, she wants a name.                        | HEARD: And when mom is up, she wants a name.
+ 131.10  1.00  SCRIPT: MOM: Alright... who did this? Show me.                       | HEARD: Alright, who did this? Show me.
+ 134.10  1.00  SCRIPT: Point at a sibling. Or blame the cat.                        | HEARD: point at a sibling or blame the cat.
+ 144.10  1.00  SCRIPT: Then, clean up the evidence.                                 | HEARD: Then clean up the evidence.
+ 150.70  1.00  SCRIPT: When the clock hits zero, the most helpful kid wins.         | HEARD: When the clock hits zero, the most helpful kid wins.
+ 154.10  1.00  SCRIPT: MOM: ...the quietest, most helpful kid in this house. I'm SO | HEARD: The quietest, most helpful kid in this house. I'm so proud. Now everyb
+ 165.30  0.86  SCRIPT: Shhh. Don't wake Mom.                                        | HEARD: Don't wake Mom!
+mean word match 0.97, lines < 0.6: 0

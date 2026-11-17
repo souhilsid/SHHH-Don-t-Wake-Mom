@@ -1,0 +1,294 @@
+Created by you
+44
+
+impeccable
+New
+by you·Use to design, redesign, critique, audit, polish or animate a frontend: websites, landing pages, dashboards, app UI, components, native iOS/Android screens, or a design system (DESIGN.md).
+now
+
+scenario
+New
+Designs & media
++2
+by you·Use when connecting an AI agent to Scenario (scenario.com) through MCP, or when a task involves generating images, video, 3D, audio, sprites, textures, or game assets. Also when picking a Scenario model, running a LoRA, refining a generation prompt, uploading reference images, waiting on generation jobs, checking credits or quota, hitting Scenario auth, scope, or Forbidden errors, or setting up mcp.scenario.com in Claude Code, Cursor, VSCode, or another agent.
+now
+
+scenario-game-assets
+New
+Games
++1
+by you·Use when creating game art through Scenario MCP: sprites, sprite sheets, icons, props, loot, tilesets and autotile terrain transitions, seamless tiles, isometric buildings, top-down maps, pixel art, UI buttons and panels, parallax background layers or depth planes for side-scrollers, and character or concept art; or when assets need transparent backgrounds, background removal, style-consistent variation batches, upscaling, pixel-grid cleanup, or PNG export for Unity, Godot, or Unreal.
+now
+
+scenario-consistency
+New
+Designs & media
+by you·Use when one look must hold across Scenario generations: one character across scenes, a turnaround, or a video animated from its references, one product across angles, one style across icon sets, a character from an uploaded drawing, a variant off an approved baseline, or deciding when references stop scaling and a trained model is due. Triggers: make this match, same character, on-model, reference to video, style reference. Keywords: consistency, identity, control map, seed, LoRA.
+now
+
+scenario-brand-kit
+New
+Design
++1
+by you·Use when building a visual identity or brand kit with Scenario: a logo, wordmark, or icon as editable SVG, a color palette and typography spec, logo variants (mono, reversed, favicon), and brand applications like social templates, avatars, banners, or merchandise mockups. Also for a rebrand or refreshing an existing mark. Keywords: brandkit, brand kit, visual identity, logo, monogram, wordmark, SVG, vectorize, color palette, typography, brand guidelines, brand board, launch kit.
+now
+
+game-ui-ux
+New
+Games
++1
+by you·Design, implement, critique, and refine in-game UI and player UX: HUDs, menus, inventories, loadouts, tactical previews, drafting, progression, and controller navigation. Use for game interface tasks, especially when output looks like a website or dashboard, contains redundant captions, lacks game-specific art direction, or needs complete interaction states. Preserve the game's rules, approved style, engine, and input constraints. Not for game marketing websites, ordinary business apps, or edito
+3m ago
+
+game-ui-design
+New
+Games
++1
+by you·Use when the UI's form is yours to set — a new game, your own shipped game's interface (maintenance, a platform port, a new language), or a mod/overhaul that deliberately replaces a host game's interface with a visual language of its own. Also the default when a brief names a game and a UI surface without saying who owns the form — "HUD for a space game", "inventory screen", "settings menu". Covers aesthetic direction, typography and layout for HUD, menus, inventory, dialogue and onboarding, plu
+3m ago
+
+scenario-unity-ui
+New
+Engineering
++2
+by you·Use when building or fixing game UI in Unity 6.3: main menu, settings screen (resolution, quality, volume, key rebinding), HUD, health bar, minimap frame; choosing uGUI or UI Toolkit or mixing both; 'UI scales wrong on phones', portrait to 4K, Canvas Scaler, anchors, layout groups collapsing, sort order, UXML/USS, data binding, TextMeshPro or UI Toolkit fonts missing glyphs, localized menus, gamepad navigation, UI draw calls, canvas rebuild spikes, UI tests, or capturing UI to check it.
+3m ago
+
+scenario-unity-rendering-lighting
+New
+Engineering
++2
+by you·Use when setting up URP (or choosing URP vs HDRP), configuring URP assets and quality tiers for PC and phones, lighting a stylized or realistic Unity scene (sun, sky, baked or mixed lightmaps, Shadowmask, Adaptive Probe Volumes, reflection probes), or fixing blurry shadows, light leaks, gray bakes, washed-out images, tonemapping and grading, bloom too expensive on mobile, TAA, STP or MSAA choices, GPU Resident Drawer setup, shader warm-up hitches, or a custom shader that vanished or lost its bak
+3m ago
+
+scenario-unity-vfx
+New
+Engineering
++2
+by you·Use when making or fixing real-time VFX in Unity 6.3: explosions, fireballs, projectiles with muzzle, trail and impact, spells, slashes, shockwaves, smoke, sparks, Particle System (Shuriken) or VFX Graph ('VFX Graph explosion', 'particles look bad', 'effect kills fps on mobile', 'too much overdraw'), mesh effects with scrolling textures, an uber VFX shader with LUT ramps, Custom Data and custom vertex streams, flipbooks and VFX textures, pink particles after URP upgrade, VFX budgets and readabil
+3m ago
+
+scenario-unity-shaders
+New
+Engineering
++2
+by you·Use when a Unity 6.3 URP task involves shaders: hand-written HLSL, Shader Graph water, toon, dissolve or outline, Custom Function nodes, a renderer feature or full-screen effect on Render Graph, compute shaders, shader variants, keywords, stripping, Shader Build Settings, PSO warm-up, or shader cost; or when a material turns pink or invisible, casts no shadow, ignores extra lights under Forward+, an effect 'does nothing', the game stutters the first time something appears, or builds bloat with v
+3m ago
+
+scenario-unity-performance
+New
+Engineering
++1
+by you·Use when a Unity 6.3 game is slow or stutters: low fps, frame spikes, hitches when entering areas or on first effects, GC spikes, too many draw calls or SetPass calls, CPU vs GPU bound questions, Profiler, Profile Analyzer, Memory Profiler, Frame Debugger or Project Auditor work, GPU Resident Drawer or SRP Batcher setup, LOD and Mesh LOD, shader warm-up and variants, memory or VRAM budgets, IL2CPP and build size, or proving a fix with numbers from a player.
+3m ago
+
+scenario-unity-world-building
+New
+Engineering
++3
+by you·Use when building a Unity 6.3 level or open world: terrain from code or heightmaps, procedural islands, erosion, splat and foliage rules, trees and grass, ProBuilder graybox, level gym, modular kit and prefab placement, set dressing, landmarks and player guidance, the island's edge, spline roads, WFC, fog, additive scene streaming, or a world that hitches, pops in, leaks memory or runs slow on mobile. Keywords: Terrain, TerrainData, ProBuilder, blockout, graybox, modular kit, NavMesh, LoadSceneA
+3m ago
+
+scenario-unity-animation
+New
+Engineering
++2
+by you·Use when a Unity 6.3 task involves character animation or cameras: Mixamo or mocap humanoid import and retargeting, Animator Controllers, blend trees, layers and avatar masks, root motion, foot sliding, IK and Animation Rigging, Playables, Timeline cutscenes, custom tracks and markers, Cinemachine 3 cameras, camera jitter, flipping blends or cameras hitting walls; or when clips import with no animation, a character T-poses, an idle drifts, feet slide or the head misses its aim target.
+3m ago
+
+ui-ux-pro-max
+New
+Design
++1
+by you·UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 80 searchable styles (51 active), 192 product palettes and reasoning profiles, 74 font pairings, 120 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.
+3m ago
+
+shhh-cozy-urp-lookdev
+New
+Design
++2
+by you·Use for SHHH! Unity 6 URP house look development, cozy-night lighting, skybox, baked lightmaps, post-processing, handmade stylized materials and comparing runtime renders with approved references.
+12m ago
+
+shhh-quest-vfx-shaders
+New
+Designs & media
+by you·Use for SHHH! stylized Shader Graph/HLSL and VR-safe cartoon VFX including whisper waves, Mom suspicion, grab highlights, comic dust and object impact feedback on Meta Quest.
+12m ago
+
+shhh-photon-network-audit
+New
+Games
++2
+by you·Use when inspecting or implementing SHHH! online private 2–4 player co-op/competition and synchronized VR hands, props, chores, sabotage, blame, Mom verdicts, bots and Photon networking.
+12m ago
+
+shhh-livekit-unity-voice
+New
+AI models & agents
++1
+by you·Use when integrating LiveKit voice AI for Mom and sibling bots with Unity Quest game state, optional conversation, physical evidence, and hand-gesture fallbacks.
+12m ago
+
+cartoon-style
+New
+Designs & media
+by you·Cartoon art direction for Blender with squash-stretch readable shapes, bold colors, and graphic silhouettes for games and animation.
+30m ago
+
+stylized-style
+New
+Design
++1
+by you·Stylized art direction for Blender with shape language, exaggeration, color harmony, NPR rendering, and hand-painted asset workflows. Use for non-photorealistic game and animation projects.
+30m ago
+
+cozy-wholesome-mood
+New
+Designs & media
+by you·Cozy, cute, wholesome, relaxing, and peaceful mood direction for Blender assets and scenes.
+30m ago
+
+blender-modeler
+New
+Designs & media
+by you·Core Blender modeling specialist for Edit Mode, modifiers, collections, precision modeling, and scene organization. Use for general 3D modeling, blockouts, cleanup, non-destructive workflows, and scene structure in Blender via MCP.
+30m ago
+
+set-dressing
+New
+Design
++1
+by you·Set dressing and environmental storytelling placement for interiors and exteriors using prop density, narrative clusters, and readability rules via MCP.
+30m ago
+
+prop-artist
+New
+Design
++1
+by you·Everyday and hero prop modeling for furniture, tools, household objects, kitbash parts, and readable game props. Use when hard-surface is too sci-fi/mechanical and the asset is a grounded prop.
+30m ago
+
+environment-artist
+New
+Design
++3
+by you·AAA environment art for modular kits, buildings, terrain, vegetation, architecture, and scene composition. Use for game-optimized environments, storytelling through space, and modular asset pipelines in Blender via MCP.
+30m ago
+
+rigging
+New
+Design
++1
+by you·Production rigging in Blender with armatures, IK/FK, constraints, weight painting, mechanical rigs, facial rigs, and drivers. Use before animation on deforming assets via MCP.
+30m ago
+
+character-artist
+New
+Design
++3
+by you·AAA character modeling for human anatomy, stylization, facial topology, clothing, hair, and animation-ready meshes. Use for game characters, facial expressions, and production character assets in Blender via MCP.
+30m ago
+
+animation
+New
+Designs & media
+by you·Game-ready animation in Blender including walk/run/idle cycles, combat, mechanical animation, camera animation, constraints, Graph Editor, and NLA workflows via MCP.
+30m ago
+
+uv-workflow
+New
+Design
++1
+by you·Production UV unwrapping for seam placement, UV packing, texel density, UDIM, lightmap UVs, and modular UV layouts. Use when preparing meshes for texturing and engine export in Blender via MCP.
+30m ago
+
+retopology
+New
+Design
++1
+by you·Production retopology for animation-ready, low-poly, quad-dominant meshes with proper edge loops and efficient polygon flow. Use after sculpting or high-poly modeling before rigging and UV work in Blender via MCP.
+30m ago
+
+texture-workflow
+New
+Design
++3
+by you·Production texture workflow for atlases, baking AO/curvature/normal/roughness maps, decals, and texture memory optimization. Use for game-ready texture pipelines in Blender via MCP.
+30m ago
+
+materials
+New
+Design
++1
+by you·Blender PBR and stylized material creation for metal, wood, concrete, fabric, glass, dirt, rust, and procedural shaders. Use for look development, material reuse, and production shading in Blender via MCP.
+30m ago
+
+asset-optimization
+New
+Design
++1
+by you·Validates and optimizes Blender assets for polycount, topology, UV efficiency, material count, naming, collections, and game-ready performance. Use before export on all production assets via MCP.
+30m ago
+
+unity-export
+New
+Engineering
++2
+by you·Unity-specific Blender export for scale, axis, materials, humanoid/generic rigs, LODs, and collision import via MCP.
+30m ago
+
+lod-pipeline
+New
+Engineering
++2
+by you·Dedicated LOD generation, naming, screen-size targets, and validation for game meshes in Blender via MCP.
+30m ago
+
+collision-proxy
+New
+Engineering
++2
+by you·Collision proxy authoring for games including UCX/UHX naming, convex hulls, capsules, and simple collider meshes in Blender via MCP.
+30m ago
+
+qa-review
+New
+Product
++2
+by you·Production QA gate for Blender assets using viewport screenshots, validation checklists, naming audits, and ship/no-ship verdicts via MCP.
+30m ago
+
+game-designer
+New
+Design
++3
+by you·Design and review game concepts, mechanics, progression, economies, levels, and encounters; write Concept, Vision, GDD, and feature specs; plan playtests and give course feedback. Use for game-design decisions and artifacts, not engine implementation or generic marketing copy.
+34m ago
+
+blender-game-assets
+New
+Designs & media
++1
+by you·Turn Meshy.ai (or other AI/photogrammetry) models, reference images and concept sheets into game-ready low-poly assets by driving a live Blender over MCP: rebuild props and buildings and bake detail into textures, reduce characters to a budget, prepare Mixamo uploads and fix Mixamo skin weights, or build a model straight from a reference sheet without Meshy; exports FBX or GLB for game engines. Also use for artifact cleanup and texture clarity on already optimized humans and monsters. Use whenev
+34m ago
+
+blender-image-to-3d
+New
+Designs & media
+by you·Build a game-ready 3D asset in Blender from reference images (concept art, photos, turnarounds, sketches, screenshots) for any category, including characters, creatures, architecture, vehicles, props, weapons and environment pieces, through gated phases with rendered evidence compared against the reference. Use this whenever a user supplies or mentions a reference image and wants a 3D model or game asset made from it (modelled, blocked out, sculpted, retopologised, textured, rigged, animated or
+34m ago
+
+remotion-best-practices
+New
+Code
++1
+by you·Use for any work in a Remotion (programmatic React video) project: routes to create, markup, preview in Studio, render, captions and docs.
+Oct 31
+
+remotion-create
+New
+Code
++2
+by you·Use when creating a new Remotion project or a new video/composition: scaffolding, opening Studio preview first, and video-first layout rules.
+Oct 31

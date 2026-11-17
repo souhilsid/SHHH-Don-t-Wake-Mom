@@ -1,0 +1,1138 @@
+{
+  "game": "SHHH! — DON’T WAKE MOM!",
+  "format": "Editable SVG, RGB colors; original 1600x900 perspective artboards",
+  "screen_count": 53,
+  "component_count": 75,
+  "icon_count": 18,
+  "colors": {
+    "navy": "#19183F",
+    "deep": "#0C1331",
+    "yellow": "#FFD65A",
+    "coral": "#FF7769",
+    "teal": "#65C8C5",
+    "purple": "#7958BB",
+    "cream": "#FFF3DD",
+    "ink": "#2A214B",
+    "blue": "#4C91DC",
+    "lavender": "#AD94D3",
+    "wood": "#B97C67",
+    "muted": "#D0C6DB",
+    "ok": "#8FE2AD",
+    "red": "#FF526B",
+    "white": "#FFFFFF"
+  },
+  "design_rules": {
+    "space": "UI diegetic and world-anchored; never permanent head-locked gameplay UI",
+    "menus": "1.3 to 2.0 meters from gaze, within comfortable field of view",
+    "tap_targets": "0.08 to 0.12 meters minimum (test in Quest)",
+    "text": "Large, high contrast; dynamic strings should be TextMeshPro in Unity",
+    "hand_tracking": "Pinch/poke, clear hover/pressed states, tracking-loss fallback",
+    "performance": "SVG editor assets; bake raster/UI meshes where necessary, do not draw every filter dynamically in headset",
+    "competition": "Independent survival; one elimination each round, 4→3→2→1",
+    "music": "No music assumed; household SFX and Mom voice only",
+    "license": "Original SVG artwork generated for this user; approved logo exact raster wrapper is clearly identified."
+  },
+  "screens": [
+    {
+      "id": 1,
+      "filename": "01_launch.svg",
+      "title": "Launch / loading",
+      "category": "entry",
+      "room": "living",
+      "behavior": "Temporary splash; environment loading and tracking health."
+    },
+    {
+      "id": 2,
+      "filename": "02_main_menu.svg",
+      "title": "Main Menu",
+      "category": "entry",
+      "room": "living",
+      "behavior": "Wall-anchored menu, 1.4–1.8m viewer distance; hand poke or pinch, no head-locked overlay."
+    },
+    {
+      "id": 3,
+      "filename": "03_play_mode.svg",
+      "title": "Choose Mode",
+      "category": "entry",
+      "room": "living",
+      "behavior": "Only private online play or solo practice at launch."
+    },
+    {
+      "id": 4,
+      "filename": "04_create_room.svg",
+      "title": "Create Private Room",
+      "category": "multiplayer",
+      "room": "living",
+      "behavior": "Host room creation; no public matchmaking."
+    },
+    {
+      "id": 5,
+      "filename": "05_join_room.svg",
+      "title": "Join With Code",
+      "category": "multiplayer",
+      "room": "living",
+      "behavior": "Six-character private room-code entry and join action."
+    },
+    {
+      "id": 6,
+      "filename": "06_lobby_waiting.svg",
+      "title": "Multiplayer Lobby / waiting",
+      "category": "multiplayer",
+      "room": "living",
+      "behavior": "World-scale remote sibling avatars, room code, voice status and Ready states."
+    },
+    {
+      "id": 7,
+      "filename": "07_lobby_ready.svg",
+      "title": "Multiplayer Lobby / all ready",
+      "category": "multiplayer",
+      "room": "living",
+      "behavior": "3-2-1 start host countdown, synchronized across clients."
+    },
+    {
+      "id": 8,
+      "filename": "08_invite_friends.svg",
+      "title": "Invite Friends / private code",
+      "category": "multiplayer",
+      "room": "living",
+      "behavior": "Invite card is anchored to physical wall, accessible to host."
+    },
+    {
+      "id": 9,
+      "filename": "09_sibling_select.svg",
+      "title": "Sibling Selection",
+      "category": "customization",
+      "room": "living",
+      "behavior": "Life-size avatar, spatial wardrobe options, cosmetics only."
+    },
+    {
+      "id": 10,
+      "filename": "10_outfit_detail.svg",
+      "title": "Outfit Details",
+      "category": "customization",
+      "room": "living",
+      "behavior": "Virtual wardrobe control, no gameplay ability difference."
+    },
+    {
+      "id": 11,
+      "filename": "11_comfort_check.svg",
+      "title": "XR Comfort Calibration",
+      "category": "onboarding",
+      "room": "living",
+      "behavior": "Physical 1.6 m test plate, pinch affordance and comfort choice."
+    },
+    {
+      "id": 12,
+      "filename": "12_mom_opening.svg",
+      "title": "Mom’s Opening Scene",
+      "category": "cinematic",
+      "room": "living",
+      "behavior": "Fully animated Mom in room; world-anchored subtitles, brief skip affordance."
+    },
+    {
+      "id": 13,
+      "filename": "13_rules_intro.svg",
+      "title": "Rules / One Survivor",
+      "category": "onboarding",
+      "room": "living",
+      "behavior": "Narrative warning card; one elimination per round; independent competition."
+    },
+    {
+      "id": 14,
+      "filename": "14_solo_practice.svg",
+      "title": "Solo Practice Room",
+      "category": "practice",
+      "room": "living",
+      "behavior": "Practice grab, place, sleep noise, no elimination."
+    },
+    {
+      "id": 15,
+      "filename": "15_round1_intro.svg",
+      "title": "Round 1 — Living Room",
+      "category": "round_intro",
+      "room": "living",
+      "behavior": "Spatial announcement in room, 3-sec countdown."
+    },
+    {
+      "id": 16,
+      "filename": "16_round1_active.svg",
+      "title": "Round 1 — Active Gameplay",
+      "category": "round_active",
+      "room": "living",
+      "behavior": "No fixed flat HUD; local taskboard, physical clock, bedroom wake cue."
+    },
+    {
+      "id": 17,
+      "filename": "17_task_place_mug.svg",
+      "title": "Task — Return Mug",
+      "category": "task_substate",
+      "room": "living",
+      "behavior": "Object-local grab and placement rings, target exposed on surface."
+    },
+    {
+      "id": 18,
+      "filename": "18_taskboard_open.svg",
+      "title": "Chore Board — Expanded",
+      "category": "task_substate",
+      "room": "living",
+      "behavior": "Physical task board enlarged by approaching it; shared and individual tasks."
+    },
+    {
+      "id": 19,
+      "filename": "19_pet_alert_cat.svg",
+      "title": "Pet Alert — Cat",
+      "category": "pet_substate",
+      "room": "living",
+      "behavior": "Localized cue near pet, no full-screen warning."
+    },
+    {
+      "id": 20,
+      "filename": "20_pet_alert_dog.svg",
+      "title": "Pet Alert — Dog",
+      "category": "pet_substate",
+      "room": "living",
+      "behavior": "Dog may chase squeaky toy, visual cue local to object."
+    },
+    {
+      "id": 21,
+      "filename": "21_mischief_setup.svg",
+      "title": "Sibling Sabotage — Object Trap",
+      "category": "sabotage_substate",
+      "room": "living",
+      "behavior": "Player physically rearranges props; no arbitrary prank button."
+    },
+    {
+      "id": 22,
+      "filename": "22_mischief_spotted.svg",
+      "title": "Prank Detected",
+      "category": "sabotage_substate",
+      "room": "living",
+      "behavior": "Alert appears near rigged object; clear visible counterplay."
+    },
+    {
+      "id": 23,
+      "filename": "23_noise_collision.svg",
+      "title": "Noise Incident — Falling Pan",
+      "category": "noise_substate",
+      "room": "kitchen",
+      "behavior": "Spatial sound waves emerge from collision origin, replayable noise score."
+    },
+    {
+      "id": 24,
+      "filename": "24_mom_stirring.svg",
+      "title": "Mom Stirring — Warning",
+      "category": "mom_state",
+      "room": "living",
+      "behavior": "Drowsy reaction + bedroom light, diegetic wake cue."
+    },
+    {
+      "id": 25,
+      "filename": "25_mom_almost_awake.svg",
+      "title": "Mom Almost Awake",
+      "category": "mom_state",
+      "room": "living",
+      "behavior": "Strong bedroom environmental cue, no eye-locked overlay."
+    },
+    {
+      "id": 26,
+      "filename": "26_mom_investigation.svg",
+      "title": "Mom Investigation",
+      "category": "round_resolution",
+      "room": "living",
+      "behavior": "Mom physical entrance, active gameplay freezes safely, implicated culprit sourced from ledger."
+    },
+    {
+      "id": 27,
+      "filename": "27_incident_evidence.svg",
+      "title": "Incident Evidence",
+      "category": "round_resolution",
+      "room": "living",
+      "behavior": "Causal record presentation, not arbitrary score-based blame."
+    },
+    {
+      "id": 28,
+      "filename": "28_first_elimination.svg",
+      "title": "First Elimination",
+      "category": "round_resolution",
+      "room": "living",
+      "behavior": "One competitor sent to bed, three remain; not a team win."
+    },
+    {
+      "id": 29,
+      "filename": "29_spectator.svg",
+      "title": "Spectator / Bedtime",
+      "category": "spectator",
+      "room": "living",
+      "behavior": "Voice and harmless stickers, no collision, no task or sabotage actions."
+    },
+    {
+      "id": 30,
+      "filename": "30_room_transition.svg",
+      "title": "Room Transition",
+      "category": "transition",
+      "room": "kitchen",
+      "behavior": "Persistent Photon session; Fusion-authoritative scene sync."
+    },
+    {
+      "id": 31,
+      "filename": "31_round2_intro.svg",
+      "title": "Round 2 — Kitchen",
+      "category": "round_intro",
+      "room": "kitchen",
+      "behavior": "Three players; 130 sec; server-authoritative start countdown."
+    },
+    {
+      "id": 32,
+      "filename": "32_round2_active.svg",
+      "title": "Round 2 — Kitchen Gameplay",
+      "category": "round_active",
+      "room": "kitchen",
+      "behavior": "Taskboard, clock, local pet signs, no full-screen HUD."
+    },
+    {
+      "id": 33,
+      "filename": "33_plate_slip.svg",
+      "title": "Kitchen Hazard — Slipping Plates",
+      "category": "task_substate",
+      "room": "kitchen",
+      "behavior": "Physics danger with grip feedback, visual rescue target."
+    },
+    {
+      "id": 34,
+      "filename": "34_kitchen_pet_sabotage.svg",
+      "title": "Kitchen Pet & Sabotage",
+      "category": "sabotage_substate",
+      "room": "kitchen",
+      "behavior": "Rival lures cat with toy; causal blame when inevitable chain starts."
+    },
+    {
+      "id": 35,
+      "filename": "35_quiet_inspection.svg",
+      "title": "Quiet End — Mom Inspects Chores",
+      "category": "round_resolution",
+      "room": "kitchen",
+      "behavior": "Timer expiry or all shared chores complete; lowest contribution eliminated."
+    },
+    {
+      "id": 36,
+      "filename": "36_second_elimination.svg",
+      "title": "Second Elimination",
+      "category": "round_resolution",
+      "room": "kitchen",
+      "behavior": "One eliminated, two proceed to laundry final."
+    },
+    {
+      "id": 37,
+      "filename": "37_round3_intro.svg",
+      "title": "Final Round — Laundry",
+      "category": "round_intro",
+      "room": "laundry",
+      "behavior": "Two remaining siblings; 110 sec final round."
+    },
+    {
+      "id": 38,
+      "filename": "38_round3_active.svg",
+      "title": "Final Round — Laundry Gameplay",
+      "category": "round_active",
+      "room": "laundry",
+      "behavior": "Final round chores, countdown and distant mother cues."
+    },
+    {
+      "id": 39,
+      "filename": "39_final_tiebreak.svg",
+      "title": "Tie Break — Sudden Death",
+      "category": "round_resolution",
+      "room": "laundry",
+      "behavior": "Only if same score and deterministic tiebreaks persist; 20-sec quick task."
+    },
+    {
+      "id": 40,
+      "filename": "40_winner_reveal.svg",
+      "title": "Winner Reveal",
+      "category": "result",
+      "room": "living",
+      "behavior": "Single survivor winner, no team win or currency rewards."
+    },
+    {
+      "id": 41,
+      "filename": "41_family_scoreboard.svg",
+      "title": "Family Scoreboard",
+      "category": "result",
+      "room": "living",
+      "behavior": "Ranking by survival first; chores and attributed noise shown as stats."
+    },
+    {
+      "id": 42,
+      "filename": "42_funny_awards.svg",
+      "title": "Funny Awards",
+      "category": "result",
+      "room": "living",
+      "behavior": "Noncompetitive humorous awards, no XP/currency/chests."
+    },
+    {
+      "id": 43,
+      "filename": "43_chaos_replay.svg",
+      "title": "Chaos Replay",
+      "category": "result",
+      "room": "living",
+      "behavior": "Game-state reconstruction, not actual camera footage, spectator safe."
+    },
+    {
+      "id": 44,
+      "filename": "44_rematch.svg",
+      "title": "Rematch / Same Party",
+      "category": "result",
+      "room": "living",
+      "behavior": "Preserves voice and party, regenerates chores and hazards."
+    },
+    {
+      "id": 45,
+      "filename": "45_pause_menu.svg",
+      "title": "Pause / Personal Menu",
+      "category": "system",
+      "room": "living",
+      "behavior": "Per-player world-anchored pause panel; online match continues for others."
+    },
+    {
+      "id": 46,
+      "filename": "46_settings_audio.svg",
+      "title": "Settings / Audio",
+      "category": "system",
+      "room": "living",
+      "behavior": "SFX, Mom voice, voice chat options; voice chat never affects Mom noise."
+    },
+    {
+      "id": 47,
+      "filename": "47_settings_vr.svg",
+      "title": "VR Comfort Settings",
+      "category": "system",
+      "room": "living",
+      "behavior": "Seated, snap turn, teleport, UI scale; all hand-accessible."
+    },
+    {
+      "id": 48,
+      "filename": "48_hand_tracking_lost.svg",
+      "title": "Hand Tracking Lost",
+      "category": "system",
+      "room": "living",
+      "behavior": "Freeze grab safely; stop locomotion and ask for visible hands."
+    },
+    {
+      "id": 49,
+      "filename": "49_reconnection.svg",
+      "title": "Multiplayer Reconnecting",
+      "category": "system",
+      "room": "living",
+      "behavior": "No input to live physics until network state recovered."
+    },
+    {
+      "id": 50,
+      "filename": "50_invalid_room_code.svg",
+      "title": "Invalid Invite Code",
+      "category": "system",
+      "room": "living",
+      "behavior": "Safe error recovery, join lobby untouched."
+    },
+    {
+      "id": 51,
+      "filename": "51_practice_complete.svg",
+      "title": "Practice Complete",
+      "category": "practice",
+      "room": "living",
+      "behavior": "Invites user to private multiplayer after safe interaction tutorial."
+    },
+    {
+      "id": 52,
+      "filename": "52_privacy_consent.svg",
+      "title": "Voice Chat Permissions",
+      "category": "onboarding",
+      "room": "living",
+      "behavior": "Microphone is optional, mute default if denied. Clear per-user permission."
+    },
+    {
+      "id": 53,
+      "filename": "53_exit_confirm.svg",
+      "title": "Leave Match Confirmation",
+      "category": "system",
+      "room": "living",
+      "behavior": "Destructive exit confirms; spectators and host session handled explicitly."
+    }
+  ],
+  "components": [
+    {
+      "category": "panels",
+      "filename": "components/panels/glass_panel_large.svg",
+      "title": "Large spatial glass panel",
+      "width": 820,
+      "height": 520,
+      "role": "Mounted at comfortable 1.5m distance",
+      "states": "default"
+    },
+    {
+      "category": "panels",
+      "filename": "components/panels/glass_panel_medium.svg",
+      "title": "Medium spatial glass panel",
+      "width": 560,
+      "height": 350,
+      "role": "Floating world-anchored",
+      "states": "default"
+    },
+    {
+      "category": "panels",
+      "filename": "components/panels/glass_panel_compact.svg",
+      "title": "Compact contextual panel",
+      "width": 390,
+      "height": 160,
+      "role": "Only near object or wrist",
+      "states": "default"
+    },
+    {
+      "category": "panels",
+      "filename": "components/panels/wall_choreboard.svg",
+      "title": "Physical household taskboard",
+      "width": 390,
+      "height": 390,
+      "role": "Houseboard, world-space",
+      "states": "default"
+    },
+    {
+      "category": "panels",
+      "filename": "components/panels/glass_dialog.svg",
+      "title": "Glass confirmation dialog",
+      "width": 575,
+      "height": 340,
+      "role": "Confirm risky action",
+      "states": "default"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_play_primary.svg",
+      "title": "PLAY button (primary)",
+      "width": 390,
+      "height": 96,
+      "role": "Hand poke/pinch press, world-space",
+      "states": "primary"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_continue_primary.svg",
+      "title": "CONTINUE button (primary)",
+      "width": 390,
+      "height": 96,
+      "role": "Hand poke/pinch press, world-space",
+      "states": "primary"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_rematch_teal.svg",
+      "title": "REMATCH button (teal)",
+      "width": 390,
+      "height": 96,
+      "role": "Hand poke/pinch press, world-space",
+      "states": "teal"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_back_secondary.svg",
+      "title": "BACK button (secondary)",
+      "width": 390,
+      "height": 96,
+      "role": "Hand poke/pinch press, world-space",
+      "states": "secondary"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_exit_danger.svg",
+      "title": "EXIT button (danger)",
+      "width": 390,
+      "height": 96,
+      "role": "Hand poke/pinch press, world-space",
+      "states": "danger"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_unavailable_disabled.svg",
+      "title": "UNAVAILABLE button (disabled)",
+      "width": 390,
+      "height": 96,
+      "role": "Hand poke/pinch press, world-space",
+      "states": "disabled"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_state_default.svg",
+      "title": "Button state: default",
+      "width": 410,
+      "height": 110,
+      "role": "Hand interaction visual state",
+      "states": "default"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_state_hover.svg",
+      "title": "Button state: hover",
+      "width": 410,
+      "height": 110,
+      "role": "Hand interaction visual state",
+      "states": "hover"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_state_pressed.svg",
+      "title": "Button state: pressed",
+      "width": 410,
+      "height": 110,
+      "role": "Hand interaction visual state",
+      "states": "pressed"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/button_state_disabled.svg",
+      "title": "Button state: disabled",
+      "width": 410,
+      "height": 110,
+      "role": "Hand interaction visual state",
+      "states": "disabled"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/icon_button_pause.svg",
+      "title": "Pause icon button",
+      "width": 100,
+      "height": 100,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/toggle_enabled.svg",
+      "title": "Toggle ON",
+      "width": 158,
+      "height": 78,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/toggle_disabled.svg",
+      "title": "Toggle OFF",
+      "width": 158,
+      "height": 78,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/slider_sound.svg",
+      "title": "Audio slider",
+      "width": 404,
+      "height": 85,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "buttons",
+      "filename": "components/buttons/room_stepper.svg",
+      "title": "Room player-count stepper",
+      "width": 500,
+      "height": 100,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/logo_main_menu.svg",
+      "title": "Main menu logo emblem",
+      "width": 470,
+      "height": 520,
+      "role": "World mounted logo; transparent true vector recreation",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/main_menu_board.svg",
+      "title": "Main spatial menu",
+      "width": 600,
+      "height": 660,
+      "role": "Main physical living-room board",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/private_room_code.svg",
+      "title": "Invite code tile",
+      "width": 485,
+      "height": 185,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/player_slot_ready.svg",
+      "title": "Player ready tile",
+      "width": 275,
+      "height": 153,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/player_slot_waiting.svg",
+      "title": "Empty player tile",
+      "width": 275,
+      "height": 153,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/player_nameplate.svg",
+      "title": "Floating avatar nameplate",
+      "width": 285,
+      "height": 100,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/ready_countdown.svg",
+      "title": "Ready start number",
+      "width": 160,
+      "height": 160,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/tab_active.svg",
+      "title": "Active spatial tab",
+      "width": 232,
+      "height": 90,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/tab_inactive.svg",
+      "title": "Inactive spatial tab",
+      "width": 232,
+      "height": 90,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/wardrobe_swatch.svg",
+      "title": "Wardrobe color swatch",
+      "width": 120,
+      "height": 120,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "navigation",
+      "filename": "components/navigation/scene_arrow_forward.svg",
+      "title": "Proceed to next room",
+      "width": 110,
+      "height": 100,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/sleep_meter_calm.svg",
+      "title": "Mom sleep meter calm",
+      "width": 347,
+      "height": 119,
+      "role": "Anchored near bedroom, only when inspected",
+      "states": "calm"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/sleep_meter_suspicious.svg",
+      "title": "Mom sleep meter suspicious",
+      "width": 347,
+      "height": 119,
+      "role": "Anchored near bedroom",
+      "states": "suspicious"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/sleep_meter_alarm.svg",
+      "title": "Mom sleep meter alarm",
+      "width": 347,
+      "height": 119,
+      "role": "Anchored near bedroom",
+      "states": "alarm"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/physical_clock.svg",
+      "title": "Clock timer",
+      "width": 210,
+      "height": 111,
+      "role": "Physical timer in-room, no head-lock",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/chore_task_available.svg",
+      "title": "Available task row",
+      "width": 540,
+      "height": 90,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/chore_task_completed.svg",
+      "title": "Completed task row",
+      "width": 540,
+      "height": 90,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/bonus_task.svg",
+      "title": "Individual bonus chore",
+      "width": 600,
+      "height": 128,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/contribution_card.svg",
+      "title": "Player chore contribution",
+      "width": 530,
+      "height": 158,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/target_place_ring.svg",
+      "title": "Place object target ring",
+      "width": 250,
+      "height": 120,
+      "role": "World-positioned on tabletop",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/grab_hand_highlight.svg",
+      "title": "Hand grab cue",
+      "width": 150,
+      "height": 150,
+      "role": "Appears at hand-target proximity",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/task_complete_local.svg",
+      "title": "Task complete feedback",
+      "width": 378,
+      "height": 112,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/round_banner_living.svg",
+      "title": "Round banner living room",
+      "width": 520,
+      "height": 172,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/round_banner_kitchen.svg",
+      "title": "Round banner kitchen",
+      "width": 520,
+      "height": 172,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "gameplay",
+      "filename": "components/gameplay/round_banner_final.svg",
+      "title": "Round banner final",
+      "width": 520,
+      "height": 172,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/noise_ring_small.svg",
+      "title": "Noise propagation wave small",
+      "width": 230,
+      "height": 230,
+      "role": "At source of collision",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/noise_ring_medium.svg",
+      "title": "Noise propagation medium",
+      "width": 260,
+      "height": 260,
+      "role": "Object-local event",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/noise_ring_large.svg",
+      "title": "Noise propagation burst",
+      "width": 322,
+      "height": 322,
+      "role": "Dangerous impact",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/noise_warning_tag.svg",
+      "title": "Noise +28 tag",
+      "width": 382,
+      "height": 116,
+      "role": "At impact origin, short display",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/prank_clue.svg",
+      "title": "Mischief trap visual clue",
+      "width": 426,
+      "height": 123,
+      "role": "Visible counterplay near object",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/pet_warning_cat.svg",
+      "title": "Mochi pet warning",
+      "width": 480,
+      "height": 120,
+      "role": "Appears near cat",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/pet_warning_dog.svg",
+      "title": "Biscuit pet warning",
+      "width": 480,
+      "height": 120,
+      "role": "Appears near dog",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/mom_stir_notice.svg",
+      "title": "Mom stirring hint",
+      "width": 452,
+      "height": 120,
+      "role": "Diegetic bedroom cue",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/mom_about_to_wake.svg",
+      "title": "Mom near wake notice",
+      "width": 500,
+      "height": 120,
+      "role": "Short-lived in-world cue",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/glass_tooltip.svg",
+      "title": "Tool tip",
+      "width": 423,
+      "height": 109,
+      "role": "Object-local help",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/sticker_shhh.svg",
+      "title": "Spectator SHHH sticker",
+      "width": 194,
+      "height": 170,
+      "role": "Harmless spectator reaction",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/sticker_oh_no.svg",
+      "title": "Spectator oh no sticker",
+      "width": 194,
+      "height": 170,
+      "role": "Harmless spectator reaction",
+      "states": "default"
+    },
+    {
+      "category": "effects",
+      "filename": "components/effects/sticker_clap.svg",
+      "title": "Spectator clap sticker",
+      "width": 194,
+      "height": 170,
+      "role": "Harmless spectator reaction",
+      "states": "default"
+    },
+    {
+      "category": "mom",
+      "filename": "components/mom/investigation_glass.svg",
+      "title": "Mom investigation banner",
+      "width": 700,
+      "height": 225,
+      "role": "Anchored inside level during scripted reaction",
+      "states": "default"
+    },
+    {
+      "category": "mom",
+      "filename": "components/mom/culprit_evidence.svg",
+      "title": "Culprit evidence card",
+      "width": 560,
+      "height": 267,
+      "role": "Host-authoritative blame result",
+      "states": "default"
+    },
+    {
+      "category": "mom",
+      "filename": "components/mom/inspection_card.svg",
+      "title": "Quiet inspection card",
+      "width": 565,
+      "height": 304,
+      "role": "When no player wakes Mom",
+      "states": "default"
+    },
+    {
+      "category": "mom",
+      "filename": "components/mom/elimination_banner.svg",
+      "title": "Elimination banner",
+      "width": 590,
+      "height": 251,
+      "role": "One elimination per round",
+      "states": "default"
+    },
+    {
+      "category": "mom",
+      "filename": "components/mom/sleeping_door_sign.svg",
+      "title": "Sleeping door warning sign",
+      "width": 223,
+      "height": 134,
+      "role": "Bedroom door diegetic prop",
+      "states": "default"
+    },
+    {
+      "category": "mom",
+      "filename": "components/mom/mom_danger_marker.svg",
+      "title": "Mom wake danger ring",
+      "width": 224,
+      "height": 224,
+      "role": "World-anchored above bedroom",
+      "states": "default"
+    },
+    {
+      "category": "results",
+      "filename": "components/results/winner_plaque.svg",
+      "title": "Winner plaque",
+      "width": 756,
+      "height": 323,
+      "role": "Winner title in room",
+      "states": "default"
+    },
+    {
+      "category": "results",
+      "filename": "components/results/ranking_row.svg",
+      "title": "Results rank row",
+      "width": 700,
+      "height": 115,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "results",
+      "filename": "components/results/award_medal.svg",
+      "title": "Funny award",
+      "width": 435,
+      "height": 174,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "results",
+      "filename": "components/results/replay_scrubber.svg",
+      "title": "Chaos replay time scrubber",
+      "width": 600,
+      "height": 110,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "results",
+      "filename": "components/results/rematch_choices.svg",
+      "title": "Rematch action board",
+      "width": 603,
+      "height": 340,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "system",
+      "filename": "components/system/disconnect_alert.svg",
+      "title": "Connection warning",
+      "width": 570,
+      "height": 236,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "system",
+      "filename": "components/system/tracking_alert.svg",
+      "title": "Hand tracking lost",
+      "width": 570,
+      "height": 236,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "system",
+      "filename": "components/system/privacy_mic.svg",
+      "title": "Microphone permission panel",
+      "width": 582,
+      "height": 280,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "system",
+      "filename": "components/system/mute_indicator.svg",
+      "title": "Muted microphone state",
+      "width": 120,
+      "height": 120,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "system",
+      "filename": "components/system/latency_badge.svg",
+      "title": "Network latency badge",
+      "width": 260,
+      "height": 97,
+      "role": "",
+      "states": "default"
+    },
+    {
+      "category": "system",
+      "filename": "components/system/voice_chat_active.svg",
+      "title": "Voice chat active indicator",
+      "width": 282,
+      "height": 105,
+      "role": "",
+      "states": "default"
+    }
+  ]
+}

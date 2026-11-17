@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="485" height="185" viewBox="0 0 485 185" role="img"><title>Invite code tile — SHHH! UI</title><defs>
+ <linearGradient id="room" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2A2D61"/><stop offset=".52" stop-color="#514673"/><stop offset="1" stop-color="#846A7C"/></linearGradient>
+ <linearGradient id="floor" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#9F7481"/><stop offset="1" stop-color="#3A2C55"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39486F" stop-opacity=".93"/><stop offset=".43" stop-color="#26385D" stop-opacity=".87"/><stop offset="1" stop-color="#171F43" stop-opacity=".94"/></linearGradient>
+ <linearGradient id="glassLite" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7081A8" stop-opacity=".48"/><stop offset="1" stop-color="#273350" stop-opacity=".71"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF0A5"/><stop offset=".45" stop-color="#FFD65A"/><stop offset="1" stop-color="#FFAF42"/></linearGradient>
+ <linearGradient id="coral" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#FFAC8A"/><stop offset="1" stop-color="#FF5B6E"/></linearGradient>
+ <linearGradient id="teal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#A1F3E3"/><stop offset="1" stop-color="#53B9BD"/></linearGradient>
+ <linearGradient id="moonSky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#1A235C"/><stop offset="1" stop-color="#3779A4"/></linearGradient>
+ <linearGradient id="wallwood" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#D8A184"/><stop offset="1" stop-color="#A46C63"/></linearGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="200%"><feGaussianBlur stdDeviation="15"/></filter>
+ <filter id="smallShadow" x="-30%" y="-30%" width="170%" height="170%"><feGaussianBlur stdDeviation="5"/></filter>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7"/></filter>
+ <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+ <radialGradient id="halo"><stop stop-color="#FFD65A" stop-opacity=".39"/><stop offset="1" stop-color="#FFD65A" stop-opacity="0"/></radialGradient>
+ </defs><rect x="31" y="36" width="450" height="148" rx="23" fill="#090E24" stroke="none" stroke-width="1" opacity="0.5" filter="url(#shadow)"/><rect x="17" y="17" width="450" height="148" rx="23" fill="url(#glass)" stroke="#EFF7FF" stroke-width="2" opacity="0.96" /><rect x="20" y="20" width="444" height="142" rx="21" fill="none" stroke="#A8E9F0" stroke-width="1" opacity="0.32" /><path d="M40 24 H444" stroke="#FFFFFF" opacity=".20" stroke-width="3" stroke-linecap="round"/><rect x="44" y="38" width="100" height="5" rx="3" fill="#65C8C5" stroke="none" stroke-width="1" opacity="0.92" /><text x="241" y="61" font-size="16" fill="#D0C6DB" font-family="'Trebuchet MS','DejaVu Sans',Arial,sans-serif" font-weight="800" text-anchor="middle" letter-spacing="0" opacity="1">INVITE CODE</text><text x="241" y="119" font-size="47" fill="#FFD65A" font-family="'Trebuchet MS','DejaVu Sans',Arial,sans-serif" font-weight="800" text-anchor="middle" letter-spacing="0" opacity="1">SHH123</text></svg>

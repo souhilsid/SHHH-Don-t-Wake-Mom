@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<title>SHHH! shushing finger compact symbol</title>
+<defs>
+<linearGradient id="badge" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#FFD95A"/><stop offset="1" stop-color="#FFAF13"/></linearGradient>
+<linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B56AE1"/><stop offset="1" stop-color="#58217B"/></linearGradient>
+</defs>
+<path d="M256 20 C388 20 493 127 493 258 C493 388 384 491 256 491 C126 491 19 385 19 256 C19 127 124 20 256 20Z" fill="#261239" stroke="#70409F" stroke-width="18"/>
+<path d="M256 52 C369 52 460 142 460 257 C460 371 370 460 256 460 C141 460 52 369 52 257 C52 143 141 52 256 52Z" fill="url(#badge)" stroke="#F45F73" stroke-width="23" />
+<!-- icon simplified into a distinct upright shush hand -->
+<path d="M194 345 C166 312 162 276 176 259 C190 242 206 251 226 275 L225 140 C225 114 238 99 259 100 C281 101 289 117 289 140 L288 224 C301 204 325 204 341 218 C359 215 376 229 381 248 C401 255 401 278 389 305 L355 381 C345 399 325 412 302 412 L236 412 C213 412 201 387 194 345Z" fill="#261239"/>
+<path d="M238 139 C238 115 275 115 276 140 L276 255" fill="none" stroke="#FFF0BA" stroke-width="8" stroke-linecap="round"/>
+<path d="M198 234 Q257 221 314 235" fill="none" stroke="#FFF0BA" stroke-width="13" stroke-linecap="round" opacity=".88"/>
+<path d="M166 228 Q135 209 123 181 M161 265 Q126 269 111 275" stroke="#261239" stroke-width="16" fill="none" stroke-linecap="round"/>
+</svg>

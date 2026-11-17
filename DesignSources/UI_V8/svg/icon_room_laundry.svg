@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon room_laundry</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70,34 H186 Q208,34 208,56 V204 Q208,226 186,226 H70 Q48,226 48,204 V56 Q48,34 70,34Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M48,82 H208" fill="none" stroke="#261239" stroke-width="38"/>
+<path d="M76,152 a52,52 0 1,0 104,0 a52,52 0 1,0 -104,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M96,152 C112,136 144,168 160,152" fill="none" stroke="#261239" stroke-width="38"/>
+<path d="M70,58 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M96,58 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M70,34 H186 Q208,34 208,56 V204 Q208,226 186,226 H70 Q48,226 48,204 V56 Q48,34 70,34Z" fill="#FFF8E8"/>
+<path d="M48,82 H208" fill="none" stroke="#261239" stroke-width="10"/>
+<path d="M76,152 a52,52 0 1,0 104,0 a52,52 0 1,0 -104,0Z" fill="#9ED9D6"/>
+<path d="M96,152 C112,136 144,168 160,152" fill="none" stroke="#FFF8E8" stroke-width="10"/>
+<path d="M70,58 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0Z" fill="#261239"/>
+<path d="M96,58 a8,8 0 1,0 16,0 a8,8 0 1,0 -16,0Z" fill="#261239"/>
+</g></svg>

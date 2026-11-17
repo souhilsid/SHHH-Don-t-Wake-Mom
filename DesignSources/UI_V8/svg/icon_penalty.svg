@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon penalty</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M42,128 H214 Q228,128 228,142 V166 Q228,180 214,180 H42 Q28,180 28,166 V142 Q28,128 42,128Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M38,96 H48 Q58,96 58,106 V198 Q58,208 48,208 H38 Q28,208 28,198 V106 Q28,96 38,96Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M74,110 H102 Q114,110 114,122 V124 Q114,136 102,136 H74 Q62,136 62,124 V122 Q62,110 74,110Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M140,40 H176 L140,82 H176 M186,24 H210 L186,52 H210" fill="none" stroke="#261239" stroke-width="40"/>
+<path d="M42,128 H214 Q228,128 228,142 V166 Q228,180 214,180 H42 Q28,180 28,166 V142 Q28,128 42,128Z" fill="#70409F"/>
+<path d="M38,96 H48 Q58,96 58,106 V198 Q58,208 48,208 H38 Q28,208 28,198 V106 Q28,96 38,96Z" fill="#FFF8E8"/>
+<path d="M74,110 H102 Q114,110 114,122 V124 Q114,136 102,136 H74 Q62,136 62,124 V122 Q62,110 74,110Z" fill="#FFF8E8"/>
+<path d="M140,40 H176 L140,82 H176 M186,24 H210 L186,52 H210" fill="none" stroke="#FFF0BA" stroke-width="12"/>
+</g></svg>

@@ -1,0 +1,23 @@
+Test ID,Category,Scenario,Expected result,Priority
+T01,Quest XR,Start APK without controllers,Working hand tracking menu and safe scene load,Blocker
+T02,Locomotion,Manipulate item while moving,No accidental movement on ordinary grab,Blocker
+T03,Locomotion,Use hand locomotion teleport snap turn,All hand only and comfort-safe,Blocker
+T04,Tasks,Two players complete one shared chore,Contribution is split by verified work,High
+T05,Tasks,Repeatedly reset same object,No repeated score farming,High
+T06,Noise,Drop a pan near bedroom,Correct noise event and wake trigger,Blocker
+T07,Blame,Setter creates unavoidable trap,Trap setter eliminated,Blocker
+T08,Blame,Player ignores readable safe countermeasure,Careless actor responsible if causal record supports,Blocker
+T09,Pets,Cat knocks vase unaided,No innocent player eliminated,Blocker
+T10,Pets,Dog lured by player's toy triggers crash,Attributed to provoker if chain clear,High
+T11,Round,Quiet shared chores finish,Mom inspects and lowest scoring sibling eliminated,Blocker
+T12,Round,Timer reaches zero with incomplete chores,Mom inspects and lowest score eliminated,Blocker
+T13,Round,Four players full match,Exactly 4 to 3 to 2 to 1,Blocker
+T14,Network,Living room to kitchen transition,Party voice score and avatar state persist,Blocker
+T15,Network,Host leaves mid round,Controlled exit or tested migration no soft lock,Blocker
+T16,Network,Second client manipulates prop,Host authoritative collision and scoring,Blocker
+T17,Spectator,Eliminated player tries to grab an item,No physics or scoring effect,High
+T18,Accessibility,Hand tracking loses sight of held object,Object stabilizes without uncontrolled throw,High
+T19,Audio,Voice chat loud while no in-game collisions,Mom noise score unchanged,Blocker
+T20,UX,All major menus in Quest,Spatial English-only hand-operable UI,High
+T21,Performance,Four avatars and two pets in active room,Stable Quest frame rate target after profiling,Blocker
+T22,Rematch,Complete match then rematch,Same party new tasks reset scores/objects,High

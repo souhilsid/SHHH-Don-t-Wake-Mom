@@ -1,0 +1,47 @@
+deliverable,shot_id,source_id,source_file,in,out,dur_s,content,strength_1to5,status,notes
+TRAILER,A1,F04,com.oculus.vrshell-20261111-170037-0.mp4,3:58.60,4:02.00,3.4,"night living room, TV, sibling (Nov 11 build, night lighting)",4,USED,trailer 0:01.40; zoom 1.2->1.27 top-anchored crop (hides dev HUD strip)
+TRAILER,A2,F04,com.oculus.vrshell-20261111-170037-0.mp4,4:05.00,4:08.30,3.3,stairs + balcony under the night sky,4,USED,trailer 0:04.80; zoom 1.22->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,A3,F07,com.oculus.vrshell-20261117-122141-0.mp4,2:23.50,2:26.50,3.0,"warm living room, lamp, bookshelf",3,USED,trailer 0:08.10; zoom 1.24->1.3 top-anchored crop (hides dev HUD strip)
+TRAILER,A4,F07,com.oculus.vrshell-20261117-122141-0.mp4,3:42.40,3:45.40,3.0,the dog asleep in its bed,4,USED,trailer 0:11.10; zoom 1.24->1.3 top-anchored crop (hides dev HUD strip)
+TRAILER,A5,F07,com.oculus.vrshell-20261117-122141-0.mp4,0:36.00,0:39.00,3.0,Genies wardrobe - your look,3,USED,trailer 0:14.10; zoom 1.12->1.18 top-anchored crop (hides dev HUD strip)
+TRAILER,A6,F07,com.oculus.vrshell-20261117-122141-0.mp4,9:11.60,9:14.80,3.2,"bot siblings walking down the hall, the cat",3,USED,trailer 0:17.10; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C1,F07,com.oculus.vrshell-20261117-122141-0.mp4,5:08.00,5:10.30,2.3,pair the slippers,4,USED,trailer 0:21.80; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C2,F04,com.oculus.vrshell-20261111-170037-0.mp4,3:15.00,3:17.20,2.2,"mugs onto the tray, coasters",3,USED,trailer 0:24.10; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C3,F07,com.oculus.vrshell-20261117-122141-0.mp4,8:04.00,8:06.20,2.2,fold the towels,3,USED,trailer 0:26.30; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C4,F06,com.oculus.vrshell-20261115-170859-0.mp4,4:08.00,4:10.30,2.3,scrub the plates,3,USED,trailer 0:28.50; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C5,F07,com.oculus.vrshell-20261117-122141-0.mp4,1:39.00,1:41.00,2.0,kitchen table jobs,3,USED,trailer 0:30.80; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C6,F07,com.oculus.vrshell-20261117-122141-0.mp4,10:45.00,10:47.00,2.0,the washing machine,3,USED,trailer 0:32.80; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,R1,F07,com.oculus.vrshell-20261117-122141-0.mp4,5:57.00,5:59.30,2.3,house map on the wrist,3,USED,trailer 0:34.80; zoom 1.1->1.16 top-anchored crop (hides dev HUD strip)
+TRAILER,R2,F07,com.oculus.vrshell-20261117-122141-0.mp4,9:24.00,9:26.20,2.2,"kitchen, siblings at work",3,USED,trailer 0:37.10; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,R3,F07,com.oculus.vrshell-20261117-122141-0.mp4,8:12.00,8:14.20,2.2,laundry room,3,USED,trailer 0:39.30; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,R4,F07,com.oculus.vrshell-20261117-122141-0.mp4,6:38.60,6:41.00,2.4,finger-gun hop across the living room,3,USED,trailer 0:41.50; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,C7,F05,com.oculus.vrshell-20261112-170302-0.mp4,2:03.00,2:09.60,6.6,practice: carry the book... it drops (two real noise bursts at +5.05 s and +5.95 s),5,USED,trailer 0:45.40; zoom 1.24->1.3 top-anchored crop (hides dev HUD strip)
+TRAILER,D1,F07,com.oculus.vrshell-20261117-122141-0.mp4,2:35.60,2:37.90,2.3,MEOWS warning by the armchair,4,USED,trailer 0:52.00; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,D2,F07,com.oculus.vrshell-20261117-122141-0.mp4,6:00.20,6:02.20,2.0,"WOOF warning, dog bowl",4,USED,trailer 0:54.30; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,D3,F07,com.oculus.vrshell-20261117-122141-0.mp4,2:51.40,2:53.70,2.3,a sibling with a book: 'is somebody... rattling?',4,USED,trailer 0:56.30; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,D4,F07,com.oculus.vrshell-20261117-122141-0.mp4,4:46.90,4:48.50,1.6,red noise ring on the slipper board,4,USED,trailer 0:58.60; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,D5,F07,com.oculus.vrshell-20261117-122141-0.mp4,10:49.00,10:50.80,1.8,red noise ring at the washer,4,USED,trailer 1:00.20; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,D6,F07,com.oculus.vrshell-20261117-122141-0.mp4,5:47.50,5:49.50,2.0,wrist: Mom is suspicious,4,USED,trailer 1:02.00; zoom 1.1->1.16 top-anchored crop (hides dev HUD strip)
+TRAILER,D7,F04,com.oculus.vrshell-20261111-170037-0.mp4,4:13.00,4:15.30,2.3,wrist: MOM IS UP -20 PTS,4,USED,trailer 1:04.00; zoom 1.1->1.16 top-anchored crop (hides dev HUD strip)
+TRAILER,D8,F07,com.oculus.vrshell-20261117-122141-0.mp4,4:51.20,4:53.80,2.6,'MOM IS UP! She heard the dog barking...',5,USED,trailer 1:06.30; zoom 1.08->1.12 top-anchored crop (hides dev HUD strip)
+TRAILER,S1,F07,com.oculus.vrshell-20261117-122141-0.mp4,7:44.50,7:46.70,2.2,a sibling at the kitchen counter,3,USED,trailer 1:08.90; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,S2,F06,com.oculus.vrshell-20261115-170859-0.mp4,5:31.00,5:33.30,2.3,a sibling by the dog bed,3,USED,trailer 1:11.10; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,E1,F07,com.oculus.vrshell-20261117-122141-0.mp4,11:18.40,11:21.40,3.0,final inspection: Mom is checking everyone's jobs,3,USED,trailer 1:14.90; zoom 1.24->1.28 top-anchored crop (hides dev HUD strip)
+TRAILER,E2,F07,com.oculus.vrshell-20261117-122141-0.mp4,11:26.20,11:29.40,3.2,MOM: Who messed with Nell's job?,5,USED,trailer 1:17.90; zoom 1.06->1.12 top-anchored crop (hides dev HUD strip)
+TRAILER,E3,F06,com.oculus.vrshell-20261115-170859-0.mp4,7:48.50,7:50.70,2.2,MOM: Who messed with Tess's job?,4,USED,trailer 1:21.10; zoom 1.06->1.12 top-anchored crop (hides dev HUD strip)
+TRAILER,E4,F07,com.oculus.vrshell-20261117-122141-0.mp4,11:42.60,11:47.20,4.6,results: TESS WINS (bot) - you 2nd,5,USED,trailer 1:23.30; zoom 1.04->1.12 top-anchored crop (hides dev HUD strip)
+TRAILER,E5,F07,com.oculus.vrshell-20261117-122141-0.mp4,2:18.60,2:21.60,3.0,living room wide,3,USED,trailer 1:27.90; zoom 1.24->1.3 top-anchored crop (hides dev HUD strip)
+TRAILER,E6,F04,com.oculus.vrshell-20261111-170037-0.mp4,4:00.40,4:03.60,3.2,night living room,3,USED,trailer 1:30.90; zoom 1.2->1.27 top-anchored crop (hides dev HUD strip)
+WALKTHROUGH,W01,F07,com.oculus.vrshell-20261117-122141-0.mp4,0:20.6,0:59.6,39.0,"Pick a mode, Genies wardrobe",5,USED,unaltered picture + original audio
+WALKTHROUGH,W02,F06,com.oculus.vrshell-20261115-170859-0.mp4,0:59.6,2:13.0,73.4,"Settings, How to win, Practice",5,USED,unaltered picture + original audio
+WALKTHROUGH,W03,F05,com.oculus.vrshell-20261112-170302-0.mp4,2:01.5,2:14.0,12.5,"Practice book drop, noise burst",5,USED,unaltered picture + original audio
+WALKTHROUGH,W04,F07,com.oculus.vrshell-20261117-122141-0.mp4,1:00.0,11:54.0,654.0,Solo 10-min match uncut through results,5,USED,unaltered picture + original audio
+WALKTHROUGH,W05,F06,com.oculus.vrshell-20261115-170859-0.mp4,2:17.0,8:11.0,354.0,Solo 5-min match (Nov 15 build) through results,5,USED,unaltered picture + original audio
+WALKTHROUGH,W06,F07,com.oculus.vrshell-20261117-122141-0.mp4,11:54.0,12:09.6,15.6,"Play with friends: create room, bots fill seats",5,USED,unaltered picture + original audio
+CANDIDATE,X01,F07,com.oculus.vrshell-20261117-122141-0.mp4,2:28.0,2:29.0,,camera inside the floor lamp (head in prop),1,REJECTED,unreadable close-up; replaced by A3 2:23.5
+CANDIDATE,X02,F07,com.oculus.vrshell-20261117-122141-0.mp4,1:54.0,1:58.0,,view inside a door frame / wall,1,REJECTED,the known head-in-wall issue (fixed in c22) - not representative
+CANDIDATE,X03,F07,com.oculus.vrshell-20261117-122141-0.mp4,10:51.0,11:12.0,,washer with Quest boundary lines across the view,1,REJECTED for trailer,Quest guardian lines fill the frame; kept only 1.8 s (D5) for the red noise ring
+CANDIDATE,X04,F07,com.oculus.vrshell-20261117-122141-0.mp4,0:12.0,0:20.0,,"8 s dark, silent load",1,REJECTED,not gameplay
+CANDIDATE,X05,F02,F02,0:00,2:35,,early-alpha pink house,1,REJECTED,superseded art
+CANDIDATE,X06,F08,F08,0:00,0:40,,"pre-production animation test (Mom wakes, opens door)",1,EXCLUDED,not gameplay and not the current art - would misrepresent the game
+CANDIDATE,X07,F07,com.oculus.vrshell-20261117-122141-0.mp4,11:57.0,12:09.0,,Play with friends room (bots fill seats),1,WALKTHROUGH ONLY,"not in trailer: online multiplayer is not yet verified across regions (c21 findings), so the trailer makes no multiplayer claim"

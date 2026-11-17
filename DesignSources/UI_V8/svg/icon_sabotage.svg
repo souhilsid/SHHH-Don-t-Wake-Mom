@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon sabotage</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M70,58 L150,46 L162,128 C164,146 150,158 134,160 L106,164 C90,166 76,156 74,138Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M120,170 C150,176 210,168 226,196 C214,220 150,222 110,214 C80,208 84,176 120,170Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M176,120 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M199,146 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M40,96 L56,104 M36,128 L54,128" fill="none" stroke="#261239" stroke-width="38"/>
+<path d="M70,58 L150,46 L162,128 C164,146 150,158 134,160 L106,164 C90,166 76,156 74,138Z" fill="#9ED9D6"/>
+<path d="M120,170 C150,176 210,168 226,196 C214,220 150,222 110,214 C80,208 84,176 120,170Z" fill="#9ED9D6"/>
+<path d="M176,120 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0Z" fill="#9ED9D6"/>
+<path d="M199,146 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0Z" fill="#9ED9D6"/>
+<path d="M40,96 L56,104 M36,128 L54,128" fill="none" stroke="#FFCF2E" stroke-width="10"/>
+</g></svg>

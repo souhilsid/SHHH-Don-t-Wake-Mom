@@ -1,0 +1,12 @@
+{
+    "name": "SHHH.Genies",
+    "rootNamespace": "SHHH.Genies",
+    "references": ["SHHH.Game", "SHHH.Core", "Oculus.VR", "Genies.Sdk.Avatar", "Genies.Sdk.Core", "UniTask", "Unity.TextMeshPro", "Unity.RenderPipelines.Universal.Runtime"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}

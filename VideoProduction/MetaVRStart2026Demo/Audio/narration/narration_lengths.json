@@ -1,0 +1,121 @@
+{
+ "voice": "am_michael",
+ "model": "kokoro-v1.0.onnx",
+ "lines": {
+  "D01": {
+   "text": "Welcome to Shhh! Don't Wake Mom.",
+   "speed": 0.95,
+   "sec": 3.231
+  },
+  "D02": {
+   "text": "Four siblings. One sleeping Mom. A whole house of chores.",
+   "speed": 0.97,
+   "sec": 3.874
+  },
+  "D03": {
+   "text": "Pick your look.",
+   "speed": 0.95,
+   "sec": 0.851
+  },
+  "D04": {
+   "text": "Then play solo against bot siblings, or open a room and play with a friend online.",
+   "speed": 1.0,
+   "sec": 5.493
+  },
+  "D05": {
+   "text": "Every job is hands-on.",
+   "speed": 0.95,
+   "sec": 1.605
+  },
+  "D06": {
+   "text": "Press the toy chest open, and sort the blocks by colour.",
+   "speed": 0.98,
+   "sec": 3.342
+  },
+  "D07": {
+   "text": "Pump soap onto the sponge,",
+   "speed": 0.98,
+   "sec": 1.476
+  },
+  "D08": {
+   "text": "hold the plate, and scrub until it's actually clean.",
+   "speed": 0.98,
+   "sec": 3.327
+  },
+  "D09": {
+   "text": "Open the fridge by its handle. Groceries go on the shelves.",
+   "speed": 1.0,
+   "sec": 3.667
+  },
+  "D10": {
+   "text": "Lift the bin lid. In goes the trash.",
+   "speed": 0.98,
+   "sec": 2.518
+  },
+  "D11": {
+   "text": "Hold the blanket with one hand, and rub with the other to fold it.",
+   "speed": 1.0,
+   "sec": 3.805
+  },
+  "D12": {
+   "text": "Hop from room to room with a finger gun, while your siblings race you to every job.",
+   "speed": 1.02,
+   "sec": 5.16
+  },
+  "D13": {
+   "text": "Your watch shows the clock, your points, and how close Mom is to waking up.",
+   "speed": 1.0,
+   "sec": 4.691
+  },
+  "D14": {
+   "text": "The pets don't help.",
+   "speed": 0.95,
+   "sec": 1.124
+  },
+  "D15": {
+   "text": "Every clink, crash and bang wakes Mom up a little more.",
+   "speed": 0.98,
+   "sec": 3.16
+  },
+  "D16": {
+   "text": "And when Mom is up, she wants a name.",
+   "speed": 0.95,
+   "sec": 2.07
+  },
+  "D17": {
+   "text": "Point at a sibling. Or blame the cat.",
+   "speed": 0.95,
+   "sec": 2.322
+  },
+  "D18": {
+   "text": "Then, clean up the evidence.",
+   "speed": 0.92,
+   "sec": 1.623
+  },
+  "D19": {
+   "text": "When the clock hits zero, the most helpful kid wins.",
+   "speed": 0.98,
+   "sec": 3.194
+  },
+  "D20": {
+   "text": "Shhh. Don't wake Mom.",
+   "speed": 0.8,
+   "sec": 2.466
+  },
+  "D21": {
+   "text": "Sneakily mess up a rival's job,",
+   "speed": 0.97,
+   "sec": 2.132
+  },
+  "D22": {
+   "text": "but someone may be watching.",
+   "speed": 0.95,
+   "sec": 1.528
+  },
+  "D23": {
+   "text": "Saw a sibling mess with your job? Show Mom.",
+   "speed": 0.97,
+   "sec": 2.804
+  }
+ }
+}

@@ -1,0 +1,25 @@
+# QA evidence index — one-shot production (from 2026-11-09 15:00)
+
+Earlier evidence (V5–V7, up to APK c11): `Docs/TEST_EVIDENCE_INDEX.md`.
+
+Kind: **C** = core dotnet tests (headless rules), **E** = Editor play mode (desktop, simulated hands `SimHandSource`), **N** = independent Win64
+clients over Photon Cloud, **B** = build, **D** = Quest headset. Nothing here is a headset result unless kind D says so; D rows are UNVERIFIED until run.
+
+| When (UTC+3) | Kind | What | Result | Evidence |
+|---|---|---|---|---|
+| 2026-11-09 16:xx | C | Gate 1 core: continuous match CM-01..CM-08 (single clock to 0:00, no early end, Mom penalty + timeout, quick vs full confrontation, ranking/tie-break, 10-min deals 3 rooms, journal replay with continuous fields, bots finish jobs across rooms) + all legacy suites | **156/156** pass; 30-match solo sim: bot wins 24, human-policy wins 6, early finishes 0, penalties 14 | `Core/SHHH.Core.Tests` (`dotnet run -c Release`) |
+| 2026-11-09 18:15 | E | `playtest_autopilot` (v8a) continuous match | **FAIL**: IndexOutOfRangeException in `RecipeRuntime.Bind` (house station index k*10+i) → fixed with `RoundController.RecipeStations` | Editor.log |
+| 2026-11-09 18:17 | E | `playtest_autopilot` (v8b) full 5-minute continuous match, solo + 3 bots, whole house | **PASS**: one round, clock ran to 5:03 → final inspection → verdict → single results (winner seat 4, bot); jobs done in living room (FY06, HW02, LV12, FY04) and kitchen (KT07, KT12, KT08, KT02); 11 sabotages, 9 foils with witnesses; 0 exceptions; 68–74 fps desktop | `QA_Evidence/gate1/autopilot_continuous_5min_20261109_1517.json` |
+| 2026-11-09 | — | Canonical recipe audit (72): 56 pass desktop-sim recipe_diag, 5 fail (R21 LD04/LD08/BR08 harness, HW03, KT01), 11 blocked on rooms | — | `Docs/Canonical_Recipe_Audit.csv`, `QA_Evidence/gate1/_recipe_status.tsv` |
+| 2026-11-09 18:3x | N | `net_multi 2` continuous 5-min match, host + 1 independent Win64 client over Photon Cloud (region uae), 2 bots | **0 desyncs / 337 checksums**, voice joined both ways, one round "The House", single winner; client hands: 13 recipe ops changed state, 0 recipes completed (harness looped on its kitchen job - NetAutoTest now works every owned job; re-run pending) | `QA_Evidence/gate1/net_multi_2H_continuous/` |
+| 2026-11-09 18:4x–19:1x | E | `ui_capture` before (c11) vs V8 a–d: front end in the living room, title sign, mode cards, popups, wrist HUD, house map, windows/street, results podium | V8 renders as designed; fixes found + applied: window glass opaque → panes removed / view-direction shader; map off-screen → map page on the wrist board; wardrobe text sizes; capture harness head for results | `QA_Evidence/ui_v8/before_c11/`, `ui_v8/v8_a … v8_d/` |
+| 2026-11-09 19:28 | E | `playtest_autopilot` after V8 audio: full 5-min continuous match | PASS: AudioBank 117 groups (new audio), clock to 5:03 → confrontation → verdict → one result; 0 exceptions | `Automation/playtest_status.json` (copied to `QA_Evidence/gate8/`) |
+| 2026-11-09 19:38 | E | `xr_diag` after the V8 UI (real HandInteractor/PokeButton/PlayerRig driven by simulated hands) | **164/165**: all 74 UI checks pass (four mode cards + keys poke and ray-press, standing/seated, shoulder reach ≤ 0.60 m); placement 10/10; one near-grab case (early pinch near the cup picked the book) | `QA_Evidence/gate3/xr_diag_after_v8_ui.json` |
+| 2026-11-10 10:0x | E | `genies_diag d1`: real Genies SDK 3.8.6 end to end (stored session) | **all steps pass**: init, instant login, load, inventories (hair 90, skin 13, 12 wearable categories), equip hair/top/pants, colours, body type, feature stat, definition 667→837, save local, reload profile, reload by definition | `QA_Evidence/genies/d1/` |
+| 2026-11-10 11:0x | E | `genies_journey j1` (front end → stage → wardrobe → save → match → podium) | 14/15: **starter looks 0/4** (Default loads timed out / returned null) | `QA_Evidence/genies/j1/` |
+| 2026-11-10 11:2x | E | `genies_journey j3` | Editor process died inside native Genies code right after the workshop avatar loaded (no managed exception) → fix: settle + per-step logging | `Automation/logs/Editor-prev.log` (PC) |
+| 2026-11-10 11:3x | E | `genies_journey j5` | **15/15** incl. starter looks 4/4, 4 Genies on the stage, 7 try-ons, save, persistence, 3 Genies bots; screenshots 01–07 reviewed | `QA_Evidence/genies/j5/` |
+| 2026-11-10 11:4x | E | `genies_journey j6` (colour-picked starter tops) | **15/15** | `QA_Evidence/genies/j6/` |
+| 2026-11-10 11:5x | N | Win64 host (batch, preset look from file) + Editor client (real Genies SDK) over Photon Cloud, 5-min continuous match | **PASS**: looks replicated both ways, remote seat wears the replicated Genies look, client hands completed LV04, 0 desyncs / 339 checksums, winner decided | `QA_Evidence/gateD/net_genies_2H_editorclient/` |
+| 2026-11-10 | C | KT01 dishwashing rules (tap valve, scrub cap, rinse at a running tap, tap-left-on sabotage) | **157/157** core tests incl. RCP-KT01-WATER | `Core/SHHH.Core.Tests` |
+| — | D | any headset test | UNVERIFIED | — |

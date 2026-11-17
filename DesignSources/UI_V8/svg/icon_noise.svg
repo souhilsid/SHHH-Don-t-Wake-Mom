@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon noise</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40,104 H82 L130,64 V192 L82,152 H40Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M156,96 C172,112 172,144 156,160 M180,72 C212,104 212,152 180,184" fill="none" stroke="#261239" stroke-width="44"/>
+<path d="M40,104 H82 L130,64 V192 L82,152 H40Z" fill="#FFF8E8"/>
+<path d="M156,96 C172,112 172,144 156,160 M180,72 C212,104 212,152 180,184" fill="none" stroke="#FFCF2E" stroke-width="16"/>
+</g></svg>

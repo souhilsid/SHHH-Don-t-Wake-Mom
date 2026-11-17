@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon lock</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M88,112 V84 C88,30 168,30 168,84 V112" fill="none" stroke="#261239" stroke-width="52"/>
+<path d="M84,106 H172 Q194,106 194,128 V192 Q194,214 172,214 H84 Q62,214 62,192 V128 Q62,106 84,106Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M114,152 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M128,156 H128 Q134,156 134,162 V182 Q134,188 128,188 H128 Q122,188 122,182 V162 Q122,156 128,156Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M88,112 V84 C88,30 168,30 168,84 V112" fill="none" stroke="#FFF8E8" stroke-width="24"/>
+<path d="M84,106 H172 Q194,106 194,128 V192 Q194,214 172,214 H84 Q62,214 62,192 V128 Q62,106 84,106Z" fill="#FFCF2E"/>
+<path d="M114,152 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0Z" fill="#261239"/>
+<path d="M128,156 H128 Q134,156 134,162 V182 Q134,188 128,188 H128 Q122,188 122,182 V162 Q122,156 128,156Z" fill="#261239"/>
+</g></svg>

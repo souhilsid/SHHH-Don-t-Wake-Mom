@@ -1,0 +1,5977 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!258 &25800000
+LightProbes:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HouseBakedProbes
+  serializedVersion: 2
+  m_Data:
+    m_Tetrahedralization:
+      m_Tetrahedra:
+      - 'indices[0]': 17
+        'indices[1]': 13
+        'indices[2]': 30
+        'indices[3]': 29
+        'neighbors[0]': 68
+        'neighbors[1]': 46
+        'neighbors[2]': 86
+        'neighbors[3]': 82
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: 0.5
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 25
+        'indices[1]': 24
+        'indices[2]': 41
+        'indices[3]': 29
+        'neighbors[0]': 53
+        'neighbors[1]': 39
+        'neighbors[2]': 9
+        'neighbors[3]': 22
+        matrix:
+          e00: -0
+          e01: 1.3333334
+          e02: -0.5
+          e03: 0
+          e10: -0
+          e11: -1.3333334
+          e12: -0
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 47
+        'indices[1]': 30
+        'indices[2]': 31
+        'indices[3]': 43
+        'neighbors[0]': 60
+        'neighbors[1]': 108
+        'neighbors[2]': 32
+        'neighbors[3]': 51
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0
+          e11: -1.666667
+          e12: -0
+          e13: 0
+          e20: -0.5
+          e21: 1.666667
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 20
+        'indices[1]': 21
+        'indices[2]': 16
+        'indices[3]': 4
+        'neighbors[0]': 8
+        'neighbors[1]': 109
+        'neighbors[2]': 76
+        'neighbors[3]': 88
+        matrix:
+          e00: 0
+          e01: -1.3333334
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 25
+        'indices[2]': 42
+        'indices[3]': 29
+        'neighbors[0]': 39
+        'neighbors[1]': 61
+        'neighbors[2]': 68
+        'neighbors[3]': 40
+        matrix:
+          e00: -0.5
+          e01: 1.2500001
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 46
+        'indices[2]': 47
+        'indices[3]': 34
+        'neighbors[0]': 110
+        'neighbors[1]': 13
+        'neighbors[2]': 104
+        'neighbors[3]': 66
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.666667
+          e12: 0
+          e13: 0
+          e20: 0
+          e21: 1.666667
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 27
+        'indices[2]': 14
+        'indices[3]': 15
+        'neighbors[0]': 112
+        'neighbors[1]': 57
+        'neighbors[2]': 111
+        'neighbors[3]': 24
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 28
+        'indices[1]': 29
+        'indices[2]': 24
+        'indices[3]': 12
+        'neighbors[0]': 9
+        'neighbors[1]': 113
+        'neighbors[2]': 67
+        'neighbors[3]': 53
+        matrix:
+          e00: 0
+          e01: -1.3333334
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 21
+        'indices[2]': 17
+        'indices[3]': 4
+        'neighbors[0]': 78
+        'neighbors[1]': 71
+        'neighbors[2]': 3
+        'neighbors[3]': 35
+        matrix:
+          e00: 0.5
+          e01: -1.3333334
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 24
+        'indices[1]': 29
+        'indices[2]': 25
+        'indices[3]': 12
+        'neighbors[0]': 84
+        'neighbors[1]': 114
+        'neighbors[2]': 7
+        'neighbors[3]': 1
+        matrix:
+          e00: 0.5
+          e01: -1.3333334
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 38
+        'indices[1]': 42
+        'indices[2]': 26
+        'indices[3]': 25
+        'neighbors[0]': 40
+        'neighbors[1]': 115
+        'neighbors[2]': 58
+        'neighbors[3]': 69
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 14
+        'indices[2]': 26
+        'indices[3]': 13
+        'neighbors[0]': 116
+        'neighbors[1]': 27
+        'neighbors[2]': 62
+        'neighbors[3]': 49
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: 1.2500001
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 28
+        'indices[2]': 45
+        'indices[3]': 29
+        'neighbors[0]': 77
+        'neighbors[1]': 106
+        'neighbors[2]': 53
+        'neighbors[3]': 63
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: -0.5
+          e03: 0
+          e10: -0
+          e11: -1.3333334
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 35
+        'indices[1]': 30
+        'indices[2]': 47
+        'indices[3]': 34
+        'neighbors[0]': 5
+        'neighbors[1]': 117
+        'neighbors[2]': 92
+        'neighbors[3]': 51
+        matrix:
+          e00: -0.5
+          e01: 1.666667
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 32
+        'indices[2]': 28
+        'indices[3]': 33
+        'neighbors[0]': 50
+        'neighbors[1]': 83
+        'neighbors[2]': 87
+        'neighbors[3]': 118
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: -0
+          e11: -1.3333334
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 7
+        'indices[1]': 11
+        'indices[2]': 6
+        'indices[3]': 23
+        'neighbors[0]': 26
+        'neighbors[1]': 29
+        'neighbors[2]': 120
+        'neighbors[3]': 119
+        matrix:
+          e00: -0
+          e01: 1.666667
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 14
+        'indices[2]': 30
+        'indices[3]': 18
+        'neighbors[0]': 62
+        'neighbors[1]': 95
+        'neighbors[2]': 17
+        'neighbors[3]': 49
+        matrix:
+          e00: 0
+          e01: 1.666667
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 19
+        'indices[2]': 14
+        'indices[3]': 18
+        'neighbors[0]': 44
+        'neighbors[1]': 16
+        'neighbors[2]': 96
+        'neighbors[3]': 57
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: 1.666667
+          e12: 0
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 2
+        'indices[1]': 19
+        'indices[2]': 6
+        'indices[3]': 18
+        'neighbors[0]': 90
+        'neighbors[1]': 99
+        'neighbors[2]': 44
+        'neighbors[3]': 64
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 5
+        'indices[1]': 22
+        'indices[2]': 17
+        'indices[3]': 18
+        'neighbors[0]': 54
+        'neighbors[1]': 98
+        'neighbors[2]': 20
+        'neighbors[3]': 56
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 22
+        'indices[2]': 5
+        'indices[3]': 18
+        'neighbors[0]': 19
+        'neighbors[1]': 97
+        'neighbors[2]': 89
+        'neighbors[3]': 37
+        matrix:
+          e00: -0.5
+          e01: 1.2500001
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 39
+        'indices[1]': 26
+        'indices[2]': 38
+        'indices[3]': 43
+        'neighbors[0]': 69
+        'neighbors[1]': 122
+        'neighbors[2]': 81
+        'neighbors[3]': 121
+        matrix:
+          e00: -0
+          e01: 1.666667
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: -0
+          e13: 0
+          e20: 0.5
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 25
+        'indices[2]': 37
+        'indices[3]': 24
+        'neighbors[0]': 123
+        'neighbors[1]': 36
+        'neighbors[2]': 1
+        'neighbors[3]': 43
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 29
+        'indices[2]': 16
+        'indices[3]': 12
+        'neighbors[0]': 67
+        'neighbors[1]': 48
+        'neighbors[2]': 86
+        'neighbors[3]': 72
+        matrix:
+          e00: -0.5
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 26
+        'indices[1]': 14
+        'indices[2]': 31
+        'indices[3]': 27
+        'neighbors[0]': 6
+        'neighbors[1]': 47
+        'neighbors[2]': 124
+        'neighbors[3]': 49
+        matrix:
+          e00: 0.5
+          e01: -1.666667
+          e02: -0
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 5
+        'indices[1]': 22
+        'indices[2]': 10
+        'indices[3]': 9
+        'neighbors[0]': 125
+        'neighbors[1]': 126
+        'neighbors[2]': 42
+        'neighbors[3]': 37
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 11
+        'indices[1]': 10
+        'indices[2]': 6
+        'indices[3]': 23
+        'neighbors[0]': 52
+        'neighbors[1]': 15
+        'neighbors[2]': 128
+        'neighbors[3]': 127
+        matrix:
+          e00: -0.5
+          e01: 1.666667
+          e02: -0
+          e03: 0
+          e10: -0
+          e11: -1.666667
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 13
+        'indices[2]': 26
+        'indices[3]': 25
+        'neighbors[0]': 129
+        'neighbors[1]': 40
+        'neighbors[2]': 68
+        'neighbors[3]': 11
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 34
+        'indices[1]': 21
+        'indices[2]': 17
+        'indices[3]': 33
+        'neighbors[0]': 35
+        'neighbors[1]': 65
+        'neighbors[2]': 130
+        'neighbors[3]': 34
+        matrix:
+          e00: 0
+          e01: 1.2500001
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 7
+        'indices[1]': 23
+        'indices[2]': 6
+        'indices[3]': 19
+        'neighbors[0]': 90
+        'neighbors[1]': 64
+        'neighbors[2]': 131
+        'neighbors[3]': 15
+        matrix:
+          e00: -0.5
+          e01: 1.666667
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 34
+        'indices[2]': 30
+        'indices[3]': 18
+        'neighbors[0]': 92
+        'neighbors[1]': 82
+        'neighbors[2]': 54
+        'neighbors[3]': 46
+        matrix:
+          e00: -0
+          e01: -1.2500001
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 5
+        'indices[1]': 0
+        'indices[2]': 17
+        'indices[3]': 4
+        'neighbors[0]': 71
+        'neighbors[1]': 78
+        'neighbors[2]': 132
+        'neighbors[3]': 80
+        matrix:
+          e00: -0.5
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 47
+        'indices[1]': 42
+        'indices[2]': 30
+        'indices[3]': 43
+        'neighbors[0]': 103
+        'neighbors[1]': 2
+        'neighbors[2]': 133
+        'neighbors[3]': 66
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.666667
+          e12: -0
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 40
+        'indices[1]': 28
+        'indices[2]': 41
+        'indices[3]': 24
+        'neighbors[0]': 53
+        'neighbors[1]': 38
+        'neighbors[2]': 134
+        'neighbors[3]': 63
+        matrix:
+          e00: 0.5
+          e01: -1.3333334
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 34
+        'indices[2]': 22
+        'indices[3]': 21
+        'neighbors[0]': 135
+        'neighbors[1]': 56
+        'neighbors[2]': 28
+        'neighbors[3]': 54
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 21
+        'indices[2]': 16
+        'indices[3]': 33
+        'neighbors[0]': 88
+        'neighbors[1]': 72
+        'neighbors[2]': 28
+        'neighbors[3]': 8
+        matrix:
+          e00: -0
+          e01: 1.3333334
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 37
+        'indices[1]': 36
+        'indices[2]': 41
+        'indices[3]': 24
+        'neighbors[0]': 38
+        'neighbors[1]': 22
+        'neighbors[2]': 137
+        'neighbors[3]': 136
+        matrix:
+          e00: 0
+          e01: 1.3333334
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.3333334
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 10
+        'indices[2]': 5
+        'indices[3]': 22
+        'neighbors[0]': 25
+        'neighbors[1]': 20
+        'neighbors[2]': 52
+        'neighbors[3]': 138
+        matrix:
+          e00: -0
+          e01: 1.2500001
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 36
+        'indices[2]': 40
+        'indices[3]': 24
+        'neighbors[0]': 140
+        'neighbors[1]': 33
+        'neighbors[2]': 36
+        'neighbors[3]': 139
+        matrix:
+          e00: 0
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 42
+        'indices[1]': 25
+        'indices[2]': 41
+        'indices[3]': 29
+        'neighbors[0]': 1
+        'neighbors[1]': 45
+        'neighbors[2]': 4
+        'neighbors[3]': 43
+        matrix:
+          e00: 0
+          e01: 1.2500001
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 26
+        'indices[1]': 42
+        'indices[2]': 30
+        'indices[3]': 25
+        'neighbors[0]': 4
+        'neighbors[1]': 27
+        'neighbors[2]': 10
+        'neighbors[3]': 103
+        matrix:
+          e00: 0
+          e01: 1.2500001
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 45
+        'indices[1]': 28
+        'indices[2]': 44
+        'indices[3]': 32
+        'neighbors[0]': 141
+        'neighbors[1]': 142
+        'neighbors[2]': 50
+        'neighbors[3]': 59
+        matrix:
+          e00: 0
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 22
+        'indices[1]': 9
+        'indices[2]': 5
+        'indices[3]': 21
+        'neighbors[0]': 79
+        'neighbors[1]': 56
+        'neighbors[2]': 143
+        'neighbors[3]': 25
+        matrix:
+          e00: 0
+          e01: 1.2500001
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 42
+        'indices[2]': 37
+        'indices[3]': 25
+        'neighbors[0]': 58
+        'neighbors[1]': 22
+        'neighbors[2]': 39
+        'neighbors[3]': 144
+        matrix:
+          e00: 0
+          e01: -1.2500001
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.2500001
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 14
+        'indices[1]': 19
+        'indices[2]': 2
+        'indices[3]': 18
+        'neighbors[0]': 18
+        'neighbors[1]': 100
+        'neighbors[2]': 17
+        'neighbors[3]': 73
+        matrix:
+          e00: 0.5
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 46
+        'indices[1]': 42
+        'indices[2]': 41
+        'indices[3]': 29
+        'neighbors[0]': 39
+        'neighbors[1]': 106
+        'neighbors[2]': 61
+        'neighbors[3]': 145
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0
+          e11: 1.2500001
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 34
+        'indices[2]': 17
+        'indices[3]': 29
+        'neighbors[0]': 65
+        'neighbors[1]': 0
+        'neighbors[2]': 104
+        'neighbors[3]': 30
+        matrix:
+          e00: 0
+          e01: 1.2500001
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 26
+        'indices[1]': 27
+        'indices[2]': 31
+        'indices[3]': 43
+        'neighbors[0]': 146
+        'neighbors[1]': 60
+        'neighbors[2]': 81
+        'neighbors[3]': 24
+        matrix:
+          e00: -0
+          e01: -1.666667
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 0
+        'indices[2]': 17
+        'indices[3]': 12
+        'neighbors[0]': 85
+        'neighbors[1]': 23
+        'neighbors[2]': 147
+        'neighbors[3]': 71
+        matrix:
+          e00: 0
+          e01: -1.3333334
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 26
+        'indices[2]': 30
+        'indices[3]': 14
+        'neighbors[0]': 11
+        'neighbors[1]': 16
+        'neighbors[2]': 24
+        'neighbors[3]': 60
+        matrix:
+          e00: 0
+          e01: 1.666667
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 28
+        'indices[1]': 32
+        'indices[2]': 45
+        'indices[3]': 33
+        'neighbors[0]': 148
+        'neighbors[1]': 77
+        'neighbors[2]': 14
+        'neighbors[3]': 41
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: -0
+          e11: -1.3333334
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 47
+        'indices[2]': 35
+        'indices[3]': 30
+        'neighbors[0]': 13
+        'neighbors[1]': 95
+        'neighbors[2]': 2
+        'neighbors[3]': 149
+        matrix:
+          e00: 0
+          e01: 1.666667
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 10
+        'indices[1]': 22
+        'indices[2]': 6
+        'indices[3]': 23
+        'neighbors[0]': 89
+        'neighbors[1]': 26
+        'neighbors[2]': 150
+        'neighbors[3]': 37
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.666667
+          e12: -0
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 24
+        'indices[2]': 28
+        'indices[3]': 29
+        'neighbors[0]': 7
+        'neighbors[1]': 12
+        'neighbors[2]': 1
+        'neighbors[3]': 33
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 22
+        'indices[1]': 34
+        'indices[2]': 17
+        'indices[3]': 18
+        'neighbors[0]': 30
+        'neighbors[1]': 19
+        'neighbors[2]': 91
+        'neighbors[3]': 34
+        matrix:
+          e00: -0.5
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 13
+        'indices[2]': 17
+        'indices[3]': 0
+        'neighbors[0]': 85
+        'neighbors[1]': 80
+        'neighbors[2]': 151
+        'neighbors[3]': 94
+        matrix:
+          e00: -0.5
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: -0.5
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 22
+        'indices[2]': 5
+        'indices[3]': 21
+        'neighbors[0]': 42
+        'neighbors[1]': 78
+        'neighbors[2]': 34
+        'neighbors[3]': 19
+        matrix:
+          e00: 0.5
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 1.2500001
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 15
+        'indices[2]': 14
+        'indices[3]': 19
+        'neighbors[0]': 73
+        'neighbors[1]': 17
+        'neighbors[2]': 152
+        'neighbors[3]': 6
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: 1.666667
+          e12: -0.5
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 37
+        'indices[1]': 42
+        'indices[2]': 38
+        'indices[3]': 25
+        'neighbors[0]': 10
+        'neighbors[1]': 154
+        'neighbors[2]': 43
+        'neighbors[3]': 153
+        matrix:
+          e00: 0.5
+          e01: -1.2500001
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 44
+        'indices[1]': 45
+        'indices[2]': 40
+        'indices[3]': 28
+        'neighbors[0]': 63
+        'neighbors[1]': 156
+        'neighbors[2]': 41
+        'neighbors[3]': 155
+        matrix:
+          e00: 0
+          e01: -1.3333334
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 26
+        'indices[2]': 31
+        'indices[3]': 43
+        'neighbors[0]': 47
+        'neighbors[1]': 2
+        'neighbors[2]': 103
+        'neighbors[3]': 49
+        matrix:
+          e00: -0
+          e01: -1.666667
+          e02: 0.5
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.666667
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 42
+        'indices[2]': 46
+        'indices[3]': 29
+        'neighbors[0]': 45
+        'neighbors[1]': 104
+        'neighbors[2]': 4
+        'neighbors[3]': 66
+        matrix:
+          e00: -0.5
+          e01: 1.2500001
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: -0.5
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 14
+        'indices[1]': 13
+        'indices[2]': 30
+        'indices[3]': 18
+        'neighbors[0]': 82
+        'neighbors[1]': 16
+        'neighbors[2]': 93
+        'neighbors[3]': 11
+        matrix:
+          e00: -0
+          e01: 1.2500001
+          e02: -0.5
+          e03: 0
+          e10: -0
+          e11: -1.2500001
+          e12: -0
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 40
+        'indices[1]': 45
+        'indices[2]': 41
+        'indices[3]': 28
+        'neighbors[0]': 12
+        'neighbors[1]': 33
+        'neighbors[2]': 59
+        'neighbors[3]': 157
+        matrix:
+          e00: 0.5
+          e01: -1.3333334
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 2
+        'indices[2]': 7
+        'indices[3]': 19
+        'neighbors[0]': 74
+        'neighbors[1]': 29
+        'neighbors[2]': 18
+        'neighbors[3]': 158
+        matrix:
+          e00: -0
+          e01: -1.666667
+          e02: 0.5
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.666667
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 34
+        'indices[1]': 33
+        'indices[2]': 17
+        'indices[3]': 29
+        'neighbors[0]': 72
+        'neighbors[1]': 46
+        'neighbors[2]': 105
+        'neighbors[3]': 28
+        matrix:
+          e00: 0
+          e01: 1.2500001
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -1.2500001
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 47
+        'indices[1]': 46
+        'indices[2]': 30
+        'indices[3]': 42
+        'neighbors[0]': 61
+        'neighbors[1]': 32
+        'neighbors[2]': 159
+        'neighbors[3]': 5
+        matrix:
+          e00: 0
+          e01: 1.666667
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -1.666667
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 29
+        'indices[2]': 28
+        'indices[3]': 12
+        'neighbors[0]': 7
+        'neighbors[1]': 160
+        'neighbors[2]': 23
+        'neighbors[3]': 83
+        matrix:
+          e00: -0.5
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 13
+        'indices[1]': 25
+        'indices[2]': 30
+        'indices[3]': 29
+        'neighbors[0]': 4
+        'neighbors[1]': 0
+        'neighbors[2]': 84
+        'neighbors[3]': 27
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 26
+        'indices[1]': 42
+        'indices[2]': 38
+        'indices[3]': 43
+        'neighbors[0]': 161
+        'neighbors[1]': 21
+        'neighbors[2]': 103
+        'neighbors[3]': 10
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: -0
+          e11: -1.666667
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 9
+        'indices[1]': 21
+        'indices[2]': 8
+        'indices[3]': 4
+        'neighbors[0]': 76
+        'neighbors[1]': 163
+        'neighbors[2]': 79
+        'neighbors[3]': 162
+        matrix:
+          e00: -0.5
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 0
+        'indices[2]': 16
+        'indices[3]': 4
+        'neighbors[0]': 164
+        'neighbors[1]': 8
+        'neighbors[2]': 31
+        'neighbors[3]': 48
+        matrix:
+          e00: 0
+          e01: 1.3333334
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 33
+        'indices[2]': 16
+        'indices[3]': 29
+        'neighbors[0]': 83
+        'neighbors[1]': 23
+        'neighbors[2]': 65
+        'neighbors[3]': 35
+        matrix:
+          e00: -0.5
+          e01: 1.3333334
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 14
+        'indices[1]': 15
+        'indices[2]': 2
+        'indices[3]': 19
+        'neighbors[0]': 75
+        'neighbors[1]': 44
+        'neighbors[2]': 57
+        'neighbors[3]': 165
+        matrix:
+          e00: 0.5
+          e01: -1.666667
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 2
+        'indices[1]': 3
+        'indices[2]': 7
+        'indices[3]': 19
+        'neighbors[0]': 167
+        'neighbors[1]': 64
+        'neighbors[2]': 75
+        'neighbors[3]': 166
+        matrix:
+          e00: -0
+          e01: -1.666667
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 2
+        'indices[1]': 15
+        'indices[2]': 3
+        'indices[3]': 19
+        'neighbors[0]': 169
+        'neighbors[1]': 74
+        'neighbors[2]': 73
+        'neighbors[3]': 168
+        matrix:
+          e00: -0
+          e01: -1.666667
+          e02: -0
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.666667
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 8
+        'indices[1]': 21
+        'indices[2]': 20
+        'indices[3]': 4
+        'neighbors[0]': 3
+        'neighbors[1]': 171
+        'neighbors[2]': 70
+        'neighbors[3]': 170
+        matrix:
+          e00: -0.5
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 28
+        'indices[1]': 33
+        'indices[2]': 45
+        'indices[3]': 29
+        'neighbors[0]': 107
+        'neighbors[1]': 12
+        'neighbors[2]': 83
+        'neighbors[3]': 50
+        matrix:
+          e00: -0
+          e01: -1.3333334
+          e02: -0
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 21
+        'indices[2]': 5
+        'indices[3]': 4
+        'neighbors[0]': 79
+        'neighbors[1]': 31
+        'neighbors[2]': 8
+        'neighbors[3]': 56
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.3333334
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 5
+        'indices[1]': 21
+        'indices[2]': 9
+        'indices[3]': 4
+        'neighbors[0]': 70
+        'neighbors[1]': 172
+        'neighbors[2]': 78
+        'neighbors[3]': 42
+        matrix:
+          e00: 0
+          e01: 1.3333334
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 5
+        'indices[2]': 1
+        'indices[3]': 0
+        'neighbors[0]': 173
+        'neighbors[1]': 55
+        'neighbors[2]': 31
+        'neighbors[3]': 98
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 39
+        'indices[1]': 27
+        'indices[2]': 26
+        'indices[3]': 43
+        'neighbors[0]': 47
+        'neighbors[1]': 21
+        'neighbors[2]': 175
+        'neighbors[3]': 174
+        matrix:
+          e00: 0.5
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: 1.666667
+          e12: -0
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 13
+        'indices[2]': 17
+        'indices[3]': 18
+        'neighbors[0]': 94
+        'neighbors[1]': 30
+        'neighbors[2]': 62
+        'neighbors[3]': 0
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: -0
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0
+          e21: -1.2500001
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 33
+        'indices[2]': 28
+        'indices[3]': 29
+        'neighbors[0]': 77
+        'neighbors[1]': 67
+        'neighbors[2]': 72
+        'neighbors[3]': 14
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.3333334
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 25
+        'indices[1]': 29
+        'indices[2]': 13
+        'indices[3]': 12
+        'neighbors[0]': 86
+        'neighbors[1]': 176
+        'neighbors[2]': 9
+        'neighbors[3]': 68
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.3333334
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 0
+        'indices[2]': 13
+        'indices[3]': 12
+        'neighbors[0]': 177
+        'neighbors[1]': 86
+        'neighbors[2]': 48
+        'neighbors[3]': 55
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: -0
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 1.3333334
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 13
+        'indices[1]': 29
+        'indices[2]': 17
+        'indices[3]': 12
+        'neighbors[0]': 23
+        'neighbors[1]': 85
+        'neighbors[2]': 84
+        'neighbors[3]': 0
+        matrix:
+          e00: 0
+          e01: 1.3333334
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: 0
+          e12: 0
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 20
+        'indices[1]': 32
+        'indices[2]': 16
+        'indices[3]': 33
+        'neighbors[0]': 14
+        'neighbors[1]': 88
+        'neighbors[2]': 179
+        'neighbors[3]': 178
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.3333334
+          e12: -0
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 21
+        'indices[2]': 20
+        'indices[3]': 33
+        'neighbors[0]': 180
+        'neighbors[1]': 87
+        'neighbors[2]': 35
+        'neighbors[3]': 3
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: 1.3333334
+          e12: 0
+          e13: 0
+          e20: -0
+          e21: -1.3333334
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 23
+        'indices[2]': 22
+        'indices[3]': 18
+        'neighbors[0]': 101
+        'neighbors[1]': 20
+        'neighbors[2]': 90
+        'neighbors[3]': 52
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: 0
+          e13: 0
+          e20: -0
+          e21: -1.666667
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 19
+        'indices[2]': 23
+        'indices[3]': 18
+        'neighbors[0]': 102
+        'neighbors[1]': 89
+        'neighbors[2]': 18
+        'neighbors[3]': 29
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: -0.5
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 35
+        'indices[1]': 34
+        'indices[2]': 22
+        'indices[3]': 18
+        'neighbors[0]': 54
+        'neighbors[1]': 101
+        'neighbors[2]': 92
+        'neighbors[3]': 181
+        matrix:
+          e00: 0
+          e01: 1.666667
+          e02: 0
+          e03: 0
+          e10: 0.5
+          e11: -1.666667
+          e12: -0
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 34
+        'indices[2]': 35
+        'indices[3]': 18
+        'neighbors[0]': 91
+        'neighbors[1]': 95
+        'neighbors[2]': 30
+        'neighbors[3]': 13
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: -0.5
+          e03: 0
+          e10: 0
+          e11: -1.666667
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.666667
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 13
+        'indices[2]': 14
+        'indices[3]': 18
+        'neighbors[0]': 62
+        'neighbors[1]': 100
+        'neighbors[2]': 94
+        'neighbors[3]': 182
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: -0
+          e03: 0
+          e10: 0.5
+          e11: -1.2500001
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 17
+        'indices[1]': 13
+        'indices[2]': 1
+        'indices[3]': 18
+        'neighbors[0]': 93
+        'neighbors[1]': 98
+        'neighbors[2]': 82
+        'neighbors[3]': 55
+        matrix:
+          e00: -0
+          e01: -1.2500001
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: -0
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 30
+        'indices[2]': 35
+        'indices[3]': 18
+        'neighbors[0]': 92
+        'neighbors[1]': 96
+        'neighbors[2]': 16
+        'neighbors[3]': 51
+        matrix:
+          e00: 0
+          e01: 1.666667
+          e02: -0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.666667
+          e12: -0
+          e13: 0
+          e20: 0
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 35
+        'indices[1]': 19
+        'indices[2]': 31
+        'indices[3]': 18
+        'neighbors[0]': 17
+        'neighbors[1]': 95
+        'neighbors[2]': 102
+        'neighbors[3]': 183
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: 1.666667
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 5
+        'indices[2]': 1
+        'indices[3]': 18
+        'neighbors[0]': 98
+        'neighbors[1]': 99
+        'neighbors[2]': 20
+        'neighbors[3]': 184
+        matrix:
+          e00: -0.5
+          e01: 1.2500001
+          e02: -0
+          e03: 0
+          e10: -0
+          e11: -1.2500001
+          e12: 0.5
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 5
+        'indices[2]': 17
+        'indices[3]': 18
+        'neighbors[0]': 19
+        'neighbors[1]': 94
+        'neighbors[2]': 97
+        'neighbors[3]': 80
+        matrix:
+          e00: -0
+          e01: -0
+          e02: -0.5
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0.5
+          e21: -1.2500001
+          e22: -0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 2
+        'indices[2]': 6
+        'indices[3]': 18
+        'neighbors[0]': 18
+        'neighbors[1]': 97
+        'neighbors[2]': 100
+        'neighbors[3]': 185
+        matrix:
+          e00: -0
+          e01: -1.2500001
+          e02: -0
+          e03: 0
+          e10: 0
+          e11: 1.2500001
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 0
+          e22: 0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 14
+        'indices[2]': 2
+        'indices[3]': 18
+        'neighbors[0]': 44
+        'neighbors[1]': 99
+        'neighbors[2]': 93
+        'neighbors[3]': 186
+        matrix:
+          e00: -0
+          e01: -1.2500001
+          e02: -0
+          e03: 0
+          e10: 0.5
+          e11: -0
+          e12: -0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 22
+        'indices[1]': 23
+        'indices[2]': 35
+        'indices[3]': 18
+        'neighbors[0]': 102
+        'neighbors[1]': 91
+        'neighbors[2]': 89
+        'neighbors[3]': 187
+        matrix:
+          e00: 0
+          e01: -1.666667
+          e02: 0.5
+          e03: 0
+          e10: -0.5
+          e11: 1.666667
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 23
+        'indices[1]': 19
+        'indices[2]': 35
+        'indices[3]': 18
+        'neighbors[0]': 96
+        'neighbors[1]': 101
+        'neighbors[2]': 90
+        'neighbors[3]': 188
+        matrix:
+          e00: -0.5
+          e01: 0
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.666667
+          e12: -0.5
+          e13: 0
+          e20: 0.5
+          e21: 0
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 30
+        'indices[1]': 42
+        'indices[2]': 26
+        'indices[3]': 43
+        'neighbors[0]': 69
+        'neighbors[1]': 60
+        'neighbors[2]': 32
+        'neighbors[3]': 40
+        matrix:
+          e00: -0.5
+          e01: -0
+          e02: 0.5
+          e03: 0
+          e10: 0.5
+          e11: -1.666667
+          e12: -0
+          e13: 0
+          e20: -0
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 46
+        'indices[1]': 34
+        'indices[2]': 30
+        'indices[3]': 29
+        'neighbors[0]': 46
+        'neighbors[1]': 61
+        'neighbors[2]': 105
+        'neighbors[3]': 5
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 46
+        'indices[1]': 33
+        'indices[2]': 34
+        'indices[3]': 29
+        'neighbors[0]': 65
+        'neighbors[1]': 104
+        'neighbors[2]': 107
+        'neighbors[3]': 189
+        matrix:
+          e00: 0.5
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: -1.2500001
+          e12: 0.5
+          e13: 0
+          e20: -0.5
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 45
+        'indices[1]': 46
+        'indices[2]': 41
+        'indices[3]': 29
+        'neighbors[0]': 45
+        'neighbors[1]': 12
+        'neighbors[2]': 107
+        'neighbors[3]': 190
+        matrix:
+          e00: 0
+          e01: -1.2500001
+          e02: 0.5
+          e03: 0
+          e10: 0
+          e11: 1.2500001
+          e12: 0
+          e13: 0
+          e20: 0.5
+          e21: -0
+          e22: -0.5
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 45
+        'indices[1]': 33
+        'indices[2]': 46
+        'indices[3]': 29
+        'neighbors[0]': 105
+        'neighbors[1]': 106
+        'neighbors[2]': 77
+        'neighbors[3]': 191
+        matrix:
+          e00: 0.5
+          e01: -1.2500001
+          e02: 0
+          e03: 0
+          e10: -0.5
+          e11: 0
+          e12: 0.5
+          e13: 0
+          e20: 0
+          e21: 1.2500001
+          e22: 0
+          e23: 0
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 43
+        'indices[2]': 47
+        'indices[3]': -1
+        'neighbors[0]': 133
+        'neighbors[1]': 149
+        'neighbors[2]': 146
+        'neighbors[3]': 2
+        matrix:
+          e00: -0.41421366
+          e01: -1
+          e02: -0.31783718
+          e03: 9.106742
+          e10: -1.4348782
+          e11: -6.2925286
+          e12: -0.63567424
+          e13: 26.334904
+          e20: 0
+          e21: -9.797959
+          e22: -0
+          e23: 23.5151
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 4
+        'indices[2]': 20
+        'indices[3]': -1
+        'neighbors[0]': 171
+        'neighbors[1]': 178
+        'neighbors[2]': 164
+        'neighbors[3]': 3
+        matrix:
+          e00: 0.4142136
+          e01: 1
+          e02: -0.4142136
+          e03: 5.821068
+          e10: 1.1715732
+          e11: 5.6568546
+          e12: -1.1715732
+          e13: 7.757361
+          e20: 0
+          e21: 8.000002
+          e22: 0
+          e23: -2.0000005
+        isValid: 1
+      - 'indices[0]': 46
+        'indices[1]': 34
+        'indices[2]': 47
+        'indices[3]': -1
+        'neighbors[0]': 117
+        'neighbors[1]': 159
+        'neighbors[2]': 189
+        'neighbors[3]': 5
+        matrix:
+          e00: -0.41421348
+          e01: -0.3178374
+          e02: -1.0000001
+          e03: 6.853978
+          e10: -0.43046325
+          e11: -0.6356748
+          e12: -3.8676574
+          e13: 12.24938
+          e20: 0
+          e21: -0
+          e22: -2.9393873
+          e23: 5.8787746
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 15
+        'indices[2]': 27
+        'indices[3]': -2
+        'neighbors[0]': 112
+        'neighbors[1]': 146
+        'neighbors[2]': 152
+        'neighbors[3]': 6
+        matrix:
+          e00: -0.000000042146848
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: -0.00000011920929
+          e11: -1.4142135
+          e12: 0.5857866
+          e13: 7.3941126
+          e20: 0
+          e21: -4
+          e22: 0
+          e23: 9.599999
+        isValid: 1
+      - 'indices[0]': 27
+        'indices[1]': 15
+        'indices[2]': 14
+        'indices[3]': -2
+        'neighbors[0]': 165
+        'neighbors[1]': 124
+        'neighbors[2]': 111
+        'neighbors[3]': 6
+        matrix:
+          e00: -0.000000014901161
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: -0.58578646
+          e12: 1.4142135
+          e13: 5.0828424
+          e20: 0
+          e21: 0
+          e22: 1.1999998
+          e23: 2.3999996
+        isValid: 1
+      - 'indices[0]': 24
+        'indices[1]': 12
+        'indices[2]': 28
+        'indices[3]': -2
+        'neighbors[0]': 160
+        'neighbors[1]': 134
+        'neighbors[2]': 114
+        'neighbors[3]': 7
+        matrix:
+          e00: 0.000000014901161
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: 1.4142135
+          e12: 0.58578646
+          e13: 3.6464467
+          e20: 0
+          e21: 4
+          e22: 0
+          e23: -1
+        isValid: 1
+      - 'indices[0]': 25
+        'indices[1]': 12
+        'indices[2]': 24
+        'indices[3]': -2
+        'neighbors[0]': 113
+        'neighbors[1]': 123
+        'neighbors[2]': 176
+        'neighbors[3]': 9
+        matrix:
+          e00: 0.000000042146848
+          e01: -0
+          e02: 0
+          e03: 1.4142135
+          e10: 0.000000044703484
+          e11: 0.58578646
+          e12: 1.4142135
+          e13: 3.7426405
+          e20: 0
+          e21: -0
+          e22: 1.5
+          e23: 3
+        isValid: 1
+      - 'indices[0]': 26
+        'indices[1]': 25
+        'indices[2]': 38
+        'indices[3]': -2
+        'neighbors[0]': 154
+        'neighbors[1]': 121
+        'neighbors[2]': 129
+        'neighbors[3]': 10
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0.5656854
+          e10: -0.23431462
+          e11: 0
+          e12: 0.5656854
+          e13: 2.9656854
+          e20: 0
+          e21: 0
+          e22: 1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 14
+        'indices[1]': 13
+        'indices[2]': 26
+        'indices[3]': -2
+        'neighbors[0]': 129
+        'neighbors[1]': 124
+        'neighbors[2]': 182
+        'neighbors[3]': 11
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 1.5999999
+          e20: 0
+          e21: 0
+          e22: 1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 47
+        'indices[1]': 34
+        'indices[2]': 35
+        'indices[3]': -1
+        'neighbors[0]': 181
+        'neighbors[1]': 149
+        'neighbors[2]': 110
+        'neighbors[3]': 13
+        matrix:
+          e00: -0.31783724
+          e01: -0.4142136
+          e02: -1
+          e03: 7.376051
+          e10: -0.19070232
+          e11: -1.434878
+          e12: -4.3126297
+          e13: 14.338129
+          e20: 0
+          e21: 0
+          e22: -2.9393873
+          e23: 5.8787746
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 32
+        'indices[2]': 28
+        'indices[3]': -2
+        'neighbors[0]': 141
+        'neighbors[1]': 160
+        'neighbors[2]': 178
+        'neighbors[3]': 14
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 1.4142134
+          e10: 0
+          e11: 1.4142134
+          e12: -0.58578646
+          e13: 3.6464467
+          e20: 0
+          e21: 4
+          e22: -0
+          e23: -1
+        isValid: 1
+      - 'indices[0]': 7
+        'indices[1]': 11
+        'indices[2]': 6
+        'indices[3]': -1
+        'neighbors[0]': 127
+        'neighbors[1]': 158
+        'neighbors[2]': 120
+        'neighbors[3]': 15
+        matrix:
+          e00: 1
+          e01: -0.4142136
+          e02: -0.31783724
+          e03: 8.058214
+          e10: 4.3126297
+          e11: -1.434878
+          e12: -0.19070235
+          e13: 18.460056
+          e20: 2.9393873
+          e21: 0
+          e22: 0
+          e23: 8.818162
+        isValid: 1
+      - 'indices[0]': 7
+        'indices[1]': 23
+        'indices[2]': 11
+        'indices[3]': -1
+        'neighbors[0]': 128
+        'neighbors[1]': 119
+        'neighbors[2]': 131
+        'neighbors[3]': 15
+        matrix:
+          e00: 0.31783712
+          e01: -1.0963763
+          e02: -0.31783724
+          e03: 9.877343
+          e10: 0.8989792
+          e11: -8.000001
+          e12: -0.8989796
+          e13: 31.6949
+          e20: 0
+          e21: -13.856408
+          e22: 0
+          e23: 33.25538
+        isValid: 1
+      - 'indices[0]': 39
+        'indices[1]': 26
+        'indices[2]': 38
+        'indices[3]': -1
+        'neighbors[0]': 115
+        'neighbors[1]': 122
+        'neighbors[2]': 174
+        'neighbors[3]': 21
+        matrix:
+          e00: -0.41421366
+          e01: -0.31783706
+          e02: 1
+          e03: 6.853978
+          e10: -0.43046343
+          e11: -0.63567394
+          e12: 3.8676574
+          e13: 12.249379
+          e20: 0
+          e21: -0
+          e22: 2.9393873
+          e23: 5.8787746
+        isValid: 1
+      - 'indices[0]': 38
+        'indices[1]': 43
+        'indices[2]': 39
+        'indices[3]': -1
+        'neighbors[0]': 175
+        'neighbors[1]': 121
+        'neighbors[2]': 161
+        'neighbors[3]': 21
+        matrix:
+          e00: -1.0963764
+          e01: -0.3178372
+          e02: 0.3178372
+          e03: 8.364568
+          e10: -5.2
+          e11: -0.8989795
+          e12: 0.26969382
+          e13: 20.696938
+          e20: -4.1569214
+          e21: 0
+          e22: 0
+          e23: 12.470764
+        isValid: 1
+      - 'indices[0]': 25
+        'indices[1]': 24
+        'indices[2]': 37
+        'indices[3]': -1
+        'neighbors[0]': 137
+        'neighbors[1]': 154
+        'neighbors[2]': 114
+        'neighbors[3]': 22
+        matrix:
+          e00: -0.41421348
+          e01: 0.4142136
+          e02: 1
+          e03: 5.8890867
+          e10: -0.43933976
+          e11: 1.1715729
+          e12: 3.8890872
+          e13: 10.045941
+          e20: 0
+          e21: 0
+          e22: 3
+          e23: 6
+        isValid: 1
+      - 'indices[0]': 26
+        'indices[1]': 27
+        'indices[2]': 14
+        'indices[3]': -2
+        'neighbors[0]': 112
+        'neighbors[1]': 116
+        'neighbors[2]': 174
+        'neighbors[3]': 24
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 1.4142134
+          e10: 0
+          e11: -0.58578646
+          e12: 1.4142134
+          e13: 5.0828424
+          e20: 0
+          e21: 0
+          e22: 1.1999998
+          e23: 2.3999996
+        isValid: 1
+      - 'indices[0]': 22
+        'indices[1]': 9
+        'indices[2]': 10
+        'indices[3]': -2
+        'neighbors[0]': 126
+        'neighbors[1]': 150
+        'neighbors[2]': 143
+        'neighbors[3]': 25
+        matrix:
+          e00: -0
+          e01: 0.000000042146848
+          e02: 0
+          e03: 0.56568533
+          e10: 0.23431458
+          e11: 0.00000011920929
+          e12: -0.5656854
+          e13: 2.9656851
+          e20: 0
+          e21: 0
+          e22: -1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 10
+        'indices[1]': 9
+        'indices[2]': 5
+        'indices[3]': -2
+        'neighbors[0]': 172
+        'neighbors[1]': 138
+        'neighbors[2]': 125
+        'neighbors[3]': 25
+        matrix:
+          e00: 0
+          e01: 0.000000014901161
+          e02: 0
+          e03: 0.56568533
+          e10: 0.56568533
+          e11: 0
+          e12: -0.23431458
+          e13: 3.297056
+          e20: 1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 11
+        'indices[1]': 10
+        'indices[2]': 6
+        'indices[3]': -1
+        'neighbors[0]': 138
+        'neighbors[1]': 119
+        'neighbors[2]': 128
+        'neighbors[3]': 26
+        matrix:
+          e00: 1
+          e01: -0.31783724
+          e02: -0.4142136
+          e03: 7.4397645
+          e10: 3.8676574
+          e11: -0.6356745
+          e12: -0.4304633
+          e13: 15.686574
+          e20: 2.9393873
+          e21: 0
+          e22: 0
+          e23: 8.818162
+        isValid: 1
+      - 'indices[0]': 11
+        'indices[1]': 23
+        'indices[2]': 10
+        'indices[3]': -1
+        'neighbors[0]': 150
+        'neighbors[1]': 127
+        'neighbors[2]': 120
+        'neighbors[3]': 26
+        matrix:
+          e00: 0.31783724
+          e01: -0.31783724
+          e02: -1.0963763
+          e03: 7.5860286
+          e10: 0.26969382
+          e11: -0.8989795
+          e12: -5.2
+          e13: 15.76663
+          e20: 0
+          e21: 0
+          e22: -4.1569214
+          e23: 8.313843
+        isValid: 1
+      - 'indices[0]': 13
+        'indices[1]': 25
+        'indices[2]': 26
+        'indices[3]': -2
+        'neighbors[0]': 115
+        'neighbors[1]': 116
+        'neighbors[2]': 176
+        'neighbors[3]': 27
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 1.5999999
+          e20: 0
+          e21: 0
+          e22: 1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 34
+        'indices[1]': 33
+        'indices[2]': 21
+        'indices[3]': -2
+        'neighbors[0]': 180
+        'neighbors[1]': 135
+        'neighbors[2]': 189
+        'neighbors[3]': 28
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 1.5999999
+          e20: 0
+          e21: 0
+          e22: -1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 7
+        'indices[1]': 19
+        'indices[2]': 23
+        'indices[3]': -1
+        'neighbors[0]': 188
+        'neighbors[1]': 120
+        'neighbors[2]': 167
+        'neighbors[3]': 29
+        matrix:
+          e00: 0.4142136
+          e01: -1
+          e02: -0.4142137
+          e03: 8.471068
+          e10: 1.171573
+          e11: -5.6568546
+          e12: -1.1715733
+          e13: 22.748022
+          e20: 0
+          e21: -8.000001
+          e22: -0
+          e23: 19.2
+        isValid: 1
+      - 'indices[0]': 5
+        'indices[1]': 4
+        'indices[2]': 0
+        'indices[3]': -1
+        'neighbors[0]': 164
+        'neighbors[1]': 173
+        'neighbors[2]': 172
+        'neighbors[3]': 31
+        matrix:
+          e00: 1
+          e01: 0.4142137
+          e02: 0.31783712
+          e03: 7.110548
+          e10: 4.524762
+          e11: 1.4348783
+          e12: 0.23837785
+          e13: 15.813643
+          e20: 3.674235
+          e21: 0
+          e22: 0
+          e23: 11.022705
+        isValid: 1
+      - 'indices[0]': 47
+        'indices[1]': 43
+        'indices[2]': 42
+        'indices[3]': -1
+        'neighbors[0]': 161
+        'neighbors[1]': 159
+        'neighbors[2]': 108
+        'neighbors[3]': 32
+        matrix:
+          e00: -1
+          e01: -0.41421363
+          e02: -0.3178372
+          e03: 8.058214
+          e10: -4.3126297
+          e11: -1.4348781
+          e12: -0.19070236
+          e13: 18.460056
+          e20: -2.9393876
+          e21: 0
+          e22: 0
+          e23: 8.818163
+        isValid: 1
+      - 'indices[0]': 40
+        'indices[1]': 24
+        'indices[2]': 28
+        'indices[3]': -1
+        'neighbors[0]': 113
+        'neighbors[1]': 156
+        'neighbors[2]': 140
+        'neighbors[3]': 33
+        matrix:
+          e00: -0.41421363
+          e01: 1
+          e02: 0.4142136
+          e03: 5.821068
+          e10: -1.171573
+          e11: 5.656854
+          e12: 1.171573
+          e13: 7.7573605
+          e20: -0
+          e21: 8.000001
+          e22: 0
+          e23: -2.0000002
+        isValid: 1
+      - 'indices[0]': 34
+        'indices[1]': 21
+        'indices[2]': 22
+        'indices[3]': -2
+        'neighbors[0]': 143
+        'neighbors[1]': 181
+        'neighbors[2]': 130
+        'neighbors[3]': 34
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0
+          e10: 0
+          e11: 0
+          e12: 0
+          e13: 1.5999999
+          e20: 0
+          e21: 0
+          e22: -1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 37
+        'indices[1]': 36
+        'indices[2]': 41
+        'indices[3]': -1
+        'neighbors[0]': 139
+        'neighbors[1]': 144
+        'neighbors[2]': 137
+        'neighbors[3]': 36
+        matrix:
+          e00: -1
+          e01: 0.3178374
+          e02: 0.41421348
+          e03: 6.809628
+          e10: -4.1274652
+          e11: 0.6356748
+          e12: 0.5380791
+          e13: 15.420956
+          e20: -3.6742344
+          e21: 0
+          e22: -0
+          e23: 11.022703
+        isValid: 1
+      - 'indices[0]': 37
+        'indices[1]': 24
+        'indices[2]': 36
+        'indices[3]': -1
+        'neighbors[0]': 140
+        'neighbors[1]': 136
+        'neighbors[2]': 123
+        'neighbors[3]': 36
+        matrix:
+          e00: -0.31783724
+          e01: 0.3178374
+          e02: 1.0963761
+          e03: 6.955892
+          e10: -0.33711728
+          e11: 0.8989798
+          e12: 5.4999995
+          e13: 14.786605
+          e20: 0
+          e21: -0
+          e22: 5.196152
+          e23: 10.392304
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 10
+        'indices[2]': 5
+        'indices[3]': -2
+        'neighbors[0]': 126
+        'neighbors[1]': 184
+        'neighbors[2]': 127
+        'neighbors[3]': 37
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0.5656854
+          e10: 0.5656854
+          e11: 0
+          e12: -0.23431458
+          e13: 3.2970562
+          e20: 1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 36
+        'indices[2]': 40
+        'indices[3]': -1
+        'neighbors[0]': 140
+        'neighbors[1]': 157
+        'neighbors[2]': 136
+        'neighbors[3]': 38
+        matrix:
+          e00: -1
+          e01: 0.41421366
+          e02: 0.31783718
+          e03: 7.110548
+          e10: -4.524762
+          e11: 1.4348782
+          e12: 0.23837782
+          e13: 15.813643
+          e20: -3.6742349
+          e21: 0
+          e22: 0
+          e23: 11.022704
+        isValid: 1
+      - 'indices[0]': 36
+        'indices[1]': 24
+        'indices[2]': 40
+        'indices[3]': -1
+        'neighbors[0]': 134
+        'neighbors[1]': 139
+        'neighbors[2]': 137
+        'neighbors[3]': 38
+        matrix:
+          e00: -0.31783724
+          e01: 1.0963763
+          e02: 0.31783724
+          e03: 6.971946
+          e10: -0.8989795
+          e11: 8
+          e12: 0.8989795
+          e13: 10.494898
+          e20: 0
+          e21: 13.856407
+          e22: 0
+          e23: -3.4641018
+        isValid: 1
+      - 'indices[0]': 28
+        'indices[1]': 32
+        'indices[2]': 44
+        'indices[3]': -1
+        'neighbors[0]': 142
+        'neighbors[1]': 156
+        'neighbors[2]': 118
+        'neighbors[3]': 41
+        matrix:
+          e00: -0.31783724
+          e01: 1.0000001
+          e02: -0.41421366
+          e03: 6.360367
+          e10: -0.6356746
+          e11: 6.2925296
+          e12: -1.4348782
+          e13: 8.860503
+          e20: 0
+          e21: 9.797961
+          e22: 0
+          e23: -2.4494903
+        isValid: 1
+      - 'indices[0]': 44
+        'indices[1]': 32
+        'indices[2]': 45
+        'indices[3]': -1
+        'neighbors[0]': 148
+        'neighbors[1]': 155
+        'neighbors[2]': 141
+        'neighbors[3]': 41
+        matrix:
+          e00: -0.31783718
+          e01: 0.3178374
+          e02: -1.0963763
+          e03: 6.9558916
+          e10: -0.3371172
+          e11: 0.89898
+          e12: -5.5000005
+          e13: 14.786608
+          e20: 0
+          e21: -0
+          e22: -5.196153
+          e23: 10.392306
+        isValid: 1
+      - 'indices[0]': 22
+        'indices[1]': 21
+        'indices[2]': 9
+        'indices[3]': -2
+        'neighbors[0]': 162
+        'neighbors[1]': 125
+        'neighbors[2]': 135
+        'neighbors[3]': 42
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0.5656854
+          e10: 0.23431462
+          e11: 0
+          e12: -0.5656854
+          e13: 2.9656854
+          e20: 0
+          e21: 0
+          e22: -1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 41
+        'indices[1]': 42
+        'indices[2]': 37
+        'indices[3]': -2
+        'neighbors[0]': 153
+        'neighbors[1]': 136
+        'neighbors[2]': 145
+        'neighbors[3]': 43
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0.56568545
+          e10: -0.56568545
+          e11: 0
+          e12: 0.23431452
+          e13: 3.2970562
+          e20: -1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 46
+        'indices[1]': 42
+        'indices[2]': 41
+        'indices[3]': -2
+        'neighbors[0]': 144
+        'neighbors[1]': 190
+        'neighbors[2]': 159
+        'neighbors[3]': 45
+        matrix:
+          e00: 0
+          e01: 0
+          e02: -0
+          e03: 0.56568545
+          e10: -0.56568545
+          e11: 0
+          e12: -0.23431452
+          e13: 3.2970562
+          e20: -1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 27
+        'indices[1]': 43
+        'indices[2]': 31
+        'indices[3]': -1
+        'neighbors[0]': 108
+        'neighbors[1]': 111
+        'neighbors[2]': 175
+        'neighbors[3]': 47
+        matrix:
+          e00: -0.4142137
+          e01: -1
+          e02: 0.4142137
+          e03: 8.471068
+          e10: -1.1715733
+          e11: -5.6568546
+          e12: 1.1715733
+          e13: 22.748024
+          e20: 0
+          e21: -8.000001
+          e22: 0
+          e23: 19.2
+        isValid: 1
+      - 'indices[0]': 16
+        'indices[1]': 12
+        'indices[2]': 0
+        'indices[3]': -1
+        'neighbors[0]': 177
+        'neighbors[1]': 164
+        'neighbors[2]': 160
+        'neighbors[3]': 48
+        matrix:
+          e00: 0.31783712
+          e01: 1.0000001
+          e02: 0.41421366
+          e03: 6.360367
+          e10: 0.6356743
+          e11: 6.2925296
+          e12: 1.4348782
+          e13: 8.860502
+          e20: 0
+          e21: 9.797961
+          e22: 0
+          e23: -2.4494903
+        isValid: 1
+      - 'indices[0]': 32
+        'indices[1]': 33
+        'indices[2]': 45
+        'indices[3]': -1
+        'neighbors[0]': 191
+        'neighbors[1]': 142
+        'neighbors[2]': 179
+        'neighbors[3]': 50
+        matrix:
+          e00: -0.41421348
+          e01: 0.4142137
+          e02: -1
+          e03: 5.8890867
+          e10: -0.43933976
+          e11: 1.1715732
+          e12: -3.8890872
+          e13: 10.045941
+          e20: -0
+          e21: 0
+          e22: -3
+          e23: 6
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 47
+        'indices[2]': 35
+        'indices[3]': -1
+        'neighbors[0]': 117
+        'neighbors[1]': 183
+        'neighbors[2]': 108
+        'neighbors[3]': 51
+        matrix:
+          e00: -0.31783724
+          e01: -1
+          e02: -0.4142136
+          e03: 9.0103655
+          e10: -0.6356745
+          e11: -6.2925286
+          e12: -1.434878
+          e13: 25.5357
+          e20: 0
+          e21: -9.797959
+          e22: 0
+          e23: 23.5151
+        isValid: 1
+      - 'indices[0]': 10
+        'indices[1]': 23
+        'indices[2]': 22
+        'indices[3]': -1
+        'neighbors[0]': 187
+        'neighbors[1]': 125
+        'neighbors[2]': 128
+        'neighbors[3]': 52
+        matrix:
+          e00: 0.4142136
+          e01: -0.41421363
+          e02: -1
+          e03: 6.8367534
+          e10: 0.35147184
+          e11: -1.171573
+          e12: -3.6769552
+          e13: 12.214214
+          e20: 0
+          e21: 0
+          e22: -2.3999999
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 0
+        'indices[2]': 13
+        'indices[3]': -1
+        'neighbors[0]': 177
+        'neighbors[1]': 182
+        'neighbors[2]': 173
+        'neighbors[3]': 55
+        matrix:
+          e00: 0.41421345
+          e01: 0.31783733
+          e02: 1
+          e03: 6.2238407
+          e10: 0.538079
+          e11: 0.63567466
+          e12: 4.127465
+          e13: 11.831568
+          e20: 0
+          e21: 0
+          e22: 3.674234
+          e23: 7.348468
+        isValid: 1
+      - 'indices[0]': 31
+        'indices[1]': 19
+        'indices[2]': 15
+        'indices[3]': -2
+        'neighbors[0]': 169
+        'neighbors[1]': 111
+        'neighbors[2]': 183
+        'neighbors[3]': 57
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: -1.4142135
+          e12: 0.58578646
+          e13: 7.3941126
+          e20: 0
+          e21: -4
+          e22: 0
+          e23: 9.599999
+        isValid: 1
+      - 'indices[0]': 37
+        'indices[1]': 42
+        'indices[2]': 38
+        'indices[3]': -2
+        'neighbors[0]': 161
+        'neighbors[1]': 154
+        'neighbors[2]': 144
+        'neighbors[3]': 58
+        matrix:
+          e00: 0
+          e01: -0.00000007706244
+          e02: 0
+          e03: 0.56568545
+          e10: -0.56568533
+          e11: -0.00000011920929
+          e12: 0.23431458
+          e13: 3.2970562
+          e20: -1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 38
+        'indices[1]': 25
+        'indices[2]': 37
+        'indices[3]': -2
+        'neighbors[0]': 123
+        'neighbors[1]': 153
+        'neighbors[2]': 115
+        'neighbors[3]': 58
+        matrix:
+          e00: -0
+          e01: -0.000000101751496
+          e02: 0
+          e03: 0.5656856
+          e10: -0.23431452
+          e11: -0.00000023841858
+          e12: 0.56568545
+          e13: 2.9656856
+          e20: 0
+          e21: -0
+          e22: 1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 44
+        'indices[1]': 45
+        'indices[2]': 40
+        'indices[3]': -1
+        'neighbors[0]': 157
+        'neighbors[1]': 156
+        'neighbors[2]': 142
+        'neighbors[3]': 59
+        matrix:
+          e00: -1.0963762
+          e01: 0.31783736
+          e02: -0.31783715
+          e03: 7.7344317
+          e10: -5.5
+          e11: 0.8989799
+          e12: -0.33711717
+          e13: 19.94949
+          e20: -5.1961527
+          e21: 0
+          e22: 0
+          e23: 15.588457
+        isValid: 1
+      - 'indices[0]': 40
+        'indices[1]': 28
+        'indices[2]': 44
+        'indices[3]': -1
+        'neighbors[0]': 141
+        'neighbors[1]': 155
+        'neighbors[2]': 134
+        'neighbors[3]': 59
+        matrix:
+          e00: -0.41421366
+          e01: 1.0000001
+          e02: -0.31783724
+          e03: 6.4567432
+          e10: -1.4348782
+          e11: 6.2925296
+          e12: -0.6356746
+          e13: 9.659706
+          e20: 0
+          e21: 9.797961
+          e22: 0
+          e23: -2.4494903
+        isValid: 1
+      - 'indices[0]': 40
+        'indices[1]': 45
+        'indices[2]': 41
+        'indices[3]': -1
+        'neighbors[0]': 190
+        'neighbors[1]': 139
+        'neighbors[2]': 155
+        'neighbors[3]': 63
+        matrix:
+          e00: -1
+          e01: 0.4142137
+          e02: -0.41421348
+          e03: 6.4748735
+          e10: -3.8890872
+          e11: 1.1715732
+          e12: -0.43933976
+          e13: 13.4956875
+          e20: -3
+          e21: 0
+          e22: 0
+          e23: 9
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 2
+        'indices[2]': 7
+        'indices[3]': -1
+        'neighbors[0]': 166
+        'neighbors[1]': 119
+        'neighbors[2]': 185
+        'neighbors[3]': 64
+        matrix:
+          e00: 1
+          e01: -0.4142136
+          e02: 0.4142136
+          e03: 7.422539
+          e10: 3.6769552
+          e11: -1.171573
+          e12: 0.35147184
+          e13: 15.539697
+          e20: 2.3999999
+          e21: 0
+          e22: 0
+          e23: 7.1999993
+        isValid: 1
+      - 'indices[0]': 47
+        'indices[1]': 42
+        'indices[2]': 46
+        'indices[3]': -1
+        'neighbors[0]': 145
+        'neighbors[1]': 110
+        'neighbors[2]': 133
+        'neighbors[3]': 66
+        matrix:
+          e00: -1
+          e01: -0.3178374
+          e02: -0.41421348
+          e03: 7.439765
+          e10: -3.8676574
+          e11: -0.6356748
+          e12: -0.43046322
+          e13: 15.686573
+          e20: -2.939387
+          e21: 0
+          e22: 0
+          e23: 8.818161
+        isValid: 1
+      - 'indices[0]': 28
+        'indices[1]': 12
+        'indices[2]': 16
+        'indices[3]': -2
+        'neighbors[0]': 147
+        'neighbors[1]': 118
+        'neighbors[2]': 113
+        'neighbors[3]': 67
+        matrix:
+          e00: -0
+          e01: 0
+          e02: 0
+          e03: 1.4142134
+          e10: -0
+          e11: 1.4142134
+          e12: 0.58578646
+          e13: 3.6464467
+          e20: -0
+          e21: 4
+          e22: 0
+          e23: -1
+        isValid: 1
+      - 'indices[0]': 42
+        'indices[1]': 43
+        'indices[2]': 38
+        'indices[3]': -1
+        'neighbors[0]': 122
+        'neighbors[1]': 153
+        'neighbors[2]': 133
+        'neighbors[3]': 69
+        matrix:
+          e00: -1
+          e01: -0.4142136
+          e02: 0.4142136
+          e03: 7.42254
+          e10: -3.6769555
+          e11: -1.1715732
+          e12: 0.35147187
+          e13: 15.539699
+          e20: -2.4
+          e21: 0
+          e22: 0
+          e23: 7.2000003
+        isValid: 1
+      - 'indices[0]': 9
+        'indices[1]': 21
+        'indices[2]': 8
+        'indices[3]': -1
+        'neighbors[0]': 170
+        'neighbors[1]': 163
+        'neighbors[2]': 143
+        'neighbors[3]': 70
+        matrix:
+          e00: 0.41421366
+          e01: 0.31783718
+          e02: -1
+          e03: 6.2238417
+          e10: 0.5380794
+          e11: 0.63567424
+          e12: -4.1274652
+          e13: 11.831571
+          e20: 0
+          e21: 0
+          e22: -3.6742349
+          e23: 7.3484697
+        isValid: 1
+      - 'indices[0]': 8
+        'indices[1]': 4
+        'indices[2]': 9
+        'indices[3]': -1
+        'neighbors[0]': 172
+        'neighbors[1]': 162
+        'neighbors[2]': 171
+        'neighbors[3]': 70
+        matrix:
+          e00: 1.0963764
+          e01: 0.31783724
+          e02: -0.31783715
+          e03: 7.734432
+          e10: 5.5000005
+          e11: 0.8989796
+          e12: -0.3371172
+          e13: 19.949492
+          e20: 5.196153
+          e21: 0
+          e22: 0
+          e23: 15.588459
+        isValid: 1
+      - 'indices[0]': 0
+        'indices[1]': 4
+        'indices[2]': 16
+        'indices[3]': -1
+        'neighbors[0]': 109
+        'neighbors[1]': 147
+        'neighbors[2]': 132
+        'neighbors[3]': 71
+        matrix:
+          e00: 0.41421363
+          e01: 1
+          e02: 0.31783712
+          e03: 6.456743
+          e10: 1.4348781
+          e11: 6.292529
+          e12: 0.63567424
+          e13: 9.659706
+          e20: 0
+          e21: 9.79796
+          e22: 0
+          e23: -2.44949
+        isValid: 1
+      - 'indices[0]': 14
+        'indices[1]': 15
+        'indices[2]': 2
+        'indices[3]': -1
+        'neighbors[0]': 168
+        'neighbors[1]': 186
+        'neighbors[2]': 112
+        'neighbors[3]': 73
+        matrix:
+          e00: 0.4142136
+          e01: -0.4142136
+          e02: 1
+          e03: 6.8367534
+          e10: 0.35147184
+          e11: -1.171573
+          e12: 3.6769552
+          e13: 12.214213
+          e20: 0
+          e21: 0
+          e22: 2.3999999
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 2
+        'indices[1]': 3
+        'indices[2]': 7
+        'indices[3]': -1
+        'neighbors[0]': 167
+        'neighbors[1]': 158
+        'neighbors[2]': 168
+        'neighbors[3]': 74
+        matrix:
+          e00: 1.0963762
+          e01: -0.31783724
+          e02: 0.31783724
+          e03: 8.364568
+          e10: 5.2
+          e11: -0.8989795
+          e12: 0.26969382
+          e13: 20.696938
+          e20: 4.1569214
+          e21: 0
+          e22: 0
+          e23: 12.470764
+        isValid: 1
+      - 'indices[0]': 3
+        'indices[1]': 19
+        'indices[2]': 7
+        'indices[3]': -1
+        'neighbors[0]': 131
+        'neighbors[1]': 166
+        'neighbors[2]': 169
+        'neighbors[3]': 74
+        matrix:
+          e00: 0.4142136
+          e01: -1
+          e02: 0.31783724
+          e03: 9.106742
+          e10: 1.434878
+          e11: -6.2925286
+          e12: 0.6356745
+          e13: 26.334906
+          e20: 0
+          e21: -9.797959
+          e22: 0
+          e23: 23.5151
+        isValid: 1
+      - 'indices[0]': 2
+        'indices[1]': 15
+        'indices[2]': 3
+        'indices[3]': -1
+        'neighbors[0]': 169
+        'neighbors[1]': 166
+        'neighbors[2]': 165
+        'neighbors[3]': 75
+        matrix:
+          e00: 0.31783724
+          e01: -0.31783724
+          e02: 1.0963762
+          e03: 7.5860276
+          e10: 0.26969382
+          e11: -0.8989795
+          e12: 5.2
+          e13: 15.76663
+          e20: -0
+          e21: 0
+          e22: 4.1569214
+          e23: 8.313843
+        isValid: 1
+      - 'indices[0]': 15
+        'indices[1]': 19
+        'indices[2]': 3
+        'indices[3]': -1
+        'neighbors[0]': 167
+        'neighbors[1]': 168
+        'neighbors[2]': 152
+        'neighbors[3]': 75
+        matrix:
+          e00: 0.31783724
+          e01: -1
+          e02: 0.4142136
+          e03: 9.0103655
+          e10: 0.6356745
+          e11: -6.2925286
+          e12: 1.434878
+          e13: 25.5357
+          e20: 0
+          e21: -9.797959
+          e22: 0
+          e23: 23.5151
+        isValid: 1
+      - 'indices[0]': 8
+        'indices[1]': 21
+        'indices[2]': 20
+        'indices[3]': -1
+        'neighbors[0]': 180
+        'neighbors[1]': 171
+        'neighbors[2]': 162
+        'neighbors[3]': 76
+        matrix:
+          e00: 0.31783718
+          e01: 0.41421366
+          e02: -1
+          e03: 6.4283853
+          e10: 0.23837782
+          e11: 1.4348782
+          e12: -4.524762
+          e13: 11.527258
+          e20: 0
+          e21: 0
+          e22: -3.6742349
+          e23: 7.3484697
+        isValid: 1
+      - 'indices[0]': 20
+        'indices[1]': 4
+        'indices[2]': 8
+        'indices[3]': -1
+        'neighbors[0]': 163
+        'neighbors[1]': 170
+        'neighbors[2]': 109
+        'neighbors[3]': 76
+        matrix:
+          e00: 0.3178372
+          e01: 1.0963763
+          e02: -0.3178372
+          e03: 6.971946
+          e10: 0.8989795
+          e11: 8
+          e12: -0.8989795
+          e13: 10.494898
+          e20: -0
+          e21: 13.856407
+          e22: 0
+          e23: -3.4641018
+        isValid: 1
+      - 'indices[0]': 9
+        'indices[1]': 4
+        'indices[2]': 5
+        'indices[3]': -1
+        'neighbors[0]': 132
+        'neighbors[1]': 126
+        'neighbors[2]': 163
+        'neighbors[3]': 79
+        matrix:
+          e00: 1
+          e01: 0.4142137
+          e02: -0.41421363
+          e03: 6.474874
+          e10: 3.8890877
+          e11: 1.1715733
+          e12: -0.4393399
+          e13: 13.495689
+          e20: 3.0000005
+          e21: 0
+          e22: -0
+          e23: 9.000001
+        isValid: 1
+      - 'indices[0]': 5
+        'indices[1]': 0
+        'indices[2]': 1
+        'indices[3]': -1
+        'neighbors[0]': 151
+        'neighbors[1]': 184
+        'neighbors[2]': 132
+        'neighbors[3]': 80
+        matrix:
+          e00: 1
+          e01: 0.31783733
+          e02: 0.41421345
+          e03: 6.8096275
+          e10: 4.127465
+          e11: 0.63567466
+          e12: 0.538079
+          e13: 15.420953
+          e20: 3.674234
+          e21: 0
+          e22: -0
+          e23: 11.022702
+        isValid: 1
+      - 'indices[0]': 39
+        'indices[1]': 27
+        'indices[2]': 26
+        'indices[3]': -1
+        'neighbors[0]': 124
+        'neighbors[1]': 121
+        'neighbors[2]': 175
+        'neighbors[3]': 81
+        matrix:
+          e00: -0.31783712
+          e01: -0.41421363
+          e02: 1
+          e03: 7.3760514
+          e10: -0.19070229
+          e11: -1.4348781
+          e12: 4.3126297
+          e13: 14.338129
+          e20: 0
+          e21: 0
+          e22: 2.9393876
+          e23: 5.878775
+        isValid: 1
+      - 'indices[0]': 39
+        'indices[1]': 43
+        'indices[2]': 27
+        'indices[3]': -1
+        'neighbors[0]': 146
+        'neighbors[1]': 174
+        'neighbors[2]': 122
+        'neighbors[3]': 81
+        matrix:
+          e00: -0.31783712
+          e01: -1.0963765
+          e02: 0.31783712
+          e03: 9.877343
+          e10: -0.8989792
+          e11: -8.000001
+          e12: 0.8989792
+          e13: 31.694897
+          e20: 0
+          e21: -13.856408
+          e22: 0
+          e23: 33.25538
+        isValid: 1
+      - 'indices[0]': 13
+        'indices[1]': 12
+        'indices[2]': 25
+        'indices[3]': -2
+        'neighbors[0]': 114
+        'neighbors[1]': 129
+        'neighbors[2]': 177
+        'neighbors[3]': 84
+        matrix:
+          e00: 0
+          e01: 0
+          e02: -0
+          e03: 1.4142135
+          e10: 0
+          e11: 0.5857866
+          e12: 1.4142135
+          e13: 3.7426405
+          e20: 0
+          e21: 0
+          e22: 1.5
+          e23: 3
+        isValid: 1
+      - 'indices[0]': 0
+        'indices[1]': 12
+        'indices[2]': 13
+        'indices[3]': -1
+        'neighbors[0]': 176
+        'neighbors[1]': 151
+        'neighbors[2]': 147
+        'neighbors[3]': 85
+        matrix:
+          e00: 0.31783715
+          e01: 0.41421366
+          e02: 1
+          e03: 6.4283853
+          e10: 0.23837782
+          e11: 1.4348782
+          e12: 4.524762
+          e13: 11.527258
+          e20: 0
+          e21: 0
+          e22: 3.6742349
+          e23: 7.3484697
+        isValid: 1
+      - 'indices[0]': 20
+        'indices[1]': 32
+        'indices[2]': 16
+        'indices[3]': -2
+        'neighbors[0]': 118
+        'neighbors[1]': 109
+        'neighbors[2]': 179
+        'neighbors[3]': 87
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 1.4142134
+          e10: 0
+          e11: 1.4142134
+          e12: -0.58578646
+          e13: 3.6464467
+          e20: 0
+          e21: 4
+          e22: 0
+          e23: -1
+        isValid: 1
+      - 'indices[0]': 20
+        'indices[1]': 33
+        'indices[2]': 32
+        'indices[3]': -2
+        'neighbors[0]': 148
+        'neighbors[1]': 178
+        'neighbors[2]': 180
+        'neighbors[3]': 87
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: 0.5857866
+          e12: -1.4142135
+          e13: 3.7426405
+          e20: 0
+          e21: 0
+          e22: -1.5
+          e23: 3
+        isValid: 1
+      - 'indices[0]': 21
+        'indices[1]': 33
+        'indices[2]': 20
+        'indices[3]': -2
+        'neighbors[0]': 179
+        'neighbors[1]': 170
+        'neighbors[2]': 130
+        'neighbors[3]': 88
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: 0.5857866
+          e12: -1.4142135
+          e13: 3.7426405
+          e20: 0
+          e21: 0
+          e22: -1.5
+          e23: 3
+        isValid: 1
+      - 'indices[0]': 35
+        'indices[1]': 34
+        'indices[2]': 22
+        'indices[3]': -2
+        'neighbors[0]': 135
+        'neighbors[1]': 187
+        'neighbors[2]': 117
+        'neighbors[3]': 91
+        matrix:
+          e00: 0
+          e01: -0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: -0.58578646
+          e12: -1.4142135
+          e13: 5.0828424
+          e20: 0
+          e21: 0
+          e22: -1.1999998
+          e23: 2.3999996
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 13
+        'indices[2]': 14
+        'indices[3]': -2
+        'neighbors[0]': 116
+        'neighbors[1]': 186
+        'neighbors[2]': 151
+        'neighbors[3]': 93
+        matrix:
+          e00: 0
+          e01: 0
+          e02: -0
+          e03: 0.56568545
+          e10: 0.23431452
+          e11: 0
+          e12: 0.56568545
+          e13: 2.9656854
+          e20: 0
+          e21: 0
+          e22: 1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 35
+        'indices[1]': 19
+        'indices[2]': 31
+        'indices[3]': -2
+        'neighbors[0]': 152
+        'neighbors[1]': 149
+        'neighbors[2]': 188
+        'neighbors[3]': 96
+        matrix:
+          e00: -0
+          e01: 0
+          e02: 0
+          e03: 1.4142135
+          e10: 0
+          e11: -1.4142135
+          e12: -0.58578646
+          e13: 7.3941126
+          e20: 0
+          e21: -4
+          e22: 0
+          e23: 9.599999
+        isValid: 1
+      - 'indices[0]': 6
+        'indices[1]': 5
+        'indices[2]': 1
+        'indices[3]': -2
+        'neighbors[0]': 173
+        'neighbors[1]': 185
+        'neighbors[2]': 138
+        'neighbors[3]': 97
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0.56568545
+          e10: 0.56568545
+          e11: 0
+          e12: 0.23431452
+          e13: 3.2970562
+          e20: 1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 2
+        'indices[2]': 6
+        'indices[3]': -2
+        'neighbors[0]': 158
+        'neighbors[1]': 184
+        'neighbors[2]': 186
+        'neighbors[3]': 99
+        matrix:
+          e00: 0
+          e01: -0.000000059604645
+          e02: 0
+          e03: 0.5656855
+          e10: 0.5656854
+          e11: -0.00000011920929
+          e12: 0.23431458
+          e13: 3.2970562
+          e20: 1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 1
+        'indices[1]': 14
+        'indices[2]': 2
+        'indices[3]': -2
+        'neighbors[0]': 165
+        'neighbors[1]': 185
+        'neighbors[2]': 182
+        'neighbors[3]': 100
+        matrix:
+          e00: 0
+          e01: -0.000000059604645
+          e02: -0
+          e03: 0.5656855
+          e10: 0.23431458
+          e11: -0.00000011920929
+          e12: 0.5656854
+          e13: 2.9656856
+          e20: -0
+          e21: 0
+          e22: 1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 22
+        'indices[1]': 23
+        'indices[2]': 35
+        'indices[3]': -2
+        'neighbors[0]': 188
+        'neighbors[1]': 181
+        'neighbors[2]': 150
+        'neighbors[3]': 101
+        matrix:
+          e00: 0.000000017457797
+          e01: 0
+          e02: 0
+          e03: 1.4142134
+          e10: 0
+          e11: -0.58578646
+          e12: -1.4142134
+          e13: 5.082842
+          e20: -0
+          e21: 0
+          e22: -1.1999998
+          e23: 2.3999996
+        isValid: 1
+      - 'indices[0]': 23
+        'indices[1]': 19
+        'indices[2]': 35
+        'indices[3]': -2
+        'neighbors[0]': 183
+        'neighbors[1]': 187
+        'neighbors[2]': 131
+        'neighbors[3]': 102
+        matrix:
+          e00: 0.000000042146848
+          e01: 0
+          e02: 0
+          e03: 1.4142137
+          e10: 0.00000011920929
+          e11: -1.4142135
+          e12: -0.5857866
+          e13: 7.3941126
+          e20: -0
+          e21: -4
+          e22: 0
+          e23: 9.599999
+        isValid: 1
+      - 'indices[0]': 46
+        'indices[1]': 33
+        'indices[2]': 34
+        'indices[3]': -2
+        'neighbors[0]': 130
+        'neighbors[1]': 110
+        'neighbors[2]': 191
+        'neighbors[3]': 105
+        matrix:
+          e00: 0
+          e01: -0
+          e02: 0
+          e03: 0.56568545
+          e10: -0.23431452
+          e11: 0
+          e12: -0.56568545
+          e13: 2.9656854
+          e20: 0
+          e21: 0
+          e22: -1.5999999
+          e23: 3.1999998
+        isValid: 1
+      - 'indices[0]': 45
+        'indices[1]': 46
+        'indices[2]': 41
+        'indices[3]': -2
+        'neighbors[0]': 145
+        'neighbors[1]': 157
+        'neighbors[2]': 191
+        'neighbors[3]': 106
+        matrix:
+          e00: 0
+          e01: 0
+          e02: 0
+          e03: 0.56568545
+          e10: -0.56568545
+          e11: 0
+          e12: -0.23431452
+          e13: 3.2970562
+          e20: -1.5999999
+          e21: 0
+          e22: 0
+          e23: 4.7999997
+        isValid: 1
+      - 'indices[0]': 45
+        'indices[1]': 33
+        'indices[2]': 46
+        'indices[3]': -2
+        'neighbors[0]': 189
+        'neighbors[1]': 190
+        'neighbors[2]': 148
+        'neighbors[3]': 107
+        matrix:
+          e00: 0
+          e01: -0
+          e02: 0
+          e03: 0.56568545
+          e10: -0.23431452
+          e11: -0
+          e12: -0.56568545
+          e13: 2.9656854
+          e20: 0
+          e21: -0
+          e22: -1.5999999
+          e23: 3.1999998
+        isValid: 1
+      m_HullRays:
+      - {x: -0.57735026, y: -0.5773503, z: -0.57735026}
+      - {x: -0.7071068, y: 0, z: -0.7071068}
+      - {x: -0.70710677, y: 0, z: -0.70710677}
+      - {x: -0.57735026, y: 0.57735026, z: -0.57735026}
+      - {x: -0.7071067, y: -0.70710677, z: 0}
+      - {x: -1, y: 0, z: 0}
+      - {x: -1, y: 0, z: 0}
+      - {x: -0.70710677, y: 0.70710677, z: 0}
+      - {x: -0.57735026, y: -0.57735026, z: 0.57735026}
+      - {x: -0.70710677, y: 0, z: 0.7071067}
+      - {x: -0.70710677, y: 0, z: 0.70710677}
+      - {x: -0.57735026, y: 0.57735026, z: 0.57735026}
+      - {x: 0, y: -0.70710677, z: -0.7071067}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0.70710677, z: -0.70710677}
+      - {x: 0, y: -1, z: 0}
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 1, z: 0}
+      - {x: 0, y: -0.70710677, z: 0.7071067}
+      - {x: 0, y: 0, z: 1}
+      - {x: 0, y: 0, z: 1}
+      - {x: 0, y: 0.7071067, z: 0.70710677}
+      - {x: 0, y: -0.70710677, z: -0.70710677}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0, z: -1}
+      - {x: 0, y: 0.7071067, z: -0.70710677}
+      - {x: 0, y: -1, z: 0}
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 0, z: 0}
+      - {x: 0, y: 1, z: 0}
+      - {x: 0, y: -0.70710677, z: 0.7071067}
+      - {x: 0, y: 0, z: 1}
+      - {x: 0, y: 0, z: 1}
+      - {x: 0, y: 0.70710677, z: 0.70710677}
+      - {x: 0.57735026, y: -0.57735026, z: -0.57735026}
+      - {x: 0.7071068, y: 0, z: -0.7071068}
+      - {x: 0.70710677, y: 0, z: -0.7071067}
+      - {x: 0.57735026, y: 0.57735026, z: -0.5773503}
+      - {x: 0.7071067, y: -0.70710677, z: 0}
+      - {x: 1, y: 0, z: 0}
+      - {x: 1, y: 0, z: 0}
+      - {x: 0.70710677, y: 0.7071067, z: 0}
+      - {x: 0.57735026, y: -0.57735026, z: 0.57735026}
+      - {x: 0.7071068, y: 0, z: 0.7071068}
+      - {x: 0.7071068, y: 0, z: 0.7071068}
+      - {x: 0.57735026, y: 0.57735026, z: 0.57735026}
+    m_ProbeSets:
+    - m_Hash:
+        serializedVersion: 2
+        Hash: 2ec9643ff1ef36474e4b7370bed394b0
+      m_Offset: 0
+      m_Size: 48
+    m_Positions:
+    - {x: -3, y: 0.25, z: -2}
+    - {x: -3, y: 1, z: -2}
+    - {x: -3, y: 1.8, z: -2}
+    - {x: -3, y: 2.3999999, z: -2}
+    - {x: -3, y: 0.25, z: 0}
+    - {x: -3, y: 1, z: 0}
+    - {x: -3, y: 1.8, z: 0}
+    - {x: -3, y: 2.3999999, z: 0}
+    - {x: -3, y: 0.25, z: 2}
+    - {x: -3, y: 1, z: 2}
+    - {x: -3, y: 1.8, z: 2}
+    - {x: -3, y: 2.3999999, z: 2}
+    - {x: -1, y: 0.25, z: -2}
+    - {x: -1, y: 1, z: -2}
+    - {x: -1, y: 1.8, z: -2}
+    - {x: -1, y: 2.3999999, z: -2}
+    - {x: -1, y: 0.25, z: 0}
+    - {x: -1, y: 1, z: 0}
+    - {x: -1, y: 1.8, z: 0}
+    - {x: -1, y: 2.3999999, z: 0}
+    - {x: -1, y: 0.25, z: 2}
+    - {x: -1, y: 1, z: 2}
+    - {x: -1, y: 1.8, z: 2}
+    - {x: -1, y: 2.3999999, z: 2}
+    - {x: 1, y: 0.25, z: -2}
+    - {x: 1, y: 1, z: -2}
+    - {x: 1, y: 1.8, z: -2}
+    - {x: 1, y: 2.3999999, z: -2}
+    - {x: 1, y: 0.25, z: 0}
+    - {x: 1, y: 1, z: 0}
+    - {x: 1, y: 1.8, z: 0}
+    - {x: 1, y: 2.3999999, z: 0}
+    - {x: 1, y: 0.25, z: 2}
+    - {x: 1, y: 1, z: 2}
+    - {x: 1, y: 1.8, z: 2}
+    - {x: 1, y: 2.3999999, z: 2}
+    - {x: 3, y: 0.25, z: -2}
+    - {x: 3, y: 1, z: -2}
+    - {x: 3, y: 1.8, z: -2}
+    - {x: 3, y: 2.3999999, z: -2}
+    - {x: 3, y: 0.25, z: 0}
+    - {x: 3, y: 1, z: 0}
+    - {x: 3, y: 1.8, z: 0}
+    - {x: 3, y: 2.3999999, z: 0}
+    - {x: 3, y: 0.25, z: 2}
+    - {x: 3, y: 1, z: 2}
+    - {x: 3, y: 1.8, z: 2}
+    - {x: 3, y: 2.3999999, z: 2}
+    m_NonTetrahedralizedProbeSetIndexMap: []
+  m_BakedCoefficients:
+  - 'sh[ 0]': 0.17231148
+    'sh[ 1]': 0.016340315
+    'sh[ 2]': 0.0853236
+    'sh[ 3]': 0.0059000785
+    'sh[ 4]': 0.0021700987
+    'sh[ 5]': 0.022063445
+    'sh[ 6]': 0.008227292
+    'sh[ 7]': 0.0020769984
+    'sh[ 8]': -0.0019217376
+    'sh[ 9]': 0.10696789
+    'sh[10]': 0.033539694
+    'sh[11]': 0.049289662
+    'sh[12]': 0.009057862
+    'sh[13]': 0.0072991797
+    'sh[14]': 0.013905704
+    'sh[15]': 0.003982737
+    'sh[16]': -0.0003031042
+    'sh[17]': 0.0005422194
+    'sh[18]': 0.12206712
+    'sh[19]': 0.06576389
+    'sh[20]': 0.031330723
+    'sh[21]': 0.023806522
+    'sh[22]': 0.016588116
+    'sh[23]': 0.0079785865
+    'sh[24]': -0.00021163376
+    'sh[25]': -0.003478533
+    'sh[26]': 0.0018781669
+  - 'sh[ 0]': 0.17568567
+    'sh[ 1]': -0.00090014865
+    'sh[ 2]': 0.10551571
+    'sh[ 3]': 0.020973736
+    'sh[ 4]': 0.002528543
+    'sh[ 5]': 0.0077306363
+    'sh[ 6]': 0.011141946
+    'sh[ 7]': 0.004668415
+    'sh[ 8]': -0.00055616495
+    'sh[ 9]': 0.12058583
+    'sh[10]': 0.017116258
+    'sh[11]': 0.05864793
+    'sh[12]': 0.025472166
+    'sh[13]': 0.01057719
+    'sh[14]': 0.0055862996
+    'sh[15]': 0.005577634
+    'sh[16]': -0.002140591
+    'sh[17]': 0.0023126656
+    'sh[18]': 0.16718014
+    'sh[19]': 0.055437364
+    'sh[20]': 0.03664495
+    'sh[21]': 0.04491513
+    'sh[22]': 0.020666782
+    'sh[23]': 0.002754549
+    'sh[24]': 0.00028018057
+    'sh[25]': -0.011434722
+    'sh[26]': 0.008751485
+  - 'sh[ 0]': 0.33897823
+    'sh[ 1]': -0.10699554
+    'sh[ 2]': 0.22665259
+    'sh[ 3]': 0.10492263
+    'sh[ 4]': -0.02087511
+    'sh[ 5]': -0.042480208
+    'sh[ 6]': 0.011753537
+    'sh[ 7]': 0.0373667
+    'sh[ 8]': -0.0013062828
+    'sh[ 9]': 0.15586469
+    'sh[10]': -0.015769891
+    'sh[11]': 0.06481633
+    'sh[12]': 0.04840541
+    'sh[13]': -0.00096615136
+    'sh[14]': -0.00890427
+    'sh[15]': 0.0030483734
+    'sh[16]': 0.003375744
+    'sh[17]': 0.0019529668
+    'sh[18]': 0.21124455
+    'sh[19]': 0.023267884
+    'sh[20]': 0.01596186
+    'sh[21]': 0.061765607
+    'sh[22]': 0.0061416226
+    'sh[23]': -0.0031950655
+    'sh[24]': -0.0012378827
+    'sh[25]': -0.009694191
+    'sh[26]': 0.008102302
+  - 'sh[ 0]': 0.16012952
+    'sh[ 1]': -0.034169383
+    'sh[ 2]': 0.08367257
+    'sh[ 3]': 0.0273655
+    'sh[ 4]': -0.0025894658
+    'sh[ 5]': -0.01511108
+    'sh[ 6]': 0.005149254
+    'sh[ 7]': 0.0020461131
+    'sh[ 8]': -0.00085351407
+    'sh[ 9]': 0.123445496
+    'sh[10]': -0.015088292
+    'sh[11]': 0.041677598
+    'sh[12]': 0.046684157
+    'sh[13]': 0.000012383252
+    'sh[14]': -0.008036287
+    'sh[15]': 0.0018995713
+    'sh[16]': -0.0065687657
+    'sh[17]': 0.003914806
+    'sh[18]': 0.21164033
+    'sh[19]': 0.0067525296
+    'sh[20]': 0.013665344
+    'sh[21]': 0.086646795
+    'sh[22]': -0.00052410056
+    'sh[23]': -0.0025248548
+    'sh[24]': -0.0029732203
+    'sh[25]': -0.021866243
+    'sh[26]': 0.0154481325
+  - 'sh[ 0]': 0.7514541
+    'sh[ 1]': 0.47953275
+    'sh[ 2]': 0.3649987
+    'sh[ 3]': 0.07183374
+    'sh[ 4]': 0.0124007175
+    'sh[ 5]': 0.14289553
+    'sh[ 6]': -0.0020818084
+    'sh[ 7]': 0.011220296
+    'sh[ 8]': -0.05575876
+    'sh[ 9]': 0.4211357
+    'sh[10]': 0.30827942
+    'sh[11]': 0.18832724
+    'sh[12]': 0.049309168
+    'sh[13]': 0.01231439
+    'sh[14]': 0.07909248
+    'sh[15]': -0.001044967
+    'sh[16]': 0.0030654203
+    'sh[17]': -0.03094396
+    'sh[18]': 0.30409786
+    'sh[19]': 0.1949236
+    'sh[20]': 0.060645808
+    'sh[21]': 0.051721305
+    'sh[22]': 0.01502084
+    'sh[23]': 0.03230937
+    'sh[24]': -0.0003998201
+    'sh[25]': -0.005571929
+    'sh[26]': -0.013015975
+  - 'sh[ 0]': 1.334316
+    'sh[ 1]': 0.47699404
+    'sh[ 2]': 0.971985
+    'sh[ 3]': 0.23555185
+    'sh[ 4]': 0.0033768509
+    'sh[ 5]': 0.21887739
+    'sh[ 6]': 0.045063302
+    'sh[ 7]': 0.05434158
+    'sh[ 8]': -0.023442129
+    'sh[ 9]': 0.75321776
+    'sh[10]': 0.33976263
+    'sh[11]': 0.56810355
+    'sh[12]': 0.13252401
+    'sh[13]': 0.01645924
+    'sh[14]': 0.13300027
+    'sh[15]': 0.030525494
+    'sh[16]': 0.026477551
+    'sh[17]': -0.016678113
+    'sh[18]': 0.5146156
+    'sh[19]': 0.20814545
+    'sh[20]': 0.2675353
+    'sh[21]': 0.14758664
+    'sh[22]': 0.012913553
+    'sh[23]': 0.06443957
+    'sh[24]': 0.016863141
+    'sh[25]': 0.004491234
+    'sh[26]': -0.0044980287
+  - 'sh[ 0]': 0.9480057
+    'sh[ 1]': -0.43742454
+    'sh[ 2]': 0.69858754
+    'sh[ 3]': 0.103562444
+    'sh[ 4]': -0.027799709
+    'sh[ 5]': -0.16078554
+    'sh[ 6]': 0.034544438
+    'sh[ 7]': 0.034615528
+    'sh[ 8]': -0.023860877
+    'sh[ 9]': 0.6032481
+    'sh[10]': -0.26162818
+    'sh[11]': 0.41996226
+    'sh[12]': 0.10020663
+    'sh[13]': -0.014002386
+    'sh[14]': -0.10332261
+    'sh[15]': 0.02282686
+    'sh[16]': 0.017631248
+    'sh[17]': -0.01354982
+    'sh[18]': 0.47688374
+    'sh[19]': -0.12223807
+    'sh[20]': 0.19853036
+    'sh[21]': 0.12216295
+    'sh[22]': -0.0051166816
+    'sh[23]': -0.06384162
+    'sh[24]': 0.015850648
+    'sh[25]': -0.002684442
+    'sh[26]': -0.004797856
+  - 'sh[ 0]': 0.58310753
+    'sh[ 1]': -0.3815823
+    'sh[ 2]': 0.27327818
+    'sh[ 3]': 0.046587896
+    'sh[ 4]': -0.019768804
+    'sh[ 5]': -0.100988135
+    'sh[ 6]': -0.00007566824
+    'sh[ 7]': 0.00610125
+    'sh[ 8]': -0.032765977
+    'sh[ 9]': 0.3803658
+    'sh[10]': -0.22350912
+    'sh[11]': 0.14034656
+    'sh[12]': 0.0525615
+    'sh[13]': -0.011390074
+    'sh[14]': -0.060941473
+    'sh[15]': 0.0006946852
+    'sh[16]': -0.0016760983
+    'sh[17]': -0.018081682
+    'sh[18]': 0.38615406
+    'sh[19]': -0.10412316
+    'sh[20]': 0.031520475
+    'sh[21]': 0.060130194
+    'sh[22]': -0.0068863938
+    'sh[23]': -0.03455909
+    'sh[24]': 0.002301729
+    'sh[25]': -0.018319122
+    'sh[26]': -0.0039275177
+  - 'sh[ 0]': 0.594291
+    'sh[ 1]': 0.19137746
+    'sh[ 2]': -0.28784442
+    'sh[ 3]': 0.016907865
+    'sh[ 4]': -0.04256046
+    'sh[ 5]': -0.19920734
+    'sh[ 6]': 0.022732047
+    'sh[ 7]': 0.025431527
+    'sh[ 8]': -0.027578214
+    'sh[ 9]': 0.28685248
+    'sh[10]': 0.14291511
+    'sh[11]': -0.17344932
+    'sh[12]': -0.008574287
+    'sh[13]': -0.0077533196
+    'sh[14]': -0.089618996
+    'sh[15]': 0.01299969
+    'sh[16]': -0.00049100455
+    'sh[17]': -0.010990333
+    'sh[18]': 0.22339572
+    'sh[19]': 0.109816134
+    'sh[20]': -0.12105723
+    'sh[21]': 0.0025921066
+    'sh[22]': -0.000098565266
+    'sh[23]': -0.0443272
+    'sh[24]': 0.009188149
+    'sh[25]': -0.012971741
+    'sh[26]': -0.0030024934
+  - 'sh[ 0]': 0.7390283
+    'sh[ 1]': 0.10333399
+    'sh[ 2]': -0.56773996
+    'sh[ 3]': 0.0470917
+    'sh[ 4]': 0.0090948725
+    'sh[ 5]': -0.059822295
+    'sh[ 6]': 0.042658422
+    'sh[ 7]': -0.03104451
+    'sh[ 8]': 0.0009405241
+    'sh[ 9]': 0.39126486
+    'sh[10]': 0.06832701
+    'sh[11]': -0.2986345
+    'sh[12]': 0.03614662
+    'sh[13]': 0.0065519833
+    'sh[14]': -0.035760246
+    'sh[15]': 0.0222339
+    'sh[16]': -0.020628477
+    'sh[17]': 0.00078081625
+    'sh[18]': 0.3087381
+    'sh[19]': 0.06432066
+    'sh[20]': -0.17908229
+    'sh[21]': 0.020150054
+    'sh[22]': 0.0027904063
+    'sh[23]': -0.023206176
+    'sh[24]': 0.012196604
+    'sh[25]': -0.012155994
+    'sh[26]': 0.002561672
+  - 'sh[ 0]': 0.58538586
+    'sh[ 1]': -0.25530043
+    'sh[ 2]': -0.2771694
+    'sh[ 3]': -0.0048737014
+    'sh[ 4]': -0.00057985046
+    'sh[ 5]': 0.023772927
+    'sh[ 6]': 0.013015622
+    'sh[ 7]': 0.003178493
+    'sh[ 8]': -0.022515262
+    'sh[ 9]': 0.28961736
+    'sh[10]': -0.07788645
+    'sh[11]': -0.17813516
+    'sh[12]': 0.011539769
+    'sh[13]': -0.00065830635
+    'sh[14]': 0.015804734
+    'sh[15]': 0.010881545
+    'sh[16]': -0.0033392624
+    'sh[17]': -0.003912438
+    'sh[18]': 0.29324377
+    'sh[19]': -0.01776088
+    'sh[20]': -0.140717
+    'sh[21]': 0.017304147
+    'sh[22]': -0.001040456
+    'sh[23]': 0.0067337006
+    'sh[24]': 0.008814299
+    'sh[25]': -0.0059647597
+    'sh[26]': 0.0033742914
+  - 'sh[ 0]': 0.3521905
+    'sh[ 1]': -0.15941162
+    'sh[ 2]': -0.20560268
+    'sh[ 3]': -0.002484727
+    'sh[ 4]': 0.004530602
+    'sh[ 5]': 0.07527432
+    'sh[ 6]': 0.01124576
+    'sh[ 7]': 0.011848949
+    'sh[ 8]': -0.011909708
+    'sh[ 9]': 0.21598934
+    'sh[10]': -0.08610154
+    'sh[11]': -0.13803089
+    'sh[12]': 0.01667185
+    'sh[13]': 0.0013753299
+    'sh[14]': 0.04216824
+    'sh[15]': 0.008920958
+    'sh[16]': -0.0048596454
+    'sh[17]': -0.0062214877
+    'sh[18]': 0.26828778
+    'sh[19]': -0.045864463
+    'sh[20]': -0.12852535
+    'sh[21]': 0.01322901
+    'sh[22]': -0.00013279358
+    'sh[23]': 0.021529738
+    'sh[24]': 0.009134836
+    'sh[25]': -0.012731989
+    'sh[26]': 0.0032062712
+  - 'sh[ 0]': 0.11306542
+    'sh[ 1]': 0.0076237572
+    'sh[ 2]': -0.0074869706
+    'sh[ 3]': 0.0027055857
+    'sh[ 4]': 0.0014441027
+    'sh[ 5]': -0.002591199
+    'sh[ 6]': -0.0003745461
+    'sh[ 7]': -0.000544319
+    'sh[ 8]': -0.0017342356
+    'sh[ 9]': 0.09445982
+    'sh[10]': 0.040733114
+    'sh[11]': -0.01440387
+    'sh[12]': 0.007935223
+    'sh[13]': 0.0029566912
+    'sh[14]': -0.0056956443
+    'sh[15]': -0.0013651944
+    'sh[16]': -0.0010846211
+    'sh[17]': -0.0030316457
+    'sh[18]': 0.17704096
+    'sh[19]': 0.11518925
+    'sh[20]': -0.027001858
+    'sh[21]': 0.02563903
+    'sh[22]': 0.0071197264
+    'sh[23]': -0.013052423
+    'sh[24]': -0.0029938028
+    'sh[25]': -0.0012470543
+    'sh[26]': -0.006627983
+  - 'sh[ 0]': 0.21236199
+    'sh[ 1]': 0.050465528
+    'sh[ 2]': 0.005616346
+    'sh[ 3]': -0.019749355
+    'sh[ 4]': 0.001230962
+    'sh[ 5]': -0.009619953
+    'sh[ 6]': 0.0024086994
+    'sh[ 7]': -0.014327556
+    'sh[ 8]': -0.0011401904
+    'sh[ 9]': 0.23312065
+    'sh[10]': 0.114581734
+    'sh[11]': -0.065058
+    'sh[12]': 0.0046936385
+    'sh[13]': 0.004816359
+    'sh[14]': -0.02761185
+    'sh[15]': 0.0014557581
+    'sh[16]': -0.0119029395
+    'sh[17]': -0.003756753
+    'sh[18]': 0.4717044
+    'sh[19]': 0.2823155
+    'sh[20]': -0.19235396
+    'sh[21]': 0.051043008
+    'sh[22]': 0.011604596
+    'sh[23]': -0.07100086
+    'sh[24]': 0.0018695785
+    'sh[25]': -0.010753819
+    'sh[26]': -0.008979792
+  - 'sh[ 0]': 0.31756943
+    'sh[ 1]': 0.017732147
+    'sh[ 2]': -0.07143514
+    'sh[ 3]': -0.011948299
+    'sh[ 4]': 0.004639135
+    'sh[ 5]': -0.005667529
+    'sh[ 6]': 0.0057849716
+    'sh[ 7]': -0.01359058
+    'sh[ 8]': 0.00087664527
+    'sh[ 9]': 0.4387905
+    'sh[10]': 0.060215246
+    'sh[11]': -0.23017605
+    'sh[12]': 0.018288285
+    'sh[13]': 0.004920659
+    'sh[14]': -0.012741096
+    'sh[15]': 0.00932958
+    'sh[16]': -0.012498818
+    'sh[17]': 0.0022015984
+    'sh[18]': 0.9629449
+    'sh[19]': 0.15535386
+    'sh[20]': -0.5960631
+    'sh[21]': 0.07513096
+    'sh[22]': 0.0070342086
+    'sh[23]': -0.03089065
+    'sh[24]': 0.020740526
+    'sh[25]': -0.018254662
+    'sh[26]': 0.005838507
+  - 'sh[ 0]': 0.33632728
+    'sh[ 1]': -0.014859241
+    'sh[ 2]': -0.08295765
+    'sh[ 3]': -0.01119304
+    'sh[ 4]': 0.0050588115
+    'sh[ 5]': -0.005921116
+    'sh[ 6]': 0.0058923303
+    'sh[ 7]': -0.013425736
+    'sh[ 8]': 0.0005515021
+    'sh[ 9]': 0.48439676
+    'sh[10]': 0.0015849916
+    'sh[11]': -0.25475958
+    'sh[12]': 0.023297982
+    'sh[13]': 0.0042845346
+    'sh[14]': -0.002874484
+    'sh[15]': 0.009271768
+    'sh[16]': -0.011986028
+    'sh[17]': 0.0014452797
+    'sh[18]': 1.0714372
+    'sh[19]': 0.019828174
+    'sh[20]': -0.6573586
+    'sh[21]': 0.08196493
+    'sh[22]': 0.004755121
+    'sh[23]': -0.0037784467
+    'sh[24]': 0.020387493
+    'sh[25]': -0.019043107
+    'sh[26]': 0.004228763
+  - 'sh[ 0]': 0.027285265
+    'sh[ 1]': 0.01588165
+    'sh[ 2]': -0.021455036
+    'sh[ 3]': 0.005722471
+    'sh[ 4]': 0.0012525482
+    'sh[ 5]': -0.0051506977
+    'sh[ 6]': 0.0007404241
+    'sh[ 7]': -0.001707418
+    'sh[ 8]': -0.0006764057
+    'sh[ 9]': 0.05485892
+    'sh[10]': 0.03203209
+    'sh[11]': -0.043232005
+    'sh[12]': 0.011474655
+    'sh[13]': 0.0025395665
+    'sh[14]': -0.010354953
+    'sh[15]': 0.0014921143
+    'sh[16]': -0.0034488176
+    'sh[17]': -0.0013596575
+    'sh[18]': 0.1305431
+    'sh[19]': 0.076267354
+    'sh[20]': -0.1029169
+    'sh[21]': 0.027292665
+    'sh[22]': 0.006052109
+    'sh[23]': -0.024640327
+    'sh[24]': 0.003552081
+    'sh[25]': -0.00821374
+    'sh[26]': -0.003235284
+  - 'sh[ 0]': 0.2952822
+    'sh[ 1]': 0.037648033
+    'sh[ 2]': 0.048713848
+    'sh[ 3]': -0.17409591
+    'sh[ 4]': -0.014173291
+    'sh[ 5]': -0.0022488763
+    'sh[ 6]': -0.004348023
+    'sh[ 7]': -0.04179059
+    'sh[ 8]': 0.026138702
+    'sh[ 9]': 0.21220808
+    'sh[10]': 0.062117357
+    'sh[11]': -0.028067151
+    'sh[12]': -0.08099654
+    'sh[13]': -0.005746875
+    'sh[14]': -0.014035407
+    'sh[15]': 0.0018204956
+    'sh[16]': -0.02955407
+    'sh[17]': 0.013417772
+    'sh[18]': 0.34609374
+    'sh[19]': 0.08970091
+    'sh[20]': -0.1492147
+    'sh[21]': -0.0030121517
+    'sh[22]': -0.0070558987
+    'sh[23]': -0.039701972
+    'sh[24]': 0.010659766
+    'sh[25]': -0.035174515
+    'sh[26]': 0.0040800213
+  - 'sh[ 0]': 0.28735542
+    'sh[ 1]': -0.036461875
+    'sh[ 2]': 0.03068197
+    'sh[ 3]': -0.15658104
+    'sh[ 4]': 0.035089046
+    'sh[ 5]': -0.0129102655
+    'sh[ 6]': -0.002952045
+    'sh[ 7]': -0.0400409
+    'sh[ 8]': 0.020749826
+    'sh[ 9]': 0.22709031
+    'sh[10]': 0.007279865
+    'sh[11]': -0.05712538
+    'sh[12]': -0.072713986
+    'sh[13]': 0.018984776
+    'sh[14]': -0.016499082
+    'sh[15]': 0.0059922994
+    'sh[16]': -0.034691844
+    'sh[17]': 0.014650049
+    'sh[18]': 0.3677771
+    'sh[19]': 0.044004455
+    'sh[20]': -0.20751095
+    'sh[21]': -0.004341047
+    'sh[22]': 0.008927425
+    'sh[23]': -0.03634414
+    'sh[24]': 0.021462426
+    'sh[25]': -0.04645877
+    'sh[26]': 0.012530137
+  - 'sh[ 0]': 0.2613747
+    'sh[ 1]': -0.059223186
+    'sh[ 2]': 0.011028556
+    'sh[ 3]': -0.09933514
+    'sh[ 4]': 0.02598691
+    'sh[ 5]': -0.008753336
+    'sh[ 6]': -0.00058256683
+    'sh[ 7]': -0.020285299
+    'sh[ 8]': 0.006694919
+    'sh[ 9]': 0.22353384
+    'sh[10]': -0.02519365
+    'sh[11]': -0.06369933
+    'sh[12]': -0.041616034
+    'sh[13]': 0.015895985
+    'sh[14]': -0.006453638
+    'sh[15]': 0.0050128065
+    'sh[16]': -0.01907471
+    'sh[17]': 0.0057020434
+    'sh[18]': 0.37861487
+    'sh[19]': -0.0016097727
+    'sh[20]': -0.20814826
+    'sh[21]': 0.0054016444
+    'sh[22]': 0.007201434
+    'sh[23]': -0.00749964
+    'sh[24]': 0.016203942
+    'sh[25]': -0.02849457
+    'sh[26]': 0.0076973727
+  - 'sh[ 0]': 0.25245348
+    'sh[ 1]': 0.026923977
+    'sh[ 2]': -0.05888516
+    'sh[ 3]': -0.12972006
+    'sh[ 4]': -0.036678836
+    'sh[ 5]': -0.015806204
+    'sh[ 6]': -0.0005298026
+    'sh[ 7]': 0.04203308
+    'sh[ 8]': 0.012601235
+    'sh[ 9]': 0.14678583
+    'sh[10]': 0.048125446
+    'sh[11]': -0.057283778
+    'sh[12]': -0.06664593
+    'sh[13]': -0.02191019
+    'sh[14]': -0.024023317
+    'sh[15]': 0.004727239
+    'sh[16]': 0.019127922
+    'sh[17]': 0.0063731656
+    'sh[18]': 0.17947665
+    'sh[19]': 0.088933155
+    'sh[20]': -0.09719493
+    'sh[21]': -0.034021147
+    'sh[22]': -0.014395439
+    'sh[23]': -0.03506174
+    'sh[24]': 0.012537535
+    'sh[25]': -0.002936346
+    'sh[26]': 0.0010854583
+  - 'sh[ 0]': 0.2780828
+    'sh[ 1]': -0.00036704374
+    'sh[ 2]': -0.08219079
+    'sh[ 3]': -0.15970358
+    'sh[ 4]': -0.015612147
+    'sh[ 5]': -0.015215887
+    'sh[ 6]': 0.0019847658
+    'sh[ 7]': 0.072061494
+    'sh[ 8]': 0.022128489
+    'sh[ 9]': 0.17532143
+    'sh[10]': 0.022640442
+    'sh[11]': -0.07247509
+    'sh[12]': -0.078713834
+    'sh[13]': -0.0060681556
+    'sh[14]': -0.019060634
+    'sh[15]': 0.006372881
+    'sh[16]': 0.033522896
+    'sh[17]': 0.014176027
+    'sh[18]': 0.23046064
+    'sh[19]': 0.05726854
+    'sh[20]': -0.098055586
+    'sh[21]': -0.040630713
+    'sh[22]': -0.004027341
+    'sh[23]': -0.026904222
+    'sh[24]': 0.016683513
+    'sh[25]': 0.0070585664
+    'sh[26]': 0.011495268
+  - 'sh[ 0]': 0.257495
+    'sh[ 1]': -0.04654399
+    'sh[ 2]': -0.0649388
+    'sh[ 3]': -0.14857277
+    'sh[ 4]': 0.03569466
+    'sh[ 5]': 0.01548847
+    'sh[ 6]': 0.0029330887
+    'sh[ 7]': 0.070427746
+    'sh[ 8]': 0.025239421
+    'sh[ 9]': 0.17486577
+    'sh[10]': -0.013532268
+    'sh[11]': -0.07449266
+    'sh[12]': -0.0736409
+    'sh[13]': 0.018567866
+    'sh[14]': -0.00051702413
+    'sh[15]': 0.009709766
+    'sh[16]': 0.03765239
+    'sh[17]': 0.017736696
+    'sh[18]': 0.2545653
+    'sh[19]': 0.012192992
+    'sh[20]': -0.10557492
+    'sh[21]': -0.030897949
+    'sh[22]': 0.007011361
+    'sh[23]': -0.016675768
+    'sh[24]': 0.02638164
+    'sh[25]': 0.013953632
+    'sh[26]': 0.020525588
+  - 'sh[ 0]': 0.24511862
+    'sh[ 1]': -0.07321526
+    'sh[ 2]': -0.066866145
+    'sh[ 3]': -0.13539426
+    'sh[ 4]': 0.059946023
+    'sh[ 5]': 0.023690706
+    'sh[ 6]': 0.0017246787
+    'sh[ 7]': 0.06328715
+    'sh[ 8]': 0.020518444
+    'sh[ 9]': 0.16270763
+    'sh[10]': -0.03810504
+    'sh[11]': -0.08599062
+    'sh[12]': -0.068213925
+    'sh[13]': 0.031191055
+    'sh[14]': 0.004628097
+    'sh[15]': 0.0105316015
+    'sh[16]': 0.030589404
+    'sh[17]': 0.013767324
+    'sh[18]': 0.24957787
+    'sh[19]': -0.031523522
+    'sh[20]': -0.1413048
+    'sh[21]': -0.04358563
+    'sh[22]': 0.017159712
+    'sh[23]': -0.0100113535
+    'sh[24]': 0.030375171
+    'sh[25]': 0.008806802
+    'sh[26]': 0.022668239
+  - 'sh[ 0]': 0.12865785
+    'sh[ 1]': 0.012258388
+    'sh[ 2]': 0.015944542
+    'sh[ 3]': -0.020391734
+    'sh[ 4]': -0.0039633657
+    'sh[ 5]': -0.00028895822
+    'sh[ 6]': -0.0003872906
+    'sh[ 7]': 0.0000072005532
+    'sh[ 8]': -0.0005222103
+    'sh[ 9]': 0.09967482
+    'sh[10]': 0.044817366
+    'sh[11]': -0.005621061
+    'sh[12]': -0.021022426
+    'sh[13]': -0.0044168076
+    'sh[14]': -0.004410001
+    'sh[15]': -0.0014366456
+    'sh[16]': -0.00013371982
+    'sh[17]': -0.0025565787
+    'sh[18]': 0.17851472
+    'sh[19]': 0.11887903
+    'sh[20]': -0.02292133
+    'sh[21]': -0.03744777
+    'sh[22]': -0.009078247
+    'sh[23]': -0.011751983
+    'sh[24]': -0.0031697406
+    'sh[25]': 0.00009626288
+    'sh[26]': -0.006539758
+  - 'sh[ 0]': 0.1649083
+    'sh[ 1]': 0.04282802
+    'sh[ 2]': -0.02693871
+    'sh[ 3]': -0.030572383
+    'sh[ 4]': -0.0029934
+    'sh[ 5]': -0.010501726
+    'sh[ 6]': -0.000088594
+    'sh[ 7]': -0.0004036983
+    'sh[ 8]': -0.0016718706
+    'sh[ 9]': 0.20842499
+    'sh[10]': 0.10327236
+    'sh[11]': -0.078175165
+    'sh[12]': -0.033398833
+    'sh[13]': -0.0055390685
+    'sh[14]': -0.022882167
+    'sh[15]': 0.000071951385
+    'sh[16]': 0.0017856535
+    'sh[17]': -0.0031751806
+    'sh[18]': 0.45702314
+    'sh[19]': 0.259098
+    'sh[20]': -0.1887656
+    'sh[21]': -0.06719265
+    'sh[22]': -0.01248772
+    'sh[23]': -0.05616885
+    'sh[24]': 0.00095994317
+    'sh[25]': 0.005203944
+    'sh[26]': -0.0069703995
+  - 'sh[ 0]': 0.2698493
+    'sh[ 1]': 0.02345211
+    'sh[ 2]': -0.09834474
+    'sh[ 3]': -0.03654758
+    'sh[ 4]': -0.0014153977
+    'sh[ 5]': -0.0066775554
+    'sh[ 6]': 0.004366394
+    'sh[ 7]': 0.00038751995
+    'sh[ 8]': 0.0013447071
+    'sh[ 9]': 0.41248932
+    'sh[10]': 0.062751696
+    'sh[11]': -0.2471282
+    'sh[12]': -0.049523793
+    'sh[13]': -0.0040022666
+    'sh[14]': -0.0127090365
+    'sh[15]': 0.008142419
+    'sh[16]': 0.0043117786
+    'sh[17]': 0.0024306262
+    'sh[18]': 0.9471322
+    'sh[19]': 0.15523982
+    'sh[20]': -0.5994333
+    'sh[21]': -0.10510658
+    'sh[22]': -0.009665423
+    'sh[23]': -0.032238282
+    'sh[24]': 0.020081604
+    'sh[25]': 0.01275606
+    'sh[26]': 0.006027818
+  - 'sh[ 0]': 0.2807169
+    'sh[ 1]': -0.0019424201
+    'sh[ 2]': -0.115389004
+    'sh[ 3]': -0.04682173
+    'sh[ 4]': 0.0011843853
+    'sh[ 5]': -0.00047281358
+    'sh[ 6]': 0.0040151244
+    'sh[ 7]': -0.0010865644
+    'sh[ 8]': 0.0006325352
+    'sh[ 9]': 0.4562833
+    'sh[10]': 0.0071302783
+    'sh[11]': -0.27282673
+    'sh[12]': -0.059161495
+    'sh[13]': 0.0002429724
+    'sh[14]': -0.00075702165
+    'sh[15]': 0.0081997635
+    'sh[16]': 0.0045652306
+    'sh[17]': 0.0015904438
+    'sh[18]': 1.052279
+    'sh[19]': 0.018517932
+    'sh[20]': -0.6656029
+    'sh[21]': -0.12121283
+    'sh[22]': -0.0017047813
+    'sh[23]': -0.0040470003
+    'sh[24]': 0.019719508
+    'sh[25]': 0.01521464
+    'sh[26]': 0.0047150636
+  - 'sh[ 0]': 0.027380707
+    'sh[ 1]': 0.015815495
+    'sh[ 2]': -0.02142818
+    'sh[ 3]': -0.0057533244
+    'sh[ 4]': -0.001219631
+    'sh[ 5]': -0.0051679215
+    'sh[ 6]': 0.0007374478
+    'sh[ 7]': 0.0016918667
+    'sh[ 8]': -0.00068164716
+    'sh[ 9]': 0.054893468
+    'sh[10]': 0.032025475
+    'sh[11]': -0.043232914
+    'sh[12]': -0.011428649
+    'sh[13]': -0.0025140257
+    'sh[14]': -0.010365967
+    'sh[15]': 0.001491638
+    'sh[16]': 0.0034342438
+    'sh[17]': -0.00136643
+    'sh[18]': 0.13059685
+    'sh[19]': 0.07628893
+    'sh[20]': -0.102938585
+    'sh[21]': -0.02716993
+    'sh[22]': -0.006003772
+    'sh[23]': -0.024660397
+    'sh[24]': 0.0035519656
+    'sh[25]': 0.00818625
+    'sh[26]': -0.0032479514
+  - 'sh[ 0]': 0.16908258
+    'sh[ 1]': 0.0126439985
+    'sh[ 2]': -0.0069208653
+    'sh[ 3]': -0.083436236
+    'sh[ 4]': -0.0095887
+    'sh[ 5]': -0.005755628
+    'sh[ 6]': 0.00081708736
+    'sh[ 7]': -0.0048883134
+    'sh[ 8]': 0.010334612
+    'sh[ 9]': 0.15655987
+    'sh[10]': 0.043537777
+    'sh[11]': -0.07265046
+    'sh[12]': -0.06556924
+    'sh[13]': -0.011325069
+    'sh[14]': -0.026846616
+    'sh[15]': 0.007946006
+    'sh[16]': 0.009115103
+    'sh[17]': 0.002173516
+    'sh[18]': 0.2991281
+    'sh[19]': 0.12542827
+    'sh[20]': -0.18473285
+    'sh[21]': -0.09142703
+    'sh[22]': -0.0260615
+    'sh[23]': -0.082022764
+    'sh[24]': 0.02490772
+    'sh[25]': 0.044465914
+    'sh[26]': 0.0034946587
+  - 'sh[ 0]': 0.17263475
+    'sh[ 1]': 0.0032707208
+    'sh[ 2]': -0.013659725
+    'sh[ 3]': -0.07049949
+    'sh[ 4]': 0.0021307438
+    'sh[ 5]': -0.0073535363
+    'sh[ 6]': 0.003337769
+    'sh[ 7]': 0.0023800617
+    'sh[ 8]': 0.008172995
+    'sh[ 9]': 0.16567518
+    'sh[10]': 0.026104338
+    'sh[11]': -0.08912526
+    'sh[12]': -0.061820175
+    'sh[13]': -0.0031172882
+    'sh[14]': -0.015234247
+    'sh[15]': 0.010382688
+    'sh[16]': 0.011424695
+    'sh[17]': 0.0056950827
+    'sh[18]': 0.3395409
+    'sh[19]': 0.056540042
+    'sh[20]': -0.23020428
+    'sh[21]': -0.09555036
+    'sh[22]': -0.008286042
+    'sh[23]': -0.03697583
+    'sh[24]': 0.026875967
+    'sh[25]': 0.03749567
+    'sh[26]': 0.007479257
+  - 'sh[ 0]': 0.17455295
+    'sh[ 1]': -0.014845406
+    'sh[ 2]': -0.018276162
+    'sh[ 3]': -0.0520394
+    'sh[ 4]': 0.004226828
+    'sh[ 5]': -0.0016195173
+    'sh[ 6]': 0.0014749423
+    'sh[ 7]': 0.0019750067
+    'sh[ 8]': 0.0049575046
+    'sh[ 9]': 0.17113058
+    'sh[10]': 0.0013538556
+    'sh[11]': -0.07938278
+    'sh[12]': -0.04863666
+    'sh[13]': 0.00066682365
+    'sh[14]': -0.0016220044
+    'sh[15]': 0.006493027
+    'sh[16]': 0.007893268
+    'sh[17]': 0.0032067306
+    'sh[18]': 0.34122634
+    'sh[19]': 0.006208854
+    'sh[20]': -0.20670082
+    'sh[21]': -0.07716683
+    'sh[22]': -0.0022510574
+    'sh[23]': -0.0038006143
+    'sh[24]': 0.016591236
+    'sh[25]': 0.022373436
+    'sh[26]': 0.0051760413
+  - 'sh[ 0]': 0.18994708
+    'sh[ 1]': 0.013012205
+    'sh[ 2]': 0.010984991
+    'sh[ 3]': -0.019929996
+    'sh[ 4]': -0.00082828465
+    'sh[ 5]': 0.01350021
+    'sh[ 6]': -0.00000013979124
+    'sh[ 7]': 0.019812852
+    'sh[ 8]': -0.00030875907
+    'sh[ 9]': 0.10992251
+    'sh[10]': 0.03346583
+    'sh[11]': -0.0181989
+    'sh[12]': -0.017844498
+    'sh[13]': -0.0024872588
+    'sh[14]': -0.0023339086
+    'sh[15]': 0.0020932604
+    'sh[16]': 0.0119493725
+    'sh[17]': 0.00078454765
+    'sh[18]': 0.188464
+    'sh[19]': 0.09127784
+    'sh[20]': -0.041286364
+    'sh[21]': -0.0088206865
+    'sh[22]': 0.0014500369
+    'sh[23]': -0.0034111897
+    'sh[24]': 0.007345561
+    'sh[25]': 0.021585185
+    'sh[26]': -0.0019791357
+  - 'sh[ 0]': 0.21761996
+    'sh[ 1]': 0.045298733
+    'sh[ 2]': 0.061968654
+    'sh[ 3]': -0.008225202
+    'sh[ 4]': 0.009401092
+    'sh[ 5]': 0.029404849
+    'sh[ 6]': 0.009863257
+    'sh[ 7]': 0.054029297
+    'sh[ 8]': 0.0074192313
+    'sh[ 9]': 0.13547957
+    'sh[10]': 0.040320206
+    'sh[11]': -0.005315116
+    'sh[12]': -0.024204807
+    'sh[13]': 0.0015279658
+    'sh[14]': 0.0030075286
+    'sh[15]': 0.010706519
+    'sh[16]': 0.027462611
+    'sh[17]': 0.0054972684
+    'sh[18]': 0.25578448
+    'sh[19]': 0.10743094
+    'sh[20]': -0.009533175
+    'sh[21]': -0.0141377
+    'sh[22]': 0.007039997
+    'sh[23]': 0.019280052
+    'sh[24]': 0.030608375
+    'sh[25]': 0.052235458
+    'sh[26]': 0.0036991087
+  - 'sh[ 0]': 0.22880805
+    'sh[ 1]': 0.005786561
+    'sh[ 2]': 0.06881757
+    'sh[ 3]': -0.023492739
+    'sh[ 4]': 0.0020893076
+    'sh[ 5]': 0.0038788843
+    'sh[ 6]': 0.008729507
+    'sh[ 7]': 0.0429891
+    'sh[ 8]': 0.008852227
+    'sh[ 9]': 0.14879024
+    'sh[10]': 0.013012946
+    'sh[11]': -0.00037576116
+    'sh[12]': -0.025801789
+    'sh[13]': 0.002775381
+    'sh[14]': -0.0011753149
+    'sh[15]': 0.009158926
+    'sh[16]': 0.02378725
+    'sh[17]': 0.0065233028
+    'sh[18]': 0.29449266
+    'sh[19]': 0.042123646
+    'sh[20]': 0.019943483
+    'sh[21]': -0.004390715
+    'sh[22]': 0.0063855643
+    'sh[23]': 0.00398734
+    'sh[24]': 0.026780775
+    'sh[25]': 0.04512156
+    'sh[26]': 0.011662546
+  - 'sh[ 0]': 0.14188713
+    'sh[ 1]': -0.040693708
+    'sh[ 2]': -0.01801684
+    'sh[ 3]': -0.052294746
+    'sh[ 4]': 0.010402385
+    'sh[ 5]': -0.007651615
+    'sh[ 6]': 0.000663596
+    'sh[ 7]': 0.015780373
+    'sh[ 8]': 0.011031452
+    'sh[ 9]': 0.10691933
+    'sh[10]': -0.019008093
+    'sh[11]': -0.049882725
+    'sh[12]': -0.037445538
+    'sh[13]': 0.007943696
+    'sh[14]': -0.007433316
+    'sh[15]': 0.008115272
+    'sh[16]': 0.013640117
+    'sh[17]': 0.008739696
+    'sh[18]': 0.20071384
+    'sh[19]': -0.022805799
+    'sh[20]': -0.11660365
+    'sh[21]': -0.04703934
+    'sh[22]': 0.007383424
+    'sh[23]': -0.012690869
+    'sh[24]': 0.02402048
+    'sh[25]': 0.02111649
+    'sh[26]': 0.015780225
+  - 'sh[ 0]': 0.051705554
+    'sh[ 1]': -0.0069566793
+    'sh[ 2]': -0.0047640526
+    'sh[ 3]': -0.017470019
+    'sh[ 4]': -0.004804103
+    'sh[ 5]': 0.002929604
+    'sh[ 6]': -0.0018835635
+    'sh[ 7]': 0.001670856
+    'sh[ 8]': 0.00060923555
+    'sh[ 9]': 0.038008645
+    'sh[10]': 0.009580115
+    'sh[11]': -0.004578361
+    'sh[12]': -0.020220453
+    'sh[13]': -0.008496462
+    'sh[14]': -0.0004710976
+    'sh[15]': -0.0019121692
+    'sh[16]': 0.0022929213
+    'sh[17]': 0.00048855564
+    'sh[18]': 0.09061107
+    'sh[19]': 0.039535925
+    'sh[20]': 0.018522339
+    'sh[21]': -0.036224198
+    'sh[22]': -0.018635642
+    'sh[23]': -0.0033293776
+    'sh[24]': -0.0024926146
+    'sh[25]': 0.0063783024
+    'sh[26]': 0.0011158894
+  - 'sh[ 0]': 0.064220294
+    'sh[ 1]': 0.005077738
+    'sh[ 2]': 0.01182874
+    'sh[ 3]': -0.02812516
+    'sh[ 4]': -0.0033832495
+    'sh[ 5]': 0.0025171593
+    'sh[ 6]': -0.0008516519
+    'sh[ 7]': -0.00035670993
+    'sh[ 8]': 0.002118068
+    'sh[ 9]': 0.05512518
+    'sh[10]': 0.017822443
+    'sh[11]': 0.0027618636
+    'sh[12]': -0.03641997
+    'sh[13]': -0.0095518725
+    'sh[14]': -0.000041418618
+    'sh[15]': -0.0017973736
+    'sh[16]': 0.0042565386
+    'sh[17]': 0.003170484
+    'sh[18]': 0.12415983
+    'sh[19]': 0.042369373
+    'sh[20]': 0.009230114
+    'sh[21]': -0.0723862
+    'sh[22]': -0.023511453
+    'sh[23]': -0.007902956
+    'sh[24]': -0.0043388116
+    'sh[25]': 0.013005347
+    'sh[26]': 0.008406985
+  - 'sh[ 0]': 0.090768635
+    'sh[ 1]': 0.009902364
+    'sh[ 2]': 0.021160292
+    'sh[ 3]': -0.034687914
+    'sh[ 4]': -0.0010062255
+    'sh[ 5]': 0.0028926285
+    'sh[ 6]': -0.00024028355
+    'sh[ 7]': -0.001795554
+    'sh[ 8]': 0.0013323011
+    'sh[ 9]': 0.08015307
+    'sh[10]': 0.013858344
+    'sh[11]': 0.0038094164
+    'sh[12]': -0.046617847
+    'sh[13]': -0.0038547204
+    'sh[14]': 0.00089201855
+    'sh[15]': -0.0012881577
+    'sh[16]': 0.0028021506
+    'sh[17]': 0.0037300943
+    'sh[18]': 0.17057928
+    'sh[19]': 0.03084249
+    'sh[20]': -0.0015901402
+    'sh[21]': -0.09277741
+    'sh[22]': -0.008976309
+    'sh[23]': -0.0012807692
+    'sh[24]': -0.003097032
+    'sh[25]': 0.009251295
+    'sh[26]': 0.010279873
+  - 'sh[ 0]': 0.08735647
+    'sh[ 1]': -0.004525263
+    'sh[ 2]': 0.02101663
+    'sh[ 3]': -0.03541988
+    'sh[ 4]': 0.0018783177
+    'sh[ 5]': -0.0008477356
+    'sh[ 6]': -0.0011209332
+    'sh[ 7]': -0.0017743602
+    'sh[ 8]': 0.004356896
+    'sh[ 9]': 0.08008674
+    'sh[10]': 0.00021704014
+    'sh[11]': 0.0037096718
+    'sh[12]': -0.04794812
+    'sh[13]': 0.00023355984
+    'sh[14]': -0.00017920975
+    'sh[15]': -0.0013885812
+    'sh[16]': 0.003169184
+    'sh[17]': 0.005194049
+    'sh[18]': 0.17321217
+    'sh[19]': 0.00065931707
+    'sh[20]': -0.0015145749
+    'sh[21]': -0.0981451
+    'sh[22]': -0.0014849604
+    'sh[23]': -0.0015068195
+    'sh[24]': -0.0032311408
+    'sh[25]': 0.011178827
+    'sh[26]': 0.0123508535
+  - 'sh[ 0]': 0.0845334
+    'sh[ 1]': -0.000510389
+    'sh[ 2]': -0.0069652563
+    'sh[ 3]': -0.019732654
+    'sh[ 4]': -0.0061511993
+    'sh[ 5]': 0.0036945876
+    'sh[ 6]': 0.0006874722
+    'sh[ 7]': 0.00815367
+    'sh[ 8]': -0.0018049844
+    'sh[ 9]': 0.07220647
+    'sh[10]': 0.023072975
+    'sh[11]': -0.02425976
+    'sh[12]': -0.022609934
+    'sh[13]': -0.012944472
+    'sh[14]': -0.0075877295
+    'sh[15]': 0.00071262685
+    'sh[16]': 0.015240467
+    'sh[17]': 0.0010862825
+    'sh[18]': 0.14495948
+    'sh[19]': 0.06997231
+    'sh[20]': -0.04861599
+    'sh[21]': -0.055748817
+    'sh[22]': -0.03297891
+    'sh[23]': -0.024411848
+    'sh[24]': 0.0035408682
+    'sh[25]': 0.029348698
+    'sh[26]': 0.0074223108
+  - 'sh[ 0]': 0.106445216
+    'sh[ 1]': 0.014432508
+    'sh[ 2]': 0.0037696043
+    'sh[ 3]': -0.037220616
+    'sh[ 4]': -0.010290046
+    'sh[ 5]': -0.0017252688
+    'sh[ 6]': 0.0005459022
+    'sh[ 7]': 0.0053118947
+    'sh[ 8]': 0.0027220456
+    'sh[ 9]': 0.08538525
+    'sh[10]': 0.026801024
+    'sh[11]': -0.024724776
+    'sh[12]': -0.045786273
+    'sh[13]': -0.011810043
+    'sh[14]': -0.008860413
+    'sh[15]': 0.0019102654
+    'sh[16]': 0.016799776
+    'sh[17]': 0.0034797224
+    'sh[18]': 0.17727491
+    'sh[19]': 0.06646283
+    'sh[20]': -0.06300987
+    'sh[21]': -0.09261314
+    'sh[22]': -0.017080383
+    'sh[23]': -0.02672575
+    'sh[24]': 0.0050700647
+    'sh[25]': 0.036727533
+    'sh[26]': 0.009383078
+  - 'sh[ 0]': 0.1091258
+    'sh[ 1]': -0.00022153945
+    'sh[ 2]': 0.014944215
+    'sh[ 3]': -0.05129522
+    'sh[ 4]': -0.0037437195
+    'sh[ 5]': -0.0017936856
+    'sh[ 6]': 0.0017879969
+    'sh[ 7]': -0.0006005339
+    'sh[ 8]': 0.00456481
+    'sh[ 9]': 0.096938394
+    'sh[10]': 0.01596585
+    'sh[11]': -0.024171732
+    'sh[12]': -0.058514375
+    'sh[13]': -0.008566099
+    'sh[14]': -0.004020678
+    'sh[15]': 0.0029105921
+    'sh[16]': 0.018500788
+    'sh[17]': 0.007717959
+    'sh[18]': 0.21144155
+    'sh[19]': 0.034869302
+    'sh[20]': -0.07101652
+    'sh[21]': -0.11081639
+    'sh[22]': -0.020344371
+    'sh[23]': -0.013399192
+    'sh[24]': 0.0072794734
+    'sh[25]': 0.04996118
+    'sh[26]': 0.020923007
+  - 'sh[ 0]': 0.11797034
+    'sh[ 1]': 0.00380751
+    'sh[ 2]': -0.0013818884
+    'sh[ 3]': -0.04509471
+    'sh[ 4]': 0.00522173
+    'sh[ 5]': 0.0005558779
+    'sh[ 6]': 0.0004057212
+    'sh[ 7]': 0.0038128209
+    'sh[ 8]': 0.009291858
+    'sh[ 9]': 0.10371618
+    'sh[10]': 0.0051840646
+    'sh[11]': -0.0379388
+    'sh[12]': -0.056964155
+    'sh[13]': -0.0034322015
+    'sh[14]': -0.0010289716
+    'sh[15]': 0.0043718466
+    'sh[16]': 0.029775029
+    'sh[17]': 0.012255275
+    'sh[18]': 0.21567893
+    'sh[19]': -0.003930271
+    'sh[20]': -0.10193539
+    'sh[21]': -0.1152327
+    'sh[22]': -0.017037088
+    'sh[23]': -0.0043271687
+    'sh[24]': 0.011741165
+    'sh[25]': 0.08270554
+    'sh[26]': 0.029238774
+  - 'sh[ 0]': 0.15334223
+    'sh[ 1]': 0.016147548
+    'sh[ 2]': 0.02750734
+    'sh[ 3]': -0.035769176
+    'sh[ 4]': -0.009543351
+    'sh[ 5]': 0.018367428
+    'sh[ 6]': 0.0014963124
+    'sh[ 7]': -0.007769389
+    'sh[ 8]': 0.000292263
+    'sh[ 9]': 0.087935194
+    'sh[10]': 0.025426053
+    'sh[11]': -0.00020881095
+    'sh[12]': -0.023832494
+    'sh[13]': -0.009940966
+    'sh[14]': 0.00267863
+    'sh[15]': 0.0030732045
+    'sh[16]': 0.004701041
+    'sh[17]': 0.00082984054
+    'sh[18]': 0.1545464
+    'sh[19]': 0.07954677
+    'sh[20]': -0.00701593
+    'sh[21]': -0.056309763
+    'sh[22]': -0.023411117
+    'sh[23]': 0.0064513213
+    'sh[24]': 0.0073837615
+    'sh[25]': 0.012879999
+    'sh[26]': 0.00077067694
+  - 'sh[ 0]': 0.16749069
+    'sh[ 1]': 0.030315598
+    'sh[ 2]': 0.05398972
+    'sh[ 3]': -0.0360752
+    'sh[ 4]': -0.030844081
+    'sh[ 5]': 0.022601306
+    'sh[ 6]': 0.005385487
+    'sh[ 7]': -0.036105122
+    'sh[ 8]': 0.009308844
+    'sh[ 9]': 0.106894106
+    'sh[10]': 0.02825928
+    'sh[11]': 0.010116419
+    'sh[12]': -0.038077246
+    'sh[13]': -0.019212844
+    'sh[14]': 0.0005406591
+    'sh[15]': 0.008300794
+    'sh[16]': -0.00203471
+    'sh[17]': 0.0066377195
+    'sh[18]': 0.21166152
+    'sh[19]': 0.08561799
+    'sh[20]': 0.028937256
+    'sh[21]': -0.096566066
+    'sh[22]': -0.0440913
+    'sh[23]': 0.02028651
+    'sh[24]': 0.024563855
+    'sh[25]': 0.0009548248
+    'sh[26]': 0.0126705235
+  - 'sh[ 0]': 0.12387939
+    'sh[ 1]': -0.026354535
+    'sh[ 2]': -0.010220187
+    'sh[ 3]': -0.011455122
+    'sh[ 4]': -0.000598907
+    'sh[ 5]': -0.010593006
+    'sh[ 6]': -0.0038656099
+    'sh[ 7]': -0.0102201905
+    'sh[ 8]': 0.011350574
+    'sh[ 9]': 0.08314422
+    'sh[10]': -0.003711054
+    'sh[11]': -0.029361576
+    'sh[12]': -0.018775132
+    'sh[13]': -0.005443057
+    'sh[14]': -0.013023199
+    'sh[15]': 0.006324045
+    'sh[16]': 0.01793745
+    'sh[17]': 0.011085097
+    'sh[18]': 0.15474822
+    'sh[19]': 0.009837536
+    'sh[20]': -0.05455145
+    'sh[21]': -0.053374037
+    'sh[22]': -0.010357488
+    'sh[23]': -0.02058907
+    'sh[24]': 0.023268593
+    'sh[25]': 0.066967756
+    'sh[26]': 0.022166692
+  - 'sh[ 0]': 0.098542795
+    'sh[ 1]': -0.031115491
+    'sh[ 2]': -0.008618275
+    'sh[ 3]': -0.018959347
+    'sh[ 4]': 0.0027874536
+    'sh[ 5]': -0.0085144285
+    'sh[ 6]': -0.0002780028
+    'sh[ 7]': 0.006540503
+    'sh[ 8]': 0.002834628
+    'sh[ 9]': 0.07623845
+    'sh[10]': -0.0145632345
+    'sh[11]': -0.026309723
+    'sh[12]': -0.026842283
+    'sh[13]': 0.0005950349
+    'sh[14]': -0.007317174
+    'sh[15]': 0.0034812498
+    'sh[16]': 0.016951982
+    'sh[17]': 0.0047472226
+    'sh[18]': 0.15537217
+    'sh[19]': -0.017612152
+    'sh[20]': -0.061979655
+    'sh[21]': -0.05139733
+    'sh[22]': 0.0017265285
+    'sh[23]': -0.012962625
+    'sh[24]': 0.012729773
+    'sh[25]': 0.041146863
+    'sh[26]': 0.012858617
+  m_BakedLightOcclusion:
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  - m_ProbeOcclusionLightIndex: ffffffffffffffffffffffffffffffff
+    m_Occlusion:
+    - 0
+    - 0
+    - 0
+    - 0
+    m_OcclusionMaskChannel: ffffffff
+  m_HasBeenEdited: 0

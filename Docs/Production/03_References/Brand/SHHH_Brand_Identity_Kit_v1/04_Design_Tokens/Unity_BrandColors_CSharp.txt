@@ -1,0 +1,10 @@
+// SHHH! palette for Unity C# - normalized RGB hex to use with ColorUtility.TryParseHtmlString
+public const string MidnightInk = "#211530";
+public const string DeepShadow = "#261239";
+public const string RoyalPurple = "#70409F";
+public const string MoonCream = "#FFF0BA";
+public const string HushYellow = "#FFCF2E";
+public const string SneakyCoral = "#F57F78";
+public const string PartyPink = "#F45F73";
+public const string RibbonRed = "#C92C4D";
+public const string SoftWhite = "#FFF8E8";

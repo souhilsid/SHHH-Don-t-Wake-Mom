@@ -1,0 +1,12 @@
+{
+    "name": "SHHH.Automation.Editor",
+    "rootNamespace": "SHHH.Automation",
+    "references": [],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}

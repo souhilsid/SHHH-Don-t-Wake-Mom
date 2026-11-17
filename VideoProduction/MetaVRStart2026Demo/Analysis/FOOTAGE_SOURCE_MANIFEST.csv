@@ -1,0 +1,12 @@
+id,path,size_bytes,md5_12,duration_s,codec,width,height,avg_fps,audio,notes,status
+F01,C:/Users/aisci/Downloads/com.oculus.vrshell-20261107-124508-0.mp4,60859613,9fe1ce444794,213.61,hevc,1920,1080,30.0,aac 48000 2ch,early alpha; '(1).mp4' and '(1) (1).mp4' copies are byte-identical,not used
+F02,C:/Users/aisci/Downloads/com.oculus.vrshell-20261107-201409-0.mp4,47732216,9188ac32fe88,155.66,hevc,1920,1080,30.0,aac 48000 2ch,early alpha,not used
+F03,C:/Users/aisci/Downloads/com.oculus.vrshell-20261107-202049-0.mp4,17576973,a32f6f59e938,55.73,hevc,1920,1080,30.0,aac 48000 2ch,early alpha menu only,not used
+F04,C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4,135245989,b9269931ac93,347.57,hevc,1920,1080,30.0,aac 48000 2ch,"c13, night lighting",used
+F05,C:/Users/aisci/Downloads/com.oculus.vrshell-20261112-170302-0.mp4,58422404,bff7b75f5166,149.65,hevc,1920,1080,30.0,aac 48000 2ch,c15 practice,used
+F06,C:/Users/aisci/Downloads/com.oculus.vrshell-20261115-170859-0.mp4,197750408,977b064068d0,504.39,hevc,1920,1080,30.0,aac 48000 2ch,c20/21; identical copy in Remotion/Raw/Records,used
+F07,C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4,288372619,7344ad49d106,735.87,hevc,1920,1080,30.0,aac 48000 2ch,c21 solo 10 min; identical copy in Remotion/Raw/Records,used
+F09,C:/Users/aisci/Downloads/SHHH Game/SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4,366707219,3b2a10d05a1d,935.21,hevc,1920,1080,30.0,aac 48000 2ch,"c23 (recorded 14:46 UTC, c23 built 13:32 UTC): online 2-human match + solo match",PRIMARY
+X01,C:/Users/aisci/Downloads/SHHH Game/SHHH/QA_Evidence/finger_gun/finger_gun_test_unity.mp4,1336949,d37b49c1637b,19.3,h264,1280,720,10.0,none,Unity desktop simulated hands 1280x720 10 fps,not used (quality)
+X02,C:/Users/aisci/Downloads/SHHH Game/SHHH/SHHH_ArtProduction_V5/Evidence/Runtime/Living_To_Bedroom_Route_Desktop.mp4,3453703,82ad52879d73,24.5,h264,960,540,8.0,none,Unity desktop route 960x540 8 fps,not used (quality)
+X03,C:/Users/aisci/Downloads/SHHH_HERO_ANIMATION_TEST_V3.mp4,23173959,13a3c10227cd,40.0,h264,1920,1080,30.0,aac 48000 1ch,"pre-production animation test, not gameplay",excluded

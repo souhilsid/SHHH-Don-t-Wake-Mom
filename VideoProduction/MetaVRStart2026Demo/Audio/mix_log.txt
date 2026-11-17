@@ -1,0 +1,2 @@
+premaster -19.26 LUFS / -2.20 dBTP -> gain +4.76 dB -> master -14.7 LUFS, true peak -2.0 dBTP
+captions: 24

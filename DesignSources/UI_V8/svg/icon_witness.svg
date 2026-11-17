@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon witness</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M72,40 H184 Q208,40 208,64 V192 Q208,216 184,216 H72 Q48,216 48,192 V64 Q48,40 72,40Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M68,128 C92,92 164,92 188,128 C164,164 92,164 68,128Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M108,128 a20,20 0 1,0 40,0 a20,20 0 1,0 -40,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M72,40 H184 Q208,40 208,64 V192 Q208,216 184,216 H72 Q48,216 48,192 V64 Q48,40 72,40Z" fill="#FFF0BA"/>
+<path d="M68,128 C92,92 164,92 188,128 C164,164 92,164 68,128Z" fill="#FFF8E8"/>
+<path d="M108,128 a20,20 0 1,0 40,0 a20,20 0 1,0 -40,0Z" fill="#261239"/>
+</g></svg>

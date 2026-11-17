@@ -1,0 +1,247 @@
+[
+ [
+  "mom_stir_1",
+  "stir",
+  "Mmmhh... five more minutes..."
+ ],
+ [
+  "mom_stir_2",
+  "stir",
+  "who's there?..."
+ ],
+ [
+  "mom_stir_3",
+  "stir",
+  "Mm... is that the dishwasher?"
+ ],
+ [
+  "mom_stir_4",
+  "stir",
+  "no cookies before bed..."
+ ],
+ [
+  "mom_suspicious_1",
+  "suspicious",
+  "Hmm? Did something just... clink?"
+ ],
+ [
+  "mom_suspicious_2",
+  "suspicious",
+  "I can HEAR you thinking out there..."
+ ],
+ [
+  "mom_suspicious_3",
+  "suspicious",
+  "Whoever that is... I'm counting to ten."
+ ],
+ [
+  "mom_suspicious_4",
+  "suspicious",
+  "Was that a plate?!"
+ ],
+ [
+  "mom_almost_1",
+  "almost",
+  "One... two... THREE..."
+ ],
+ [
+  "mom_almost_2",
+  "almost",
+  "I'm getting up. I'm getting UP!"
+ ],
+ [
+  "mom_almost_3",
+  "almost",
+  "That's it. The slippers are going ON."
+ ],
+ [
+  "mom_wake_1",
+  "wake",
+  "WHO. IS. MAKING. THAT. NOISE?!"
+ ],
+ [
+  "mom_wake_2",
+  "wake",
+  "Do you KNOW what time it is?!"
+ ],
+ [
+  "mom_wake_3",
+  "wake",
+  "I was having the NICEST dream!"
+ ],
+ [
+  "mom_wake_4",
+  "wake",
+  "Alright, everybody FREEZE!"
+ ],
+ [
+  "mom_investigate_1",
+  "investigate",
+  "Let's see... what do we have here..."
+ ],
+ [
+  "mom_investigate_2",
+  "investigate",
+  "Hmm. Something fell. Something LOUD."
+ ],
+ [
+  "mom_investigate_3",
+  "investigate",
+  "Nobody move. I'm looking for clues."
+ ],
+ [
+  "mom_investigate_4",
+  "investigate",
+  "This mess has a name on it..."
+ ],
+ [
+  "mom_caught_1",
+  "caught",
+  "Bed. NOW."
+ ],
+ [
+  "mom_caught_2",
+  "caught",
+  "Caught you,! Off to bed!"
+ ],
+ [
+  "mom_caught_3",
+  "caught",
+  "really? Go. To. Sleep."
+ ],
+ [
+  "mom_caught_4",
+  "caught",
+  "Aha! It was YOU,!"
+ ],
+ [
+  "mom_caught_5",
+  "caught",
+  "you're grounded... until breakfast!"
+ ],
+ [
+  "mom_warning_1",
+  "warning",
+  "Huh. Just the pets. Fine. Back to bed."
+ ],
+ [
+  "mom_warning_2",
+  "warning",
+  "Nobody? Hmph. I'll be watching..."
+ ],
+ [
+  "mom_warning_3",
+  "warning",
+  "Must've been the wind."
+ ],
+ [
+  "mom_warning_4",
+  "warning",
+  "Next time, somebody's going to bed."
+ ],
+ [
+  "mom_inspect_start_1",
+  "inspect",
+  "Time's up! Let's see who actually helped..."
+ ],
+ [
+  "mom_inspect_start_2",
+  "inspect",
+  "Inspection time! Show me those chores."
+ ],
+ [
+  "mom_inspect_start_3",
+  "inspect",
+  "Quiet night... but who did the work?"
+ ],
+ [
+  "mom_inspect_look_1",
+  "inspect",
+  "Mm-hm... mm-hm..."
+ ],
+ [
+  "mom_inspect_look_2",
+  "inspect",
+  "I see EVERYTHING, you know."
+ ],
+ [
+  "mom_inspect_look_3",
+  "inspect",
+  "Let me check the list..."
+ ],
+ [
+  "mom_lazy_1",
+  "lazy",
+  "you barely lifted a finger! Bed!"
+ ],
+ [
+  "mom_lazy_2",
+  "lazy",
+  "least helpful tonight. Off you go."
+ ],
+ [
+  "mom_lazy_3",
+  "lazy",
+  "Nice try,. Bedtime for you."
+ ],
+ [
+  "mom_lazy_4",
+  "lazy",
+  "Those chores didn't do themselves!"
+ ],
+ [
+  "mom_tiebreak_1",
+  "tiebreak",
+  "A tie?! Fine, quick challenge! Fastest helper stays up. GO!"
+ ],
+ [
+  "mom_bed_1",
+  "bed",
+  "Goodnight. And keep it DOWN."
+ ],
+ [
+  "mom_bed_2",
+  "bed",
+  "don't make me come back out here."
+ ],
+ [
+  "mom_bed_3",
+  "bed",
+  "Back to sleep..."
+ ],
+ [
+  "mom_intro_1",
+  "intro",
+  "Listen up, my little night owls. Do the chores, QUIETLY. If I hear you, it's bedtime. If you're lazy, it's bedtime. Last one standing makes me very proud."
+ ],
+ [
+  "mom_win",
+  "win",
+  "the quietest, most helpful kid in this house. I'm SO proud. Now everybody... SLEEP!"
+ ],
+ [
+  "mom_intro_v5",
+  "intro",
+  "Listen up, my little night owls. Everybody gets their OWN job tonight. Do yours... quietly. Mess with your sibling's job if you dare. But if I hear you... it's bedtime!"
+ ],
+ [
+  "mom_rush_1",
+  "rush",
+  "Mmh... somebody's finished already? The rest of you... hurry up."
+ ],
+ [
+  "mom_rush_2",
+  "rush",
+  "I hear somebody's done... tick tock, little ones."
+ ],
+ [
+  "mom_sabotage_1",
+  "sabotage",
+  "Hmm... why are things moving around out there?"
+ ],
+ [
+  "mom_sabotage_2",
+  "sabotage",
+  "I better not catch anybody hiding their sister's things..."
+ ]
+]

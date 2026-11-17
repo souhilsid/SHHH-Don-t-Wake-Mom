@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon timer</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M40,140 a88,88 0 1,0 176,0 a88,88 0 1,0 -176,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M128,140 V52 A88,88 0 0,1 204,96Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M118,24 H138 Q146,24 146,32 V40 Q146,48 138,48 H118 Q110,48 110,40 V32 Q110,24 118,24Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M40,140 a88,88 0 1,0 176,0 a88,88 0 1,0 -176,0Z" fill="#FFCF2E"/>
+<path d="M128,140 V52 A88,88 0 0,1 204,96Z" fill="#F57F78"/>
+<path d="M118,24 H138 Q146,24 146,32 V40 Q146,48 138,48 H118 Q110,48 110,40 V32 Q110,24 118,24Z" fill="#70409F"/>
+</g></svg>

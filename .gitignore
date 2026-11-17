@@ -1,0 +1,118 @@
+# SHHH! - Don't Wake Mom!  ·  ALLOW-LIST .gitignore
+# Everything is ignored unless explicitly allowed below. The public repo carries our own code, docs, tools, original art and
+# the production scripts - never secrets, third-party store packs, builds, raw recordings or the Unity Library.
+
+/*
+!/.gitignore
+!/README.md
+!/LICENSE_NOTES.md
+!/CLAUDE.md
+!/Core/
+!/Docs/
+!/DesignSources/
+!/Tools/
+!/Remotion/
+!/VideoProduction/
+!/UnityProject/
+!/Builds/
+
+# ---------- Unity: only our own folder, settings and the package manifest ----------
+/UnityProject/*
+!/UnityProject/Assets/
+!/UnityProject/ProjectSettings/
+!/UnityProject/Packages/
+/UnityProject/Assets/*
+!/UnityProject/Assets/SHHH/
+!/UnityProject/Assets/SHHH.meta
+/UnityProject/Packages/*
+!/UnityProject/Packages/manifest.json
+!/UnityProject/Packages/packages-lock.json
+# third-party model packs (store / mixed licences) - listed in Docs/SHHH_ASSET_LICENSES.md, re-import locally; our own kitchen stays
+/UnityProject/Assets/SHHH/Art/ThirdParty/*
+!/UnityProject/Assets/SHHH/Art/ThirdParty/SHHHKitchen/
+!/UnityProject/Assets/SHHH/Art/ThirdParty/SHHHKitchen.meta
+
+# ---------- builds: only the build log (APKs are distributed through Meta) ----------
+/Builds/*
+!/Builds/Quest2_3_3S/
+/Builds/Quest2_3_3S/*
+!/Builds/Quest2_3_3S/BUILDS.csv
+
+# ---------- Remotion: source + config, not node_modules / renders / footage proxies ----------
+/Remotion/*
+!/Remotion/src/
+!/Remotion/public/
+!/Remotion/package.json
+!/Remotion/package-lock.json
+!/Remotion/remotion.config.ts
+!/Remotion/tsconfig*.json
+!/Remotion/vite.config.ts
+!/Remotion/index.html
+!/Remotion/README.md
+/Remotion/public/*
+!/Remotion/public/fonts/
+!/Remotion/public/trailer/
+/Remotion/public/trailer/*
+!/Remotion/public/trailer/shhh_logo.png
+
+# ---------- Tools: scripts only ----------
+/Tools/_ext/
+/Tools/UnityRefs/
+/Tools/mixamo-mcp/
+/Tools/CompileCheck/bin/
+/Tools/CompileCheck/obj/
+/VideoProduction/Tools/tts_venv/
+/VideoProduction/Tools/tts_models/
+
+# ---------- video production: scripts, docs, data, stills - not media renders or third-party references ----------
+/VideoProduction/03_ReferenceResearch/_ref_videos/
+/VideoProduction/03_ReferenceResearch/sheets/
+/VideoProduction/09_FinalExports/*.mp4
+/VideoProduction/MetaVRStart2026Demo/Final/*.mp4
+/VideoProduction/MetaVRStart2026Demo/Renders/
+/VideoProduction/07_Trailer/Renders/
+/VideoProduction/08_GameplayWalkthrough/Editorial/work/
+/VideoProduction/08_GameplayWalkthrough/QA/*.wav
+/VideoProduction/MetaVRStart2026Demo/Thumbnail/frames/
+/VideoProduction/MetaVRStart2026Demo/QA/luma.txt
+/VideoProduction/07_Trailer/QA/luma.txt
+
+# ---------- secrets: never ----------
+Secrets/
+*.keystore
+*.jks
+signing.json
+photon.json
+GeniesAuthSettings.bytes
+PhotonAppSettings.asset
+# docs that quote the Photon App IDs
+/Docs/SHHH_CLAUDE_CRITICAL_RESCUE_MASTER_V6.md
+/DesignSources/References/SHHH_CLAUDE_ONE_SHOT_PRODUCTION_MASTER_PROMPT.md
+
+# ---------- heavy / generated media everywhere ----------
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.zip
+*.tgz
+*.7z
+*.apk
+*.part
+*.idsig
+*.onnx
+*.bin
+__pycache__/
+node_modules/
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+.vs/
+*.csproj
+*.sln
+
+# the game needs its own audio (SFX + Mom VO) - re-allow wav inside our Unity folder
+!/UnityProject/Assets/SHHH/**/*.wav

@@ -1,0 +1,1191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f51f648060eb0c4db243907fdca7c94, type: 3}
+  m_Name: ArtCatalog
+  m_EditorClassIdentifier: 
+  models:
+  - key: dc_kit015
+    model: {fileID: 919132149155446097, guid: a21fe907c0aa809408b75144d4b4c902, type: 3}
+  - key: dc_kit018
+    model: {fileID: 919132149155446097, guid: c3c6ec189f6823e47bb8d3d951033b00, type: 3}
+  - key: dc_kit026
+    model: {fileID: 919132149155446097, guid: fd5b5b35e5268fd40bff8f3b12b65b14, type: 3}
+  - key: kf_armchair_pillows
+    model: {fileID: 919132149155446097, guid: b180ba73e3b5123489007bff69ba28f7, type: 3}
+  - key: kf_bed_double_A
+    model: {fileID: 919132149155446097, guid: bb98a9ab735321940a799719663d7cf2, type: 3}
+  - key: kf_book_set
+    model: {fileID: 919132149155446097, guid: d3363cbf75666cc4dbb308153d7dc910, type: 3}
+  - key: kf_book_single
+    model: {fileID: 919132149155446097, guid: 7d3096683c329c0419272193bb2a44fd, type: 3}
+  - key: kf_cabinet_medium_decorated
+    model: {fileID: 919132149155446097, guid: 34781ac338433aa40923f5a107906ad8, type: 3}
+  - key: kf_cabinet_small
+    model: {fileID: 919132149155446097, guid: b9a112b421e2050408f4532c633a43be, type: 3}
+  - key: kf_cactus_small_A
+    model: {fileID: 919132149155446097, guid: 31d149daef804654a87f2fa10060f5ba, type: 3}
+  - key: kf_chair_A_wood
+    model: {fileID: 919132149155446097, guid: 7dc23041d399eeb4987edd1a5db3af74, type: 3}
+  - key: kf_couch_pillows
+    model: {fileID: 919132149155446097, guid: 8ff5bd627c3a54241b6ffa436e106fb1, type: 3}
+  - key: kf_lamp_standing
+    model: {fileID: 919132149155446097, guid: 1e76b3feba4c907468f9cdab99c8231e, type: 3}
+  - key: kf_lamp_table
+    model: {fileID: 919132149155446097, guid: 927cc8bd2c36bf84b85bfeda0b360098, type: 3}
+  - key: kf_pictureframe_large_A
+    model: {fileID: 919132149155446097, guid: f36e743b9ace9534b8c19202cfd4d630, type: 3}
+  - key: kf_pictureframe_medium
+    model: {fileID: 919132149155446097, guid: 18ab531dc18e211478483a4978976b65, type: 3}
+  - key: kf_pillow_A
+    model: {fileID: 919132149155446097, guid: 91f7f4dbb6a01bd4281c1c6c48501e82, type: 3}
+  - key: kf_pillow_B
+    model: {fileID: 919132149155446097, guid: 5e585b4e790f4174e9f8c54b2f654935, type: 3}
+  - key: kf_rug_oval_A
+    model: {fileID: 919132149155446097, guid: 60fa380f2a2284340b3c4ad562970cd8, type: 3}
+  - key: kf_rug_rectangle_B
+    model: {fileID: 919132149155446097, guid: 038551f742ff1704298261c7e853399d, type: 3}
+  - key: kf_rug_rectangle_stripes_A
+    model: {fileID: 919132149155446097, guid: 925bc0ce00beb2e4cae911e727c04367, type: 3}
+  - key: kf_shelf_A_small
+    model: {fileID: 919132149155446097, guid: 6212f36c7247c6e41a276b484f73d2a7, type: 3}
+  - key: kf_shelf_B_large
+    model: {fileID: 919132149155446097, guid: 564fdf126ee9d1449aa16bfa07261650, type: 3}
+  - key: kf_table_low
+    model: {fileID: 919132149155446097, guid: ce8fc96db897e624b907a1119f8aeab9, type: 3}
+  - key: kf_table_medium_long
+    model: {fileID: 919132149155446097, guid: 0697bb20c49a00f4fb9bd34935ed3f96, type: 3}
+  - key: kf_table_small
+    model: {fileID: 919132149155446097, guid: dfd1c6fb403d2cb418c3f49f4d6c329f, type: 3}
+  - key: kr_bowl_small
+    model: {fileID: 919132149155446097, guid: ba90a7c0affa3cf42b7307a9fcedd028, type: 3}
+  - key: kr_chair_A
+    model: {fileID: 919132149155446097, guid: e8c862d6c99cd1148a009be35bfe61d1, type: 3}
+  - key: kr_cuttingboard
+    model: {fileID: 919132149155446097, guid: c63c697097a16cd40ad196d5cecaa9c7, type: 3}
+  - key: kr_dishrack
+    model: {fileID: 919132149155446097, guid: fe6fa5df4e6bc6547a01f0ee97e054e1, type: 3}
+  - key: kr_door_A
+    model: {fileID: 919132149155446097, guid: 26d66c4996277634a9f8b3f8ae640dd7, type: 3}
+  - key: kr_fridge_A
+    model: {fileID: 919132149155446097, guid: 36454ca9209db164d96c28f676fef274, type: 3}
+  - key: kr_jar_A_large
+    model: {fileID: 919132149155446097, guid: c3400903c50dbb440ab6bd97ed0aa227, type: 3}
+  - key: kr_kitchencabinet
+    model: {fileID: 919132149155446097, guid: 902fdbb9d2bc20d4796fe5e3c40cffe5, type: 3}
+  - key: kr_kitchencounter_sink_backsplash
+    model: {fileID: 919132149155446097, guid: dc639515c53543d40931f79f4a79d537, type: 3}
+  - key: kr_kitchencounter_straight_A
+    model: {fileID: 919132149155446097, guid: f48e56b7fbaa03946924448ba5e55a70, type: 3}
+  - key: kr_kitchencounter_straight_A_backsplash
+    model: {fileID: 919132149155446097, guid: 550a4d431208dfa4bb15e63f5db0dba1, type: 3}
+  - key: kr_kitchentable_A
+    model: {fileID: 919132149155446097, guid: 60ee90cdb62bcd14686955e1476735e5, type: 3}
+  - key: kr_lid_A
+    model: {fileID: 919132149155446097, guid: b199fee81bf971a4cb8d9bffab99636c, type: 3}
+  - key: kr_pan_A
+    model: {fileID: 919132149155446097, guid: 7e17c7135ece55740a7e991c23069372, type: 3}
+  - key: kr_plate
+    model: {fileID: 919132149155446097, guid: b4d36a2ba7a5e934f9570090b8c917ae, type: 3}
+  - key: kr_pot_A
+    model: {fileID: 919132149155446097, guid: 53eb21ffb93fab84f84d0e75920f3cae, type: 3}
+  - key: kr_shelf_papertowel
+    model: {fileID: 919132149155446097, guid: e8ed22427739a444ab6a457b78603cd5, type: 3}
+  - key: kr_stove_single
+    model: {fileID: 919132149155446097, guid: 18c46ababfd6f654faf81483a47fc485, type: 3}
+  - key: kr_towelrail
+    model: {fileID: 919132149155446097, guid: d4d0c4b4ebefebb4b86296b05b2949d9, type: 3}
+  - key: kr_wall
+    model: {fileID: 919132149155446097, guid: ff468eb58dee7f1489f6237905fc4c9d, type: 3}
+  - key: kr_wall_window_closed
+    model: {fileID: 919132149155446097, guid: 900cdda81d9ff324e8de646957f8b7b4, type: 3}
+  - key: kb_bevel-hq-brick-1x2
+    model: {fileID: 919132149155446097, guid: 5149923e3e24e3d408ad5c4c4f1e503c, type: 3}
+  - key: kb_bevel-hq-brick-2x2
+    model: {fileID: 919132149155446097, guid: 312519c24b2128648a7aedbc0b6ab508, type: 3}
+  - key: kb_bevel-hq-brick-2x4
+    model: {fileID: 919132149155446097, guid: a166395c7fb28a248838f7fc4553d57e, type: 3}
+  - key: food_apple
+    model: {fileID: 919132149155446097, guid: 7140d24d611c8b846912aecfcab05be8, type: 3}
+  - key: food_banana
+    model: {fileID: 919132149155446097, guid: 641b15589dc04ff468ec97f738fa5aef, type: 3}
+  - key: food_bottle-ketchup
+    model: {fileID: 919132149155446097, guid: 969e2d0a2eb46d346bbacf8c96b310b0, type: 3}
+  - key: food_bowl
+    model: {fileID: 919132149155446097, guid: 6b638e529189fce42b894cacca5b3bab, type: 3}
+  - key: food_carton
+    model: {fileID: 919132149155446097, guid: 128a8ebd44b4fa147a9a6757b1272210, type: 3}
+  - key: food_cookie
+    model: {fileID: 919132149155446097, guid: cc06a25153cd2b04f8c65c95881e3671, type: 3}
+  - key: food_cup-coffee
+    model: {fileID: 919132149155446097, guid: 0f3a9c9e1de942f43995df408501cf0c, type: 3}
+  - key: food_frying-pan
+    model: {fileID: 919132149155446097, guid: 07e117100e6f95a4a8de5066877a3d62, type: 3}
+  - key: food_loaf
+    model: {fileID: 919132149155446097, guid: 5f417035e59a7064caf481c4bc722b01, type: 3}
+  - key: food_mug
+    model: {fileID: 919132149155446097, guid: 1b815ef11c623ec4488f10cc91fe9a4f, type: 3}
+  - key: food_plate
+    model: {fileID: 919132149155446097, guid: 6b6311d9427569440ae353769a783581, type: 3}
+  - key: food_pot
+    model: {fileID: 919132149155446097, guid: 85079ed99b53ef543885d8154e216926, type: 3}
+  - key: food_soda-bottle
+    model: {fileID: 919132149155446097, guid: ccb38f89b8656ca4aba3abd580e3e211, type: 3}
+  - key: food_utensil-fork
+    model: {fileID: 919132149155446097, guid: 2c4d96fde4bda764f91cdf5d95530e80, type: 3}
+  - key: food_utensil-spoon
+    model: {fileID: 919132149155446097, guid: 19531297fa7d71f4baf79cebb5e69170, type: 3}
+  - key: kn_bear
+    model: {fileID: 919132149155446097, guid: dcfe4586129d98d47a2466c1e3ef4d87, type: 3}
+  - key: kn_bedSingle
+    model: {fileID: 919132149155446097, guid: 387635cbb7a51ce459d255d423792c44, type: 3}
+  - key: kn_bookcaseOpen
+    model: {fileID: 919132149155446097, guid: 00d864c87f9aa8d4ba562e5e456e6135, type: 3}
+  - key: kn_cabinetTelevision
+    model: {fileID: 919132149155446097, guid: a337c5ea4114fad4d8b862a41c360841, type: 3}
+  - key: kn_cardboardBoxOpen
+    model: {fileID: 919132149155446097, guid: 070cdf6fa4e979c4883eca300ccdf83c, type: 3}
+  - key: kn_coatRackStanding
+    model: {fileID: 919132149155446097, guid: 420ea622a5767e54d99ddf72c407d8f8, type: 3}
+  - key: kn_doorway
+    model: {fileID: 919132149155446097, guid: f658232347cad9346a6d00828a0c75a7, type: 3}
+  - key: kn_dryer
+    model: {fileID: 919132149155446097, guid: 195e733f954d1c64b88449ffab327c4e, type: 3}
+  - key: kn_kitchenCabinetUpper
+    model: {fileID: 919132149155446097, guid: d48752eff0e1f564e8b54e74282cce94, type: 3}
+  - key: kn_lampRoundTable
+    model: {fileID: 919132149155446097, guid: 2e4728785e59ffe42ba420fb743ac3a3, type: 3}
+  - key: kn_pillowBlueLong
+    model: {fileID: 919132149155446097, guid: 1c5a47b191f481e4ea755db4257adcc3, type: 3}
+  - key: kn_plantSmall2
+    model: {fileID: 919132149155446097, guid: 5a644ad48c536d745a99bec363b434f0, type: 3}
+  - key: kn_pottedPlant
+    model: {fileID: 919132149155446097, guid: f0946578788dc6d43af7640645b1bf1c, type: 3}
+  - key: kn_radio
+    model: {fileID: 919132149155446097, guid: e577e03e432ddcc4b9b2f8706d41fbed, type: 3}
+  - key: kn_rugDoormat
+    model: {fileID: 919132149155446097, guid: 096ed7bde56c65940a003aab63331ea1, type: 3}
+  - key: kn_rugRound
+    model: {fileID: 919132149155446097, guid: 5e3e219402a0b9f4cbaf65744b372b08, type: 3}
+  - key: kn_sideTableDrawers
+    model: {fileID: 919132149155446097, guid: 86bc8f37ad347f049907fc6194a13d58, type: 3}
+  - key: kn_televisionModern
+    model: {fileID: 919132149155446097, guid: 366b164b747eef04888b6b537562b003, type: 3}
+  - key: kn_trashcan
+    model: {fileID: 919132149155446097, guid: c4f375693da51634ca2b4c3b8cf4f3cd, type: 3}
+  - key: kn_washer
+    model: {fileID: 919132149155446097, guid: 5d6ed295322ab814789fa1a41638fbd0, type: 3}
+  - key: kc_vehicle-monster-truck
+    model: {fileID: 919132149155446097, guid: 942af685eb73e3840a27ab4a2eed0c7a, type: 3}
+  - key: kc_vehicle-racer
+    model: {fileID: 919132149155446097, guid: bce9050b00d9999428e2b405972caf0a, type: 3}
+  - key: kc_vehicle-suv
+    model: {fileID: 919132149155446097, guid: 5b0d186d4a53deb44aad799b84cad482, type: 3}
+  - key: ld_laundry_broom_01
+    model: {fileID: 919132149155446097, guid: b3e99c3b4a25e7842abbf9ecae8e777c, type: 3}
+  - key: ld_laundry_cart_01
+    model: {fileID: 919132149155446097, guid: bffc5b6b17df928488d1bb08afffafa6, type: 3}
+  - key: ld_laundry_cleaning_caddy_01
+    model: {fileID: 919132149155446097, guid: 283f72515b44a2d4a84ce0563396979c, type: 3}
+  - key: ld_laundry_clothes_bundle
+    model: {fileID: 919132149155446097, guid: e7dda726fa7ba3d44887697874432882, type: 3}
+  - key: ld_laundry_clothes_shirt
+    model: {fileID: 919132149155446097, guid: 5f03dcb3832780f43b547dcef8a13837, type: 3}
+  - key: ld_laundry_clothespin_basket_01
+    model: {fileID: 919132149155446097, guid: d9bf208a8d2eb5e4c9133ec3b74226ef, type: 3}
+  - key: ld_laundry_dehumidifier_01
+    model: {fileID: 919132149155446097, guid: 00039a91564742d4ea9b418bec5e452f, type: 3}
+  - key: ld_laundry_drying_rack_01
+    model: {fileID: 919132149155446097, guid: 8b15c65363b793345acda34e040a1c0d, type: 3}
+  - key: ld_laundry_dustpan_01
+    model: {fileID: 919132149155446097, guid: 802186a3bc230eb4db64fc7b6533bdb2, type: 3}
+  - key: ld_laundry_ironing_board_01
+    model: {fileID: 919132149155446097, guid: 1930ffd3fd212c64d88b59b48118084c, type: 3}
+  - key: ld_laundry_lint_roller_01
+    model: {fileID: 919132149155446097, guid: f97ba53eb09969f4f91a5e1fecfff8ac, type: 3}
+  - key: ld_laundry_mop_01
+    model: {fileID: 919132149155446097, guid: 39c00b0a1ca149f4e82dabb8de7c0340, type: 3}
+  - key: ld_laundry_mop_bucket_01
+    model: {fileID: 919132149155446097, guid: 95a56217aedaad64ba10d7b7521a77c8, type: 3}
+  - key: ld_laundry_scrubbing_brush_01
+    model: {fileID: 919132149155446097, guid: e549db7e8bc3f104a85395566db4b986, type: 3}
+  - key: ld_laundry_spray_bottle_01
+    model: {fileID: 919132149155446097, guid: 9561759926d5d414f85116c19cf09790, type: 3}
+  - key: ld_laundry_step_stool_01
+    model: {fileID: 919132149155446097, guid: a76c4c05e11699a4e96e139b08589d0a, type: 3}
+  - key: ld_laundry_storage_tote_01
+    model: {fileID: 919132149155446097, guid: cd06e9ede60ec054596a0136d44874fd, type: 3}
+  - key: ld_laundry_tool_rack_01
+    model: {fileID: 919132149155446097, guid: ab3e0762dd4d3a54a848c0adbde813e4, type: 3}
+  - key: ld_laundry_tumble_dryer_01
+    model: {fileID: 919132149155446097, guid: 905b681bbb8f87a4db216b2460396d12, type: 3}
+  - key: ld_laundry_utility_cupboard_01
+    model: {fileID: 919132149155446097, guid: 0984ca87ff833b946a858d80caa811be, type: 3}
+  - key: ld_laundry_utility_sink_01
+    model: {fileID: 919132149155446097, guid: 1e4b3714e8e4f53469016f9f65c1bab0, type: 3}
+  - key: ld_laundry_washer_mech
+    model: {fileID: 919132149155446097, guid: 91b206f8a9329e84a8f07c1b031a12ec, type: 3}
+  - key: ld_trash_bag_full
+    model: {fileID: 919132149155446097, guid: d63757a5d200f15409bd92c7d6a8fdd9, type: 3}
+  - key: ld_trash_banana_peel
+    model: {fileID: 919132149155446097, guid: d8c6f904f7223d94382b2a24ff407fe2, type: 3}
+  - key: ld_trash_can_crushed
+    model: {fileID: 919132149155446097, guid: c0328a84d15a7464697fd0f2d23c73bc, type: 3}
+  - key: ld_trash_chip_bag
+    model: {fileID: 919132149155446097, guid: d900e298aa2366940a47593c6e661cd5, type: 3}
+  - key: ld_trash_juice_box
+    model: {fileID: 919132149155446097, guid: 42fd3258b33ce724b93be4f51b1cde7e, type: 3}
+  - key: ld_trash_paper_ball
+    model: {fileID: 919132149155446097, guid: 70408a039d76c66469f52705ad39e4db, type: 3}
+  - key: ld_trash_pizza_box
+    model: {fileID: 919132149155446097, guid: 6e750a49f96583847b06671b4f816412, type: 3}
+  - key: ld_trash_tissue
+    model: {fileID: 919132149155446097, guid: 996cbd20c110f954693ee2c4b896aa4a, type: 3}
+  - key: pg_Sneakers
+    model: {fileID: 919132149155446097, guid: 0ff1b3860de1ced4083b2c95086c214a, type: 3}
+  - key: qb_hair_Eyebrows_Female
+    model: {fileID: 919132149155446097, guid: f7756ca0658870d40922d283802ef3ca, type: 3}
+  - key: qb_hair_Eyebrows_Regular
+    model: {fileID: 919132149155446097, guid: 7bd4a3e65c12e434fb11e83583b7c651, type: 3}
+  - key: qb_hair_Hair_Beard
+    model: {fileID: 919132149155446097, guid: b72cdd02e869ab24a84c7f302973e5a6, type: 3}
+  - key: qb_hair_Hair_Buns
+    model: {fileID: 919132149155446097, guid: aac688486823648478677a6f3b609c0f, type: 3}
+  - key: qb_hair_Hair_Buzzed
+    model: {fileID: 919132149155446097, guid: 81cbdfae92508554bb4f718c938d1ef1, type: 3}
+  - key: qb_hair_Hair_BuzzedFemale
+    model: {fileID: 919132149155446097, guid: 221a0190a79dacb4fac2da0d2d2b7cd9, type: 3}
+  - key: qb_hair_Hair_Long
+    model: {fileID: 919132149155446097, guid: fed096e3101ac7d4490983b7dd4fb150, type: 3}
+  - key: qb_hair_Hair_SimpleParted
+    model: {fileID: 919132149155446097, guid: 1f25fabd2ef924d4fa0ee282c5678f88, type: 3}
+  - key: qb_Superhero_Female_FullBody
+    model: {fileID: 919132149155446097, guid: 920c548b90e714e48827274637c6b7f9, type: 3}
+  - key: qb_Superhero_Male_FullBody
+    model: {fileID: 919132149155446097, guid: b9ecfe45f89f7c6478f1b7aa348e3110, type: 3}
+  - key: qw_Female_Casual
+    model: {fileID: 919132149155446097, guid: 7e7e4e8f5af6d1e45ae881ed476470d3, type: 3}
+  - key: qw_Female_Dress
+    model: {fileID: 919132149155446097, guid: 8fe067485dbee7c458b8d28864e1f208, type: 3}
+  - key: sk_food_apple
+    model: {fileID: 919132149155446097, guid: efa2e3bdc9d8cb147b38593f1295bcf3, type: 3}
+  - key: sk_food_burger
+    model: {fileID: 919132149155446097, guid: 2be9dd4203990da4e8efbeb3c4756025, type: 3}
+  - key: sk_food_juice
+    model: {fileID: 919132149155446097, guid: b3ed3eebd0e41b741bddbf2d3814cf45, type: 3}
+  - key: sk_food_pizza
+    model: {fileID: 919132149155446097, guid: 682dc1f773cfd6f44b38faad202cc260, type: 3}
+  - key: sk_fridge
+    model: {fileID: 919132149155446097, guid: b006997e7b5598f418cf5bffb22d09c6, type: 3}
+  - key: tt_chair
+    model: {fileID: 919132149155446097, guid: 6ac820a073012734d86ffb3ab2e71960, type: 3}
+  - key: tt_container_kitchen_A_blue
+    model: {fileID: 919132149155446097, guid: b487a967b64cf3b4e9644648ad71bb66, type: 3}
+  - key: tt_container_kitchen_A_red
+    model: {fileID: 919132149155446097, guid: 3ef9ff1b1382d9a4c92842091cfdbfa1, type: 3}
+  - key: tt_container_kitchen_A_white
+    model: {fileID: 919132149155446097, guid: 45b7752195944c74494cc670cdbd805c, type: 3}
+  - key: tt_container_kitchen_B_blue
+    model: {fileID: 919132149155446097, guid: b99160544295d76449a38d456664fe4d, type: 3}
+  - key: tt_container_kitchen_B_red
+    model: {fileID: 919132149155446097, guid: 3d1c2b2571abd7f44a2eedc29902834e, type: 3}
+  - key: tt_container_kitchen_B_white
+    model: {fileID: 919132149155446097, guid: 911cdfbc816efc5489bdcb5e6a91b085, type: 3}
+  - key: tt_countertop_corner_inner
+    model: {fileID: 919132149155446097, guid: 72d5cc3bb0585114488bff47cd666612, type: 3}
+  - key: tt_countertop_counter_outer
+    model: {fileID: 919132149155446097, guid: 16563b60b0e51ba44998523bc340f31b, type: 3}
+  - key: tt_countertop_single
+    model: {fileID: 919132149155446097, guid: 72da64d2142c2d54383b2f0568f2abeb, type: 3}
+  - key: tt_countertop_sink
+    model: {fileID: 919132149155446097, guid: edd98592f479151479f6c967808ffe4b, type: 3}
+  - key: tt_countertop_straight_A
+    model: {fileID: 919132149155446097, guid: dde6b28efe008f448ac2d836338e322b, type: 3}
+  - key: tt_countertop_straight_B
+    model: {fileID: 919132149155446097, guid: eb45c057e46c1b640a4d340cefcee39d, type: 3}
+  - key: tt_countertop_straight_C
+    model: {fileID: 919132149155446097, guid: 84b18057461668942a08045a20bb290f, type: 3}
+  - key: tt_cuttingboard
+    model: {fileID: 919132149155446097, guid: 341560650ea5b9a4abfc8b5a3321f17f, type: 3}
+  - key: tt_dishrack
+    model: {fileID: 919132149155446097, guid: c3b32d1a06d51a04c814ea4c02f14e45, type: 3}
+  - key: tt_dishrack_plates
+    model: {fileID: 919132149155446097, guid: f5a22b83dca399d4f945959c23b90294, type: 3}
+  - key: tt_extractor_hood
+    model: {fileID: 919132149155446097, guid: 8c5ac0f3f2fb4484d83646fde57eedf8, type: 3}
+  - key: tt_fridge
+    model: {fileID: 919132149155446097, guid: 62a7c0de692468f4e8cd78e0e2a40e05, type: 3}
+  - key: tt_kettle
+    model: {fileID: 919132149155446097, guid: af7cd1688ed279443829ed067be07eaf, type: 3}
+  - key: tt_lid
+    model: {fileID: 919132149155446097, guid: 5605cd90d34869a4994ef1c772726a70, type: 3}
+  - key: tt_mug_blue
+    model: {fileID: 919132149155446097, guid: 17617e25699ecf14e8c20d954b36d957, type: 3}
+  - key: tt_mug_red
+    model: {fileID: 919132149155446097, guid: 46c8de011b0b7d04ea4c174d4a248fb9, type: 3}
+  - key: tt_mug_yellow
+    model: {fileID: 919132149155446097, guid: bff15cb9772e8394297c0419630cfe9f, type: 3}
+  - key: tt_oven_glove
+    model: {fileID: 919132149155446097, guid: 57a99f57173aefa4c8887549ed410a09, type: 3}
+  - key: tt_pan
+    model: {fileID: 919132149155446097, guid: 16e66d6591a883b4fbf35ed92033a034, type: 3}
+  - key: tt_papertowel_holder
+    model: {fileID: 919132149155446097, guid: c9294e6a0cb0da34d9d0734713dbcad0, type: 3}
+  - key: tt_plate
+    model: {fileID: 919132149155446097, guid: b21e295da3b3dc54cbcafd95f3289684, type: 3}
+  - key: tt_pot
+    model: {fileID: 919132149155446097, guid: 9b8bfa7703b28cd4f88b5a01ef113734, type: 3}
+  - key: tt_spatula
+    model: {fileID: 919132149155446097, guid: 12c6e96018d13e74e90919d79dd6441d, type: 3}
+  - key: tt_spoon
+    model: {fileID: 919132149155446097, guid: e69ed68856ba39a4bb3f72216e9b1971, type: 3}
+  - key: tt_stove
+    model: {fileID: 919132149155446097, guid: 3236068792494074fbf9e791eb2802c3, type: 3}
+  - key: tt_table_A
+    model: {fileID: 919132149155446097, guid: 32eb3dd61fbb8e14d84f2a356d978e1f, type: 3}
+  - key: tt_table_B
+    model: {fileID: 919132149155446097, guid: 104a04250f1273444bf4b0e128c7f879, type: 3}
+  - key: tt_table_C
+    model: {fileID: 919132149155446097, guid: 3693637834a6cff4eaa252c6f46fe562, type: 3}
+  - key: tt_toaster
+    model: {fileID: 919132149155446097, guid: 8aba6c6badeabff42a793c6925590ca5, type: 3}
+  - key: tt_utensils_cup
+    model: {fileID: 919132149155446097, guid: 7c3ea2831e58b62458c6db2b6acc31ef, type: 3}
+  - key: tt_wall_cabinet_corner
+    model: {fileID: 919132149155446097, guid: d0790eded3cecf9459783e1c72efe8d4, type: 3}
+  - key: tt_wall_cabinet_single_left
+    model: {fileID: 919132149155446097, guid: 5b9b551f2e39ceb47a4d60b4804fb5e3, type: 3}
+  - key: tt_wall_cabinet_single_right
+    model: {fileID: 919132149155446097, guid: 1a7e7f33e1dd5ba4ebbed30a9b6f9ee6, type: 3}
+  - key: tt_wall_cabinet_straight
+    model: {fileID: 919132149155446097, guid: 7e9ce006898dffb41b2b82eba4b818e4, type: 3}
+  - key: tt_wall_knife_rack
+    model: {fileID: 919132149155446097, guid: b9a93b00af4cdc14f8bdaff59b12dd42, type: 3}
+  - key: tt_wall_papertowel_holder
+    model: {fileID: 919132149155446097, guid: 05b8594bb67de9f4aba1856e4a4dcf3d, type: 3}
+  - key: tt_wall_plain_kitchen_corner_inner
+    model: {fileID: 919132149155446097, guid: de37337084d1a2e468ab1833ba98f3d7, type: 3}
+  - key: tt_wall_plain_kitchen_corner_outer
+    model: {fileID: 919132149155446097, guid: 060b9020dbcb84a4fb44ec0edbae93b8, type: 3}
+  - key: tt_wall_plain_kitchen_straight
+    model: {fileID: 919132149155446097, guid: 8d233c13050e70e45b21dea0457fec4f, type: 3}
+  - key: tt_wall_plain_kitchen_window_full_center
+    model: {fileID: 919132149155446097, guid: 126cac581939fdb4d88180ef219e564b, type: 3}
+  - key: tt_wall_plain_kitchen_window_full_left
+    model: {fileID: 919132149155446097, guid: b0b650b741a589b4fbc334918a520d7d, type: 3}
+  - key: tt_wall_plain_kitchen_window_full_right
+    model: {fileID: 919132149155446097, guid: 7991c61ad758faf4187839c2ed33b992, type: 3}
+  - key: tt_wall_plain_kitchen_window_large
+    model: {fileID: 919132149155446097, guid: 6f6afbc6ad6ee4640806691f29f5e80f, type: 3}
+  - key: tt_wall_plain_kitchen_window_small
+    model: {fileID: 919132149155446097, guid: efc0f12df0634b649bf48de48c708e49, type: 3}
+  - key: tt_wall_shelf_kitchen
+    model: {fileID: 919132149155446097, guid: 95ced777f51067e488c881bb286c6c04, type: 3}
+  - key: tt_wall_shelf_kitchen_corner
+    model: {fileID: 919132149155446097, guid: 7d2df9bea35108348a76a8a47c99f1ba, type: 3}
+  - key: tt_wall_shelf_kitchen_hooks
+    model: {fileID: 919132149155446097, guid: bea041db7d3b5044498ec1456416ebb7, type: 3}
+  - key: tt_wall_shelf_kitchen_hooks_decorated
+    model: {fileID: 919132149155446097, guid: d207b0134928c104e8d6fe64968e59f4, type: 3}
+  - key: tt_wall_tiles_kitchen_corner_inner
+    model: {fileID: 919132149155446097, guid: 48c08a2b954c18243a31c649d4f74867, type: 3}
+  - key: tt_wall_tiles_kitchen_corner_outer
+    model: {fileID: 919132149155446097, guid: d0a4edf8f1a8cb84bbee2dc08f9d76d5, type: 3}
+  - key: tt_wall_tiles_kitchen_doorway
+    model: {fileID: 919132149155446097, guid: 3b2691abaada464478d25e664eec9a12, type: 3}
+  - key: tt_wall_tiles_kitchen_straight
+    model: {fileID: 919132149155446097, guid: 120419aa8f97d804392baf66fa8385ad, type: 3}
+  - key: tt_wall_tiles_kitchen_window_full_center
+    model: {fileID: 919132149155446097, guid: f1c3931b558398540a58b21bb6376b5e, type: 3}
+  - key: tt_wall_tiles_kitchen_window_full_left
+    model: {fileID: 919132149155446097, guid: c9c0412ca4b11d44181dd17b28790248, type: 3}
+  - key: tt_wall_tiles_kitchen_window_full_right
+    model: {fileID: 919132149155446097, guid: ef9765b41b72e704280e94ff96ad0e43, type: 3}
+  - key: tt_wall_tiles_kitchen_window_large
+    model: {fileID: 919132149155446097, guid: bc972598496268c47ad12bff85863737, type: 3}
+  - key: tt_wall_tiles_kitchen_window_small
+    model: {fileID: 919132149155446097, guid: a6be38db0a397b043be119f6d54706d4, type: 3}
+  - key: tt_window_full_center_modular
+    model: {fileID: 919132149155446097, guid: 22e7eebbe9a1e44439bfa918e5cb49d9, type: 3}
+  - key: tt_window_full_left_modular
+    model: {fileID: 919132149155446097, guid: ce74fda4a780a1e40a20fe1aa84e3a6f, type: 3}
+  - key: tt_window_full_right_modular
+    model: {fileID: 919132149155446097, guid: a9e7b2bbde227494f8c7344536645dd0, type: 3}
+  - key: tt_window_large_modular
+    model: {fileID: 919132149155446097, guid: b92bf4cff986f6248ab8d0e85e95a80c, type: 3}
+  - key: tt_window_small_modular
+    model: {fileID: 919132149155446097, guid: a758c08dca7db59488dbab387a3aeadd, type: 3}
+  - key: uh_Bathroom_Bathtub
+    model: {fileID: 919132149155446097, guid: 23d5b0958bccdbe4f96ac64d862bfb53, type: 3}
+  - key: uh_Bathroom_Mirror1
+    model: {fileID: 919132149155446097, guid: d14584727bb465640992ff44baf61700, type: 3}
+  - key: uh_Bathroom_Sink
+    model: {fileID: 919132149155446097, guid: 31cd9e2a2ba599f47ab9660213094664, type: 3}
+  - key: uh_Bathroom_Toilet
+    model: {fileID: 919132149155446097, guid: d79ad83e959e83947bf51869be97addb, type: 3}
+  - key: uh_Bathroom_Towel
+    model: {fileID: 919132149155446097, guid: 6b6784bb48f364e43a79f30479bd5d30, type: 3}
+  - key: uh_Bed_Bunk
+    model: {fileID: 919132149155446097, guid: 153ca0d31df84ff4982d7bbb34955695, type: 3}
+  - key: uh_Bed_Single
+    model: {fileID: 919132149155446097, guid: a9946e513ec0d1f4cae5579850b146fa, type: 3}
+  - key: uh_Bookshelf
+    model: {fileID: 919132149155446097, guid: 918d857c6a147314087a4fdfce285597, type: 3}
+  - key: uh_Carpet_1
+    model: {fileID: 919132149155446097, guid: 1ed7289c9045b014298f7f3de3cf0906, type: 3}
+  - key: uh_Chair_1
+    model: {fileID: 919132149155446097, guid: 76768df6a046be04f870fda16462b973, type: 3}
+  - key: uh_Couch_Medium1
+    model: {fileID: 919132149155446097, guid: d89931478362fc64b975b5a4259753cc, type: 3}
+  - key: uh_Door_1
+    model: {fileID: 919132149155446097, guid: 31efe86dd08bba14aa1ce50aa600ac80, type: 3}
+  - key: uh_Drawer_1
+    model: {fileID: 919132149155446097, guid: 0ab53c8161a2cf04fa0b5664022452da, type: 3}
+  - key: uh_Drawer_3
+    model: {fileID: 919132149155446097, guid: f91d522181140e745a031dcd23345f18, type: 3}
+  - key: uh_Fork
+    model: {fileID: 919132149155446097, guid: d92a5654d6d3e4f42a9ef024cd54112d, type: 3}
+  - key: uh_Houseplant_1
+    model: {fileID: 919132149155446097, guid: df036d84286115841b23ac9762831e2e, type: 3}
+  - key: uh_Light_Ceiling1
+    model: {fileID: 919132149155446097, guid: 2925d9fc823af6844950b5aee041d9c6, type: 3}
+  - key: uh_Light_CeilingSingle
+    model: {fileID: 919132149155446097, guid: 5ecb0dfdb8388504eaf7dad492c5344f, type: 3}
+  - key: uh_Light_Floor1
+    model: {fileID: 919132149155446097, guid: b78f978ee1fc3d348bef3eee2734454f, type: 3}
+  - key: uh_NightStand_1
+    model: {fileID: 919132149155446097, guid: 2cf87fea132b403479c71b4bd2a502bb, type: 3}
+  - key: uh_Plate_1
+    model: {fileID: 919132149155446097, guid: 931a14f32d67a6d47a7e9502257e5d8d, type: 3}
+  - key: uh_Shelf_1
+    model: {fileID: 919132149155446097, guid: 11ddf50d17949164bba1d83a41234457, type: 3}
+  - key: uh_Spoon
+    model: {fileID: 919132149155446097, guid: 1055e7a111257474e8da9a5f7af70f99, type: 3}
+  - key: uh_Stool
+    model: {fileID: 919132149155446097, guid: a148bcb280b57a343bd9b0b0d7ddf83b, type: 3}
+  - key: uh_Table_RoundSmall
+    model: {fileID: 919132149155446097, guid: 5e3249d798577b740973408db2a6ad06, type: 3}
+  - key: uh_Trashcan_Small1
+    model: {fileID: 919132149155446097, guid: 66da967ba34cadf4bb109cc0ebae9f1b, type: 3}
+  - key: uh_uh_bin_mech
+    model: {fileID: 919132149155446097, guid: aa21c0a6fa98e164dab12dc20a8a42cb, type: 3}
+  - key: uh_uh_drawers3_mech
+    model: {fileID: 919132149155446097, guid: 78eda392f812d8540bf5ee25efe4f0c8, type: 3}
+  - key: uh_uh_fridge_mech
+    model: {fileID: 919132149155446097, guid: 48b98d26f7dfe31479ba8bcc008fb8f7, type: 3}
+  - key: a2_001_modular_plaster_wall_2m
+    model: {fileID: 919132149155446097, guid: 17491ed2daae7cb43ba1aaa77434384f, type: 3}
+  - key: a2_001_modular_plaster_wall_2m_LOD1
+    model: {fileID: 919132149155446097, guid: 1ce5c86dcb50f384a9f3c10f8ca6389c, type: 3}
+  - key: a2_002_modular_plaster_wall_1m
+    model: {fileID: 919132149155446097, guid: d9b10fa0e703202468f07c443ecba3d7, type: 3}
+  - key: a2_002_modular_plaster_wall_1m_LOD1
+    model: {fileID: 919132149155446097, guid: 0d319045be67b074f888811ef0c10b02, type: 3}
+  - key: a2_003_wall_corner_inner
+    model: {fileID: 919132149155446097, guid: fd2112e31f21cbd449cef0ca90045183, type: 3}
+  - key: a2_004_wall_corner_outer
+    model: {fileID: 919132149155446097, guid: aebe6373ada45d74892026f01b6bb318, type: 3}
+  - key: a2_005_ceiling_module
+    model: {fileID: 919132149155446097, guid: fcae9ba627ec2514597df7e2b6aee082, type: 3}
+  - key: a2_006_floorboards_module
+    model: {fileID: 919132149155446097, guid: 800d82e18ca9c994f9aedf5edfedafdd, type: 3}
+  - key: a2_006_floorboards_module_LOD1
+    model: {fileID: 919132149155446097, guid: b9cde47b8aa180f48a99a07cc42dda56, type: 3}
+  - key: a2_008_threshold_module
+    model: {fileID: 919132149155446097, guid: fa6f00ee5cdcc89449bc8d5e43f6f66b, type: 3}
+  - key: a2_009_wood_baseboard
+    model: {fileID: 919132149155446097, guid: 18042a8a20a6e754aa246989aae8786d, type: 3}
+  - key: a2_011_exposed_ceiling_beam
+    model: {fileID: 919132149155446097, guid: 09bdc65a805f407498c4910e1c08cb55, type: 3}
+  - key: a2_013_support_column
+    model: {fileID: 919132149155446097, guid: d09b3eb94ebd70543a1cb9ae8b0b729b, type: 3}
+  - key: a2_015_round_window
+    model: {fileID: 919132149155446097, guid: cdbe51f1c761cf546aedf2737d212ae0, type: 3}
+  - key: a2_015_round_window_LOD1
+    model: {fileID: 919132149155446097, guid: 692a7a395f7437e43b2329dc7d5ae5c5, type: 3}
+  - key: a2_016_crooked_rectangular_window
+    model: {fileID: 919132149155446097, guid: 8288518c332bc1b46bb1275c0f736665, type: 3}
+  - key: a2_016_crooked_rectangular_window_LOD1
+    model: {fileID: 919132149155446097, guid: 51a40521f28873a4ab3892da8de207fe, type: 3}
+  - key: a2_017_octagonal_window
+    model: {fileID: 919132149155446097, guid: 0670e660542bce54888c4a3baf71cef4, type: 3}
+  - key: a2_017_octagonal_window_LOD1
+    model: {fileID: 919132149155446097, guid: 0046894053ed4c7478eb6365b92afb2e, type: 3}
+  - key: a2_018_window_ledge
+    model: {fileID: 919132149155446097, guid: 14568e26709f0504fa2cd8ac81b1b61c, type: 3}
+  - key: a2_019_window_shutters
+    model: {fileID: 919132149155446097, guid: b1bdb748abb617f4c8d3d5afa09419b1, type: 3}
+  - key: a2_019_window_shutters_LOD1
+    model: {fileID: 919132149155446097, guid: 981fb721e2731734c835167de31d507a, type: 3}
+  - key: a2_020_window_curtains
+    model: {fileID: 919132149155446097, guid: 58fd2a5fb9ba48245bda9e652ff127e0, type: 3}
+  - key: a2_020_window_curtains_LOD1
+    model: {fileID: 919132149155446097, guid: 2d0893c65ed64f34cb73aa5476435a3e, type: 3}
+  - key: a2_021_arched_doorway
+    model: {fileID: 919132149155446097, guid: d7febac7f48c08343804f14b6c2c18ae, type: 3}
+  - key: a2_022_interior_hinged_door
+    model: {fileID: 919132149155446097, guid: f0d3fe6d7b811244cb5bc684dc474448, type: 3}
+  - key: a2_022_interior_hinged_door_LOD1
+    model: {fileID: 919132149155446097, guid: c016014ada8e26f4bab154a33e877dcd, type: 3}
+  - key: a2_023_door_handle
+    model: {fileID: 919132149155446097, guid: c5b69740da3699049876e83dde09ca03, type: 3}
+  - key: a2_024_door_frame
+    model: {fileID: 919132149155446097, guid: de72d8e5f85c63c47b682bc2d70ea51b, type: 3}
+  - key: a2_026_wall_sconce
+    model: {fileID: 919132149155446097, guid: 318c876535b3e624894c53103984c8b9, type: 3}
+  - key: a2_026_wall_sconce_LOD1
+    model: {fileID: 919132149155446097, guid: 4f90e41fbcaa6504c9961a3f8844c98c, type: 3}
+  - key: a2_028_pendant_light
+    model: {fileID: 919132149155446097, guid: f872b92b5ac3304469acc47e6443bf71, type: 3}
+  - key: a2_028_pendant_light_LOD1
+    model: {fileID: 919132149155446097, guid: c6b65b04ff861864f84da32f7ed0ade9, type: 3}
+  - key: a2_029_floor_lamp
+    model: {fileID: 919132149155446097, guid: 7aec373a32a1deb42a26970835cebe65, type: 3}
+  - key: a2_029_floor_lamp_LOD1
+    model: {fileID: 919132149155446097, guid: 993e98d90beca4645803b286db3b77c0, type: 3}
+  - key: a2_030_wall_light_switch
+    model: {fileID: 919132149155446097, guid: 958106b0e27e024439f656ce3d1d7f5d, type: 3}
+  - key: a2_033_household_ventilation_pipe
+    model: {fileID: 919132149155446097, guid: 9222de8f83b3ac94faca598abed4e258, type: 3}
+  - key: a2_033_household_ventilation_pipe_LOD1
+    model: {fileID: 919132149155446097, guid: 60ed59942fde1da439c09ba84341e820, type: 3}
+  - key: a2_037_ceramic_planter
+    model: {fileID: 919132149155446097, guid: dfcf472cb4ae0bb42be013359f6a2b6c, type: 3}
+  - key: a2_037_ceramic_planter_LOD1
+    model: {fileID: 919132149155446097, guid: 068dfc49dfef8c5428082e780df6f66d, type: 3}
+  - key: a2_038_small_leafy_plant
+    model: {fileID: 919132149155446097, guid: 205e9c2271f279541af6bed6b2e6db6d, type: 3}
+  - key: a2_038_small_leafy_plant_LOD1
+    model: {fileID: 919132149155446097, guid: 76ce9d67a4d73d04f99034b127e38105, type: 3}
+  - key: a2_039_large_potted_plant
+    model: {fileID: 919132149155446097, guid: 334f99dc34aa9c8478b98d7c38c1ac23, type: 3}
+  - key: a2_039_large_potted_plant_LOD1
+    model: {fileID: 919132149155446097, guid: 699af5b499253dd4dafdd0eb6b6dcb43, type: 3}
+  - key: a2_040_wall_art_frame
+    model: {fileID: 919132149155446097, guid: 2c72db3cd049852418a5d947da2f1d85, type: 3}
+  - key: a2_040_wall_art_frame_LOD1
+    model: {fileID: 919132149155446097, guid: 1126111accf8d944bb4f6842e69436e5, type: 3}
+  - key: a2_041_wall_clock
+    model: {fileID: 919132149155446097, guid: 1eb46c5621685e9468f3651204ce08a0, type: 3}
+  - key: a2_041_wall_clock_LOD1
+    model: {fileID: 919132149155446097, guid: 28cde29fb810efa4bb23dd950018f2f8, type: 3}
+  - key: a2_042_woven_rug_rectangular
+    model: {fileID: 919132149155446097, guid: db8313ef68c253d449660dabdb2aa55e, type: 3}
+  - key: a2_042_woven_rug_rectangular_LOD1
+    model: {fileID: 919132149155446097, guid: dfcd7343489ee354aab9b382bb7c2dce, type: 3}
+  - key: a2_043_woven_rug_circular
+    model: {fileID: 919132149155446097, guid: 4a8a74ad2824bc649ba3165025c8cb1f, type: 3}
+  - key: a2_043_woven_rug_circular_LOD1
+    model: {fileID: 919132149155446097, guid: e48c3d2b290b9a64284283b492731804, type: 3}
+  - key: a2_045_wall_shelf_straight
+    model: {fileID: 919132149155446097, guid: 11bf87200f016144682287799be3341a, type: 3}
+  - key: a2_048_decorative_candle_safe
+    model: {fileID: 919132149155446097, guid: c74872929ffdcec4d976ae1e3e853a30, type: 3}
+  - key: a2_050_light_fixture_glass_shade
+    model: {fileID: 919132149155446097, guid: 458ecf7514c69ec488e6c8e6c8988282, type: 3}
+  - key: a2_054_physical_main_menu_board
+    model: {fileID: 919132149155446097, guid: a513086250c68854a9108cc71fca3a61, type: 3}
+  - key: a2_054_physical_main_menu_board_LOD1
+    model: {fileID: 919132149155446097, guid: 155ac3f91cc271f4c9a3967abef193cd, type: 3}
+  - key: a2_056_large_pressable_wooden_button
+    model: {fileID: 919132149155446097, guid: e0ff7cf7b8e56b146967e89c5e73cfca, type: 3}
+  - key: a2_057_hand_poke_target_token
+    model: {fileID: 919132149155446097, guid: 942ffbc8b4440af4fb1b1fe726c9677c, type: 3}
+  - key: a2_058_4_avatar_pedestals
+    model: {fileID: 919132149155446097, guid: 7c21d6eba3062b2418eb35e4e053a4d2, type: 3}
+  - key: a2_059_wardrobe_mirror
+    model: {fileID: 919132149155446097, guid: 0473c7c5470ffc24a9d3fa81395fd08b, type: 3}
+  - key: a2_059_wardrobe_mirror_LOD1
+    model: {fileID: 919132149155446097, guid: 8fb9a1edcb0bd7d419ee67f8bf86ea2c, type: 3}
+  - key: a2_060_mirror_selection_arrow
+    model: {fileID: 919132149155446097, guid: 4eef00a46fb7ccd46a1973389d9b95da, type: 3}
+  - key: a2_061_outfit_display_rack
+    model: {fileID: 919132149155446097, guid: 0984f3070e6988540a4558009efa774c, type: 3}
+  - key: a2_061_outfit_display_rack_LOD1
+    model: {fileID: 919132149155446097, guid: ffc6ec09e88e7df4aa30eaad7bf2049b, type: 3}
+  - key: a2_062_nameplate_stand
+    model: {fileID: 919132149155446097, guid: 5fae315a03eafe44cb1bf20dfeabd21a, type: 3}
+  - key: a2_069_large_sofa_frame
+    model: {fileID: 919132149155446097, guid: 45a150870d7fc584b9029193ccf5741f, type: 3}
+  - key: a2_069_large_sofa_frame_LOD1
+    model: {fileID: 919132149155446097, guid: f03515be07c3d6e49a63686bb6621e0d, type: 3}
+  - key: a2_070_removable_sofa_cushion_a
+    model: {fileID: 919132149155446097, guid: 1a819e7658db6504e9be7399a26f39a8, type: 3}
+  - key: a2_073_armchair
+    model: {fileID: 919132149155446097, guid: 62ebc344b5c908f44ac8909c7c74ee4d, type: 3}
+  - key: a2_073_armchair_LOD1
+    model: {fileID: 919132149155446097, guid: 3a8074d4f1bd91947963f2307fb074b7, type: 3}
+  - key: a2_074_coffee_table
+    model: {fileID: 919132149155446097, guid: db6761de6b547d04881cb0784bad8db4, type: 3}
+  - key: a2_075_side_table
+    model: {fileID: 919132149155446097, guid: a9db62630eab9b9469a2ac530097f264, type: 3}
+  - key: a2_077_television
+    model: {fileID: 919132149155446097, guid: b7ddd842acb68c444a25ec445ac67a57, type: 3}
+  - key: a2_078_bookshelf_a
+    model: {fileID: 919132149155446097, guid: 8ad076b578ae10f40b20942fdd921909, type: 3}
+  - key: a2_078_bookshelf_a_LOD1
+    model: {fileID: 919132149155446097, guid: 75ded177034df814f9571e184a5eeeef, type: 3}
+  - key: a2_079_bookshelf_b
+    model: {fileID: 919132149155446097, guid: fbfdc435d39f1274ba87569b9c1e3667, type: 3}
+  - key: a2_079_bookshelf_b_LOD1
+    model: {fileID: 919132149155446097, guid: 9370cee48d460434fa29214b42b4c0f5, type: 3}
+  - key: a2_080_toy_chest_with_hinge
+    model: {fileID: 919132149155446097, guid: 3e9e758f6d683874d9d7e37e80c68e25, type: 3}
+  - key: a2_080_toy_chest_with_hinge_LOD1
+    model: {fileID: 919132149155446097, guid: 3b495e4406abce14fa7c2eb2ff811705, type: 3}
+  - key: a2_081_shoe_rack
+    model: {fileID: 919132149155446097, guid: a8de9dedbdae26e4a816c90aec54c062, type: 3}
+  - key: a2_081_shoe_rack_LOD1
+    model: {fileID: 919132149155446097, guid: 08d43906467d5f141bb61e63af42afc1, type: 3}
+  - key: a2_082_console_table
+    model: {fileID: 919132149155446097, guid: ac1ce054487bbe34880eb199c2ad923d, type: 3}
+  - key: a2_083_ottoman
+    model: {fileID: 919132149155446097, guid: f4f8bfde1e87df34887e8b1af32c82eb, type: 3}
+  - key: a2_084_entrance_mat
+    model: {fileID: 919132149155446097, guid: 1345d9db8a723bb47bcd94a03b18dfb0, type: 3}
+  - key: a2_084_entrance_mat_LOD1
+    model: {fileID: 919132149155446097, guid: af855b5db75cc804b9179b736d4008db, type: 3}
+  - key: a2_085_cat_bed
+    model: {fileID: 919132149155446097, guid: a07c8b722ace78542b0bfe25a54f4a79, type: 3}
+  - key: a2_085_cat_bed_LOD1
+    model: {fileID: 919132149155446097, guid: 5a8a6581fd497294fa629e53e116894a, type: 3}
+  - key: a2_086_dog_bed
+    model: {fileID: 919132149155446097, guid: a8d511ce95b958f42a93eb8d799e68f8, type: 3}
+  - key: a2_086_dog_bed_LOD1
+    model: {fileID: 919132149155446097, guid: c2cd0b27534afc9439ae9c2bb1ea47f5, type: 3}
+  - key: a2_089_living_room_rug
+    model: {fileID: 919132149155446097, guid: 33f5aaa0560ec4f4fa237f07368959e0, type: 3}
+  - key: a2_089_living_room_rug_LOD1
+    model: {fileID: 919132149155446097, guid: 7f94b10e4c57c584594afee6e00da19f, type: 3}
+  - key: a2_091_lamp_small
+    model: {fileID: 919132149155446097, guid: b4355e611c92c6f4198388eaba9991b1, type: 3}
+  - key: a2_091_lamp_small_LOD1
+    model: {fileID: 919132149155446097, guid: bd74e37aaa750644ba939fca7b52f4f4, type: 3}
+  - key: a2_092_coat_rack
+    model: {fileID: 919132149155446097, guid: f8968eb62acdc4f4fb1a4a6eb2d03b65, type: 3}
+  - key: a2_093_hardcover_book_small
+    model: {fileID: 919132149155446097, guid: c7a417562f74f7243ac548ba07457301, type: 3}
+  - key: a2_093_hardcover_book_small_LOD1
+    model: {fileID: 919132149155446097, guid: c3de8df984c35ef418671e19bb78fabf, type: 3}
+  - key: a2_094_hardcover_book_medium
+    model: {fileID: 919132149155446097, guid: 6413cedaa11f4a149981ba5097a15b16, type: 3}
+  - key: a2_094_hardcover_book_medium_LOD1
+    model: {fileID: 919132149155446097, guid: 450a3971a3dd8344cafec0873cf9f591, type: 3}
+  - key: a2_095_hardcover_book_large
+    model: {fileID: 919132149155446097, guid: 4f98715b58c03704ebfd6e34ba80f17e, type: 3}
+  - key: a2_095_hardcover_book_large_LOD1
+    model: {fileID: 919132149155446097, guid: c3d41bfa3befad34e827bd7ab4171c8a, type: 3}
+  - key: a2_096_comic_book
+    model: {fileID: 919132149155446097, guid: e0cad4181e2153d488f06f0381c7227c, type: 3}
+  - key: a2_096_comic_book_LOD1
+    model: {fileID: 919132149155446097, guid: 334c1b39e084dbf49ac414b9b2c1b750, type: 3}
+  - key: a2_098_toy_car_red
+    model: {fileID: 919132149155446097, guid: 7e018b607606736438a3336c73b0026f, type: 3}
+  - key: a2_098_toy_car_red_LOD1
+    model: {fileID: 919132149155446097, guid: b266b965a54937246b57ebfcadc25e51, type: 3}
+  - key: a2_099_toy_car_blue
+    model: {fileID: 919132149155446097, guid: fa8109adbb93ef94a9f0ffa445b193a8, type: 3}
+  - key: a2_099_toy_car_blue_LOD1
+    model: {fileID: 919132149155446097, guid: 0f90e627f2b3029449a303511cb23f52, type: 3}
+  - key: a2_100_building_block_cube
+    model: {fileID: 919132149155446097, guid: d71417dc71a639f4bbe8c8c7aade31ea, type: 3}
+  - key: a2_101_building_block_arch
+    model: {fileID: 919132149155446097, guid: a65487e4e81b65448929c9cf4957c036, type: 3}
+  - key: a2_102_building_block_cylinder
+    model: {fileID: 919132149155446097, guid: fad316d62607e6845ad2027be683a5eb, type: 3}
+  - key: a2_103_soft_ball
+    model: {fileID: 919132149155446097, guid: 5e41f9a5e315b8f44a69cf972e1ae11c, type: 3}
+  - key: a2_104_toy_spaceship
+    model: {fileID: 919132149155446097, guid: e6b93b8ac334642468ec5c7578a754b7, type: 3}
+  - key: a2_104_toy_spaceship_LOD1
+    model: {fileID: 919132149155446097, guid: 4eecc902b11f97241bd59b3cc7b7c418, type: 3}
+  - key: a2_105_tv_remote
+    model: {fileID: 919132149155446097, guid: 2f2fda7cf1baf784396313098aef4389, type: 3}
+  - key: a2_105_tv_remote_LOD1
+    model: {fileID: 919132149155446097, guid: 4760b107d4f73e847900254aaa3b49d3, type: 3}
+  - key: a2_106_cup_ceramic
+    model: {fileID: 919132149155446097, guid: bc8e625c14cfa7b47a708f7e01dc424e, type: 3}
+  - key: a2_106_cup_ceramic_LOD1
+    model: {fileID: 919132149155446097, guid: 77e8d514f0119af4e9696cdd10b879bd, type: 3}
+  - key: a2_107_cup_plastic
+    model: {fileID: 919132149155446097, guid: 2cac588197297a842a0f90350df69a77, type: 3}
+  - key: a2_107_cup_plastic_LOD1
+    model: {fileID: 919132149155446097, guid: a48eab0463449c740b1a9896ca506c39, type: 3}
+  - key: a2_108_serving_tray
+    model: {fileID: 919132149155446097, guid: 31a8ab54991b5de4c90bd31b535126f7, type: 3}
+  - key: a2_108_serving_tray_LOD1
+    model: {fileID: 919132149155446097, guid: 9732f252ada388f4d8a147fbedcf9652, type: 3}
+  - key: a2_109_pair_sneakers_left
+    model: {fileID: 919132149155446097, guid: 27182edbd1a41d2418a784c3e735d6e4, type: 3}
+  - key: a2_109_pair_sneakers_left_LOD1
+    model: {fileID: 919132149155446097, guid: 336d1a3a11e426348ae9ee3343e7e583, type: 3}
+  - key: a2_110_pair_sneakers_right
+    model: {fileID: 919132149155446097, guid: aeae9b75143366943a187c08839cb1d2, type: 3}
+  - key: a2_110_pair_sneakers_right_LOD1
+    model: {fileID: 919132149155446097, guid: 26651bb70e763e34d9647560b1c7f62c, type: 3}
+  - key: a2_113_folded_blanket
+    model: {fileID: 919132149155446097, guid: 2bb2bb1690085564cb051d0f26709f10, type: 3}
+  - key: a2_113_folded_blanket_LOD1
+    model: {fileID: 919132149155446097, guid: 8a7857eaeb0e1f34891c2c6820636fd8, type: 3}
+  - key: a2_115_lightweight_toy_basket
+    model: {fileID: 919132149155446097, guid: 9b0cb147d2d2f0d42917636a5e5919fc, type: 3}
+  - key: a2_115_lightweight_toy_basket_LOD1
+    model: {fileID: 919132149155446097, guid: ea77533f34d15bc4b9b08b079d38273f, type: 3}
+  - key: a2_116_squeaky_dog_toy
+    model: {fileID: 919132149155446097, guid: 088feecc8f457d94e8ea8d3cc5bbfceb, type: 3}
+  - key: a2_117_pet_food_pouch
+    model: {fileID: 919132149155446097, guid: 267074a57fd047c4cbdc9bbaf945bfb0, type: 3}
+  - key: a2_118_small_vase
+    model: {fileID: 919132149155446097, guid: dce5e57b100ca9a45b592fa781dcf96d, type: 3}
+  - key: a2_119_child_safe_photo_frame
+    model: {fileID: 919132149155446097, guid: b61556391d9982945b1fa5d88ce3b539, type: 3}
+  - key: a2_119_child_safe_photo_frame_LOD1
+    model: {fileID: 919132149155446097, guid: 7649799384135694a8d202806d8b23b6, type: 3}
+  - key: a2_121_wobbly_stack_of_books
+    model: {fileID: 919132149155446097, guid: aac608f61859fc94593e6effc787d277, type: 3}
+  - key: a2_121_wobbly_stack_of_books_LOD1
+    model: {fileID: 919132149155446097, guid: 2fc12044808e6ac42a5a514d0c50bda7, type: 3}
+  - key: a2_126_loose_fabric_throw
+    model: {fileID: 919132149155446097, guid: e208a71c8906c7b4b9ba5cf8d3e0e196, type: 3}
+  - key: a2_129_wooden_domino_toy
+    model: {fileID: 919132149155446097, guid: a2e59fdf5137e944dad355138b282b3b, type: 3}
+  - key: a2_133_overhead_cabinet_with_doors
+    model: {fileID: 919132149155446097, guid: 5f7887080e96f704198c0720ba1067f8, type: 3}
+  - key: a2_133_overhead_cabinet_with_doors_LOD1
+    model: {fileID: 919132149155446097, guid: e2b31cbed6cfe2747afbaf03c3679f96, type: 3}
+  - key: a2_134_lower_cabinet_with_doors
+    model: {fileID: 919132149155446097, guid: 13788e6e5d2a6764380ecdad7814ce21, type: 3}
+  - key: a2_134_lower_cabinet_with_doors_LOD1
+    model: {fileID: 919132149155446097, guid: 1f6e9434fa0ccaf46a7d5144d8c42afd, type: 3}
+  - key: a2_135_countertop_module
+    model: {fileID: 919132149155446097, guid: e9372bfe3d697494ea070b05c54261e0, type: 3}
+  - key: a2_136_island_module
+    model: {fileID: 919132149155446097, guid: aedac3be3e9762841842d4d2839e5d0b, type: 3}
+  - key: a2_138_fridge_body
+    model: {fileID: 919132149155446097, guid: 9873769178f4bfb459b6a6a79e15a2ce, type: 3}
+  - key: a2_138_fridge_body_LOD1
+    model: {fileID: 919132149155446097, guid: 7cb431b59894a8244af112556260951b, type: 3}
+  - key: a2_140_fridge_interior_shelves
+    model: {fileID: 919132149155446097, guid: c175c7bac7220da4b9c68c4650dc00ed, type: 3}
+  - key: a2_141_oven_body
+    model: {fileID: 919132149155446097, guid: d30efbd31e36f2d4daa49b5b5b951b00, type: 3}
+  - key: a2_141_oven_body_LOD1
+    model: {fileID: 919132149155446097, guid: 7d8793a5724fdf343951f503cb334fb0, type: 3}
+  - key: a2_145_extractor_hood
+    model: {fileID: 919132149155446097, guid: ac55d34ed34ccae4ca8572a1099630f8, type: 3}
+  - key: a2_146_sink_basin
+    model: {fileID: 919132149155446097, guid: 80693b072a05de4428eaae80990f4bb0, type: 3}
+  - key: a2_147_water_tap_handle
+    model: {fileID: 919132149155446097, guid: 43bce98d972eddf458d049a059f4b73c, type: 3}
+  - key: a2_148_dish_rack
+    model: {fileID: 919132149155446097, guid: 8dfb7e79f3665e84087f655cd53efd9f, type: 3}
+  - key: a2_149_cutlery_drawer
+    model: {fileID: 919132149155446097, guid: 351f95fff3e97af4fa8533fd25d37e35, type: 3}
+  - key: a2_149_cutlery_drawer_LOD1
+    model: {fileID: 919132149155446097, guid: 6ca9f79418079dc45b00c530fbe3de3e, type: 3}
+  - key: a2_150_cutlery_insert
+    model: {fileID: 919132149155446097, guid: f5d5911a7e589984baa5959dd6672d65, type: 3}
+  - key: a2_150_cutlery_insert_LOD1
+    model: {fileID: 919132149155446097, guid: 168617a7f2a882441945ba8655918972, type: 3}
+  - key: a2_151_pan_rack
+    model: {fileID: 919132149155446097, guid: 46e6c98e8ec317246ba0e4fde7b6d096, type: 3}
+  - key: a2_152_spice_rack
+    model: {fileID: 919132149155446097, guid: 403537a50ca262243a86bfe1f159952c, type: 3}
+  - key: a2_152_spice_rack_LOD1
+    model: {fileID: 919132149155446097, guid: d606d45f6abb9224a8cb2ab8b7ed421a, type: 3}
+  - key: a2_153_pantry_shelf
+    model: {fileID: 919132149155446097, guid: 01e4563da3f69784db89dcea76ce76c9, type: 3}
+  - key: a2_153_pantry_shelf_LOD1
+    model: {fileID: 919132149155446097, guid: 161b0e59df8f20d4e8e8d9e356676620, type: 3}
+  - key: a2_154_kitchen_stool
+    model: {fileID: 919132149155446097, guid: f9f4d5878b2172d4c8b8583d32e9ad31, type: 3}
+  - key: a2_155_wall_tiled_backsplash
+    model: {fileID: 919132149155446097, guid: e4b43df253717da4894b7de77b3f8762, type: 3}
+  - key: a2_155_wall_tiled_backsplash_LOD1
+    model: {fileID: 919132149155446097, guid: 016a4c90738928945a5d4dfef9f6715b, type: 3}
+  - key: a2_158_kitchen_waste_bin
+    model: {fileID: 919132149155446097, guid: 5196a14af0b33cc42bb9ac37848d5811, type: 3}
+  - key: a2_159_dishwasher_front
+    model: {fileID: 919132149155446097, guid: e3ab6ce2c933e08498431f2be5936310, type: 3}
+  - key: a2_160_stackable_plate_small
+    model: {fileID: 919132149155446097, guid: aa8d7d8ace2b688409873d58be0b64b7, type: 3}
+  - key: a2_160_stackable_plate_small_LOD1
+    model: {fileID: 919132149155446097, guid: fb7009479e0ee7f4aa508d44efb2bca2, type: 3}
+  - key: a2_161_stackable_plate_large
+    model: {fileID: 919132149155446097, guid: fedd53da8dc16d343883dcf2e689eb41, type: 3}
+  - key: a2_161_stackable_plate_large_LOD1
+    model: {fileID: 919132149155446097, guid: 881daf2d582b3774c90182b270442152, type: 3}
+  - key: a2_162_saucer
+    model: {fileID: 919132149155446097, guid: 3065a3b5450122c459638e5e1a103ff4, type: 3}
+  - key: a2_162_saucer_LOD1
+    model: {fileID: 919132149155446097, guid: 401d7f220c5ccc74c9136b46b2744958, type: 3}
+  - key: a2_163_breakable_plate_state
+    model: {fileID: 919132149155446097, guid: 353dbd2119a23084e9426dafb0a8f6e7, type: 3}
+  - key: a2_165_glass_tumbler
+    model: {fileID: 919132149155446097, guid: 837bbcc814cec5f4fb1a98411ec72009, type: 3}
+  - key: a2_165_glass_tumbler_LOD1
+    model: {fileID: 919132149155446097, guid: 0ad57490060bad84c931c4e60f16f62c, type: 3}
+  - key: a2_166_plastic_cup
+    model: {fileID: 919132149155446097, guid: 92e3766814da89f4fa75a6c1491daeac, type: 3}
+  - key: a2_166_plastic_cup_LOD1
+    model: {fileID: 919132149155446097, guid: df6ff9d80184c1041ab20760bfff1d96, type: 3}
+  - key: a2_167_fork
+    model: {fileID: 919132149155446097, guid: 9b2a6a678311d2c4289438843d4a65de, type: 3}
+  - key: a2_167_fork_LOD1
+    model: {fileID: 919132149155446097, guid: bae1bb14be76aef4c8510b36be3f58db, type: 3}
+  - key: a2_168_spoon
+    model: {fileID: 919132149155446097, guid: af377c0f11bea8a48b4fa270314d3aac, type: 3}
+  - key: a2_169_butter_knife_safe
+    model: {fileID: 919132149155446097, guid: a1edca6af899b9c4fb7f30ceb87dd57d, type: 3}
+  - key: a2_170_spatula
+    model: {fileID: 919132149155446097, guid: ccf3d08fcf33ece48ac459dfb0398ffa, type: 3}
+  - key: a2_171_ladle
+    model: {fileID: 919132149155446097, guid: 452bae855d61e414ea7cc5f9329393c8, type: 3}
+  - key: a2_172_whisk
+    model: {fileID: 919132149155446097, guid: ae1e2927ec66b0545947e475c0d6d9cf, type: 3}
+  - key: a2_173_small_pot
+    model: {fileID: 919132149155446097, guid: 90e19219dfcca264eb80f007ff35486e, type: 3}
+  - key: a2_174_large_pot
+    model: {fileID: 919132149155446097, guid: 703b488409be8b14a924fbae3b37a365, type: 3}
+  - key: a2_175_frying_pan
+    model: {fileID: 919132149155446097, guid: 6fe69c77325c89846b3dd8c5fd3d3377, type: 3}
+  - key: a2_177_cutting_board
+    model: {fileID: 919132149155446097, guid: d03e1c4fb34a4004d92cc3e13fbc40eb, type: 3}
+  - key: a2_178_fruit_bowl
+    model: {fileID: 919132149155446097, guid: 030f00a2061d1e445bd04de00121d2ab, type: 3}
+  - key: a2_178_fruit_bowl_LOD1
+    model: {fileID: 919132149155446097, guid: cb599d011ab723141b53dfb607025dc0, type: 3}
+  - key: a2_179_apple
+    model: {fileID: 919132149155446097, guid: 8c9a429ee8c0f654fbff71adf2ca8541, type: 3}
+  - key: a2_180_banana
+    model: {fileID: 919132149155446097, guid: 142bbc40d07a5104281a5d6317459ca3, type: 3}
+  - key: a2_181_orange
+    model: {fileID: 919132149155446097, guid: a1ee37da400555a4190e2b7678110520, type: 3}
+  - key: a2_182_milk_carton
+    model: {fileID: 919132149155446097, guid: 79ff416e7ba6ecc498b52aab2b040ce4, type: 3}
+  - key: a2_183_bread_loaf
+    model: {fileID: 919132149155446097, guid: 330df68937c34524f88f5d686c719d0c, type: 3}
+  - key: a2_184_food_can
+    model: {fileID: 919132149155446097, guid: 16c5213fa62a74445ba684eb83ce2074, type: 3}
+  - key: a2_185_cat_food_bowl
+    model: {fileID: 919132149155446097, guid: dc0f0c532a761b843a1604bb788e081e, type: 3}
+  - key: a2_185_cat_food_bowl_LOD1
+    model: {fileID: 919132149155446097, guid: 1215c35188a3640409b70f7170e3c375, type: 3}
+  - key: a2_186_dog_food_bowl
+    model: {fileID: 919132149155446097, guid: 12a0ef0044ec1e94c9039fc86a8966cb, type: 3}
+  - key: a2_186_dog_food_bowl_LOD1
+    model: {fileID: 919132149155446097, guid: b58b4af3bab591141a823f7ff6deaedd, type: 3}
+  - key: a2_187_food_bag
+    model: {fileID: 919132149155446097, guid: df1d5640c377d1a409eaad2b1b3306dc, type: 3}
+  - key: a2_188_sponge
+    model: {fileID: 919132149155446097, guid: a849e33ab9121a14895f37548b9df8b8, type: 3}
+  - key: a2_191_spill_decal_dirty_state
+    model: {fileID: 919132149155446097, guid: 29e3cbe192490fa40a641fdebd7a4a17, type: 3}
+  - key: a2_193_oven_mitt
+    model: {fileID: 919132149155446097, guid: 81b72b43eaf90824a9f31540d210ff25, type: 3}
+  - key: a2_195_pot_rack_swinging_setup
+    model: {fileID: 919132149155446097, guid: c7f0a5833fb6e854e9ad493bd2d134a9, type: 3}
+  - key: a2_200_loose_kettle_lid
+    model: {fileID: 919132149155446097, guid: 35b320479bb07a847991727c9505f082, type: 3}
+  - key: a2_203_washing_machine_body
+    model: {fileID: 919132149155446097, guid: 52d8951aa1b0cc24797c419f20906e10, type: 3}
+  - key: a2_203_washing_machine_body_LOD1
+    model: {fileID: 919132149155446097, guid: 2b5a2ad967e4c0440ab1b2a7161caad0, type: 3}
+  - key: a2_206_dryer_body
+    model: {fileID: 919132149155446097, guid: 9cfafb4ea5b75814a83cc46bea4490d0, type: 3}
+  - key: a2_206_dryer_body_LOD1
+    model: {fileID: 919132149155446097, guid: 9061425cb433c8444b545cc1fe7fc33f, type: 3}
+  - key: a2_210_hanging_rail
+    model: {fileID: 919132149155446097, guid: b55c898d851a4704d8ebc7cd4d0bcefd, type: 3}
+  - key: a2_210_hanging_rail_LOD1
+    model: {fileID: 919132149155446097, guid: 0dc96f5b32fbcff4d8b74074f1be7b4e, type: 3}
+  - key: a2_211_folding_table
+    model: {fileID: 919132149155446097, guid: b5f1f2bb225751e41857d6dedfdef482, type: 3}
+  - key: a2_212_sorting_station
+    model: {fileID: 919132149155446097, guid: f8ea1fad48e8d574083290b653a703a6, type: 3}
+  - key: a2_212_sorting_station_LOD1
+    model: {fileID: 919132149155446097, guid: fe4d695e51de8814f8926e2ae056efd2, type: 3}
+  - key: a2_213_laundry_hamper
+    model: {fileID: 919132149155446097, guid: 911ba550a0665c24d8aaff5800ce7dae, type: 3}
+  - key: a2_213_laundry_hamper_LOD1
+    model: {fileID: 919132149155446097, guid: 157550e14eca8b94584f525ce3f45f6f, type: 3}
+  - key: a2_215_drying_rack
+    model: {fileID: 919132149155446097, guid: 8f91d87d58c31914db3246d7e51eff0e, type: 3}
+  - key: a2_215_drying_rack_LOD1
+    model: {fileID: 919132149155446097, guid: e3b8f9a863a456f41bcf0cbbbca2ffff, type: 3}
+  - key: a2_216_towel_rack
+    model: {fileID: 919132149155446097, guid: 5353d831232dd124f8da112cf36bf14d, type: 3}
+  - key: a2_216_towel_rack_LOD1
+    model: {fileID: 919132149155446097, guid: cd49292be77e42f4b83acdac1c50a75e, type: 3}
+  - key: a2_218_utility_floor_tiles
+    model: {fileID: 919132149155446097, guid: 690b8bd7f5338784a8918eb0295b0afa, type: 3}
+  - key: a2_218_utility_floor_tiles_LOD1
+    model: {fileID: 919132149155446097, guid: 4938998c4b8ed4c47954d076e6779417, type: 3}
+  - key: a2_220_drain_floor
+    model: {fileID: 919132149155446097, guid: 1a6561d09dff69740bdc9ecbe66b943e, type: 3}
+  - key: a2_220_drain_floor_LOD1
+    model: {fileID: 919132149155446097, guid: 3d402645d5d601a47a1bd1830ae0a810, type: 3}
+  - key: a2_221_small_night_window
+    model: {fileID: 919132149155446097, guid: 47926b31cb804624480c53a3b0940c79, type: 3}
+  - key: a2_221_small_night_window_LOD1
+    model: {fileID: 919132149155446097, guid: 41b416a73371bc4458c2a08be541e393, type: 3}
+  - key: a2_222_hanger_rail
+    model: {fileID: 919132149155446097, guid: e033937e8c752e4409c93d07c54e93e2, type: 3}
+  - key: a2_222_hanger_rail_LOD1
+    model: {fileID: 919132149155446097, guid: 9b98ce3f8d6ba804f86c12ca7bdb44f4, type: 3}
+  - key: a2_223_red_sock_left
+    model: {fileID: 919132149155446097, guid: 1541957ca4dc2634eb4011ed42ce1086, type: 3}
+  - key: a2_223_red_sock_left_LOD1
+    model: {fileID: 919132149155446097, guid: 06c9281d181fd0e44a5da9dac4b0323e, type: 3}
+  - key: a2_224_red_sock_right
+    model: {fileID: 919132149155446097, guid: 508b743a6a2440f43afd2336324f22ea, type: 3}
+  - key: a2_224_red_sock_right_LOD1
+    model: {fileID: 919132149155446097, guid: ba168cec3d0ee12418b0516f44b67d0b, type: 3}
+  - key: a2_225_blue_sock_left
+    model: {fileID: 919132149155446097, guid: e9d5e3cd26a374942a6fbdb95835bd3a, type: 3}
+  - key: a2_225_blue_sock_left_LOD1
+    model: {fileID: 919132149155446097, guid: 4448cd2193ec93e4e9d2fe3ddef4be09, type: 3}
+  - key: a2_226_blue_sock_right
+    model: {fileID: 919132149155446097, guid: eca46a50ef0b6d744a4f21379adfc953, type: 3}
+  - key: a2_226_blue_sock_right_LOD1
+    model: {fileID: 919132149155446097, guid: 947a76835dae9fb4782e9e3f995bb960, type: 3}
+  - key: a2_227_patterned_sock_pair
+    model: {fileID: 919132149155446097, guid: 6b422c39fd75502478069337b8128b7f, type: 3}
+  - key: a2_227_patterned_sock_pair_LOD1
+    model: {fileID: 919132149155446097, guid: 7be5269b90572094e9d8f3478c7487a4, type: 3}
+  - key: a2_228_foldable_towel_blue
+    model: {fileID: 919132149155446097, guid: aa8e9e47f479c094a963becc72146dcd, type: 3}
+  - key: a2_228_foldable_towel_blue_LOD1
+    model: {fileID: 919132149155446097, guid: 6054e6fcdbf5dbf4db75f9a32c743a5e, type: 3}
+  - key: a2_229_foldable_towel_pink
+    model: {fileID: 919132149155446097, guid: 210aa0d0855b4534da1a42d43268e2e0, type: 3}
+  - key: a2_229_foldable_towel_pink_LOD1
+    model: {fileID: 919132149155446097, guid: 4175dbbfadaf128429294ff83999a577, type: 3}
+  - key: a2_230_foldable_towel_cream
+    model: {fileID: 919132149155446097, guid: 4cdfcb92d09570e42a23f23fdc036066, type: 3}
+  - key: a2_230_foldable_towel_cream_LOD1
+    model: {fileID: 919132149155446097, guid: 71f77933ed744094293e1029a3d065f8, type: 3}
+  - key: a2_231_stacked_towels_state
+    model: {fileID: 919132149155446097, guid: a5e4f57c7193d6046a9269a9058dd24b, type: 3}
+  - key: a2_231_stacked_towels_state_LOD1
+    model: {fileID: 919132149155446097, guid: 028c8434521e38846b1acb037770caf0, type: 3}
+  - key: a2_232_unfolded_towel_state
+    model: {fileID: 919132149155446097, guid: f16575828f5bc504c8961a5238aa2fc7, type: 3}
+  - key: a2_233_shirt_on_hanger
+    model: {fileID: 919132149155446097, guid: c3df4d42e8b96da4bb51d3a751b26388, type: 3}
+  - key: a2_233_shirt_on_hanger_LOD1
+    model: {fileID: 919132149155446097, guid: 5cc2fe61fdf98dd458d56d04bf7e77ca, type: 3}
+  - key: a2_234_pajama_trousers
+    model: {fileID: 919132149155446097, guid: 09a987e8e011d314493d0fa79187e2b2, type: 3}
+  - key: a2_234_pajama_trousers_LOD1
+    model: {fileID: 919132149155446097, guid: 0c2fefdd6a68c8743b48d2e1abf20737, type: 3}
+  - key: a2_236_large_cloth_item
+    model: {fileID: 919132149155446097, guid: 37b8dfa4d6664ad49a7ea09c5299fb88, type: 3}
+  - key: a2_237_clothes_hanger
+    model: {fileID: 919132149155446097, guid: fae99eb3f05c2064584acb3f22abf3ed, type: 3}
+  - key: a2_238_clothespin
+    model: {fileID: 919132149155446097, guid: b2eed42783776e7498f3e2f234fb77ca, type: 3}
+  - key: a2_238_clothespin_LOD1
+    model: {fileID: 919132149155446097, guid: ea70ea2321e16124785537d862ea9c07, type: 3}
+  - key: a2_239_detergent_box
+    model: {fileID: 919132149155446097, guid: 132ea6495e34baa4db24d7b9a879e014, type: 3}
+  - key: a2_240_soft_detergent_bottle
+    model: {fileID: 919132149155446097, guid: 23a5a75c0c0036a49ad1c967f9a38bc7, type: 3}
+  - key: a2_242_mop
+    model: {fileID: 919132149155446097, guid: 1d38e6f7332aada4b88812d339709303, type: 3}
+  - key: a2_243_water_bucket
+    model: {fileID: 919132149155446097, guid: e76eea6d9c83b81418e9eed0903b8a80, type: 3}
+  - key: a2_244_laundry_pod_cartoon_container
+    model: {fileID: 919132149155446097, guid: 7283581054c95584e84cf0ec829007e9, type: 3}
+  - key: a2_245_lint_tray
+    model: {fileID: 919132149155446097, guid: 44bc9b4b6c2b0c64a86393ba9490e47c, type: 3}
+  - key: a2_254_head_0
+    model: {fileID: 919132149155446097, guid: e265fd6ec861c884fa5cd1560728f9a9, type: 3}
+  - key: a2_254_sibling_pip
+    model: {fileID: 919132149155446097, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+  - key: a2_254_sibling_pip_Reduced
+    model: {fileID: 919132149155446097, guid: 2f0932d818319874db60332acf76cf25, type: 3}
+  - key: a2_255_head_1
+    model: {fileID: 919132149155446097, guid: ba9c7e7d3ebbf0c4ca7e9fa681ba0575, type: 3}
+  - key: a2_255_sibling_nell
+    model: {fileID: 919132149155446097, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+  - key: a2_255_sibling_nell_Reduced
+    model: {fileID: 919132149155446097, guid: 335bb90fdfa8c7441913ac8ad4c1a034, type: 3}
+  - key: a2_256_head_2
+    model: {fileID: 919132149155446097, guid: 7c8091334b49d6e4e801f071732405ae, type: 3}
+  - key: a2_256_sibling_rory
+    model: {fileID: 919132149155446097, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+  - key: a2_256_sibling_rory_Reduced
+    model: {fileID: 919132149155446097, guid: 8b5f6e36e91ad6946bf0a1d61c95f1d4, type: 3}
+  - key: a2_257_head_3
+    model: {fileID: 919132149155446097, guid: 2002abbcb2097834e9cba59954ab7024, type: 3}
+  - key: a2_257_sibling_tess
+    model: {fileID: 919132149155446097, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+  - key: a2_257_sibling_tess_Reduced
+    model: {fileID: 919132149155446097, guid: ff72f7772a807cf40a411d1ea750d2ec, type: 3}
+  - key: a2_258_torso_3
+    model: {fileID: 919132149155446097, guid: c91b18737185e0749a965bf7c138d85f, type: 3}
+  - key: a2_259_torso_0
+    model: {fileID: 919132149155446097, guid: 875ee86bbd3854f4a9a7cbef1551b717, type: 3}
+  - key: a2_260_torso_2
+    model: {fileID: 919132149155446097, guid: 19d768533407ad141a7c98e974127434, type: 3}
+  - key: a2_261_torso_1
+    model: {fileID: 919132149155446097, guid: 93288a877d548bd4b8e998b6e1dbbcf0, type: 3}
+  - key: a2_262_hair_0
+    model: {fileID: 919132149155446097, guid: d2afb7f2e47e5164c8e6109afa445dbf, type: 3}
+  - key: a2_263_hair_2
+    model: {fileID: 919132149155446097, guid: 7e3568b4f8409d34daa7a4ebdea62cbe, type: 3}
+  - key: a2_264_hair_3
+    model: {fileID: 919132149155446097, guid: 0ee4d91e904b5ab49b4d52a2443e3b89, type: 3}
+  - key: a2_265_hair_1
+    model: {fileID: 919132149155446097, guid: 11e64e19eb4207a4f89071beca9d974f, type: 3}
+  - key: a2_266_brows
+    model: {fileID: 919132149155446097, guid: ad661cc56b53a3c4d8de207b7bfeefbd, type: 3}
+  - key: a2_267_eyes
+    model: {fileID: 919132149155446097, guid: 9e05da118f38162498b6dee13913c379, type: 3}
+  - key: a2_268_facialexpressions
+    model: {fileID: 919132149155446097, guid: 65b385b04a7af90438c9668974c2c237, type: 3}
+  - key: a2_269_nose
+    model: {fileID: 919132149155446097, guid: 4dde6cb1db1624c46940bcc4d691f2da, type: 3}
+  - key: a2_270_ears
+    model: {fileID: 919132149155446097, guid: a23e638647ef0b348bd5cfb46732150b, type: 3}
+  - key: a2_271_tracked_hand_left
+    model: {fileID: 919132149155446097, guid: 9a20392ec0f15734ba155c0335c1af0c, type: 3}
+  - key: a2_272_tracked_hand_right
+    model: {fileID: 919132149155446097, guid: 26f14489fcbfe9346b4a028684666d7f, type: 3}
+  - key: a2_273_sneaker_left
+    model: {fileID: 919132149155446097, guid: 66519c0dbbe91e441a04672356bdb82d, type: 3}
+  - key: a2_273_sneaker_left_LOD1
+    model: {fileID: 919132149155446097, guid: 603905c6ee3fdbe4cb815799d5971d6d, type: 3}
+  - key: a2_274_sneaker_right
+    model: {fileID: 919132149155446097, guid: 7be06a722b497f64ca28b0cb7b16a302, type: 3}
+  - key: a2_274_sneaker_right_LOD1
+    model: {fileID: 919132149155446097, guid: 7b6fb825b194ac94db0fa1923f32ecbf, type: 3}
+  - key: a2_275_slipper_left
+    model: {fileID: 919132149155446097, guid: d3a198befde9e3f408b2b9643ad71d7f, type: 3}
+  - key: a2_275_slipper_left_LOD1
+    model: {fileID: 919132149155446097, guid: 4806a189dbc1abf4daf20acaf8b67457, type: 3}
+  - key: a2_276_slipper_right
+    model: {fileID: 919132149155446097, guid: 03ea569659cd50e4bac11a507600b0dd, type: 3}
+  - key: a2_276_slipper_right_LOD1
+    model: {fileID: 919132149155446097, guid: 059c31161cfd1b94ba47b94c9966c2d0, type: 3}
+  - key: a2_277_socks_ankle_set
+    model: {fileID: 919132149155446097, guid: 164186fcd7108974b95ec9a3c8a1067d, type: 3}
+  - key: a2_277_socks_ankle_set_LOD1
+    model: {fileID: 919132149155446097, guid: fc93d5fcfdd5bda4089574316fa7565c, type: 3}
+  - key: a2_282_glasses_accessory
+    model: {fileID: 919132149155446097, guid: a3fe8cb88daee874284ffbcf7019eb06, type: 3}
+  - key: a2_282_glasses_accessory_LOD1
+    model: {fileID: 919132149155446097, guid: aa28243c7d6b6444b903fe25046be086, type: 3}
+  - key: a2_283_cap_accessory
+    model: {fileID: 919132149155446097, guid: 813cebf2ef8cff244b80d2e738bacf05, type: 3}
+  - key: a2_284_hairband_accessory
+    model: {fileID: 919132149155446097, guid: d8727fb2d82f4d141a9affcb8ee560ca, type: 3}
+  - key: a2_314_mom
+    model: {fileID: 919132149155446097, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+  - key: a2_314_mom_Reduced
+    model: {fileID: 919132149155446097, guid: 5b37bc4a3ae38a347815870a272f56e3, type: 3}
+  - key: a2_315_momface
+    model: {fileID: 919132149155446097, guid: 8bc015fb5054c1d48a0ee6b109f38f09, type: 3}
+  - key: a2_316_momhairrollers
+    model: {fileID: 919132149155446097, guid: 24c805e86be09ee4f95f1b9ce6351fb2, type: 3}
+  - key: a2_317_momrobe
+    model: {fileID: 919132149155446097, guid: bf0e05b93984813408bf85bd76e67c71, type: 3}
+  - key: a2_318_momslippers
+    model: {fileID: 919132149155446097, guid: 24ef82b73ee61aa4485bb69c3d7d6b30, type: 3}
+  - key: a2_319_mombrows
+    model: {fileID: 919132149155446097, guid: 85953ec15fee74d4e88751aa00568c93, type: 3}
+  - key: a2_320_momvisemes
+    model: {fileID: 919132149155446097, guid: 36c1365d8e8d29c409501ed00fc59f4b, type: 3}
+  - key: a2_322_mom_bed
+    model: {fileID: 919132149155446097, guid: 9769cdeae36de8f4ab4911163e1bbf67, type: 3}
+  - key: a2_322_mom_bed_LOD1
+    model: {fileID: 919132149155446097, guid: 5d3d90054fa607448a8bb2b69c69deba, type: 3}
+  - key: a2_345_mochi_cat
+    model: {fileID: 919132149155446097, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+  - key: a2_345_mochi_cat_Reduced
+    model: {fileID: 919132149155446097, guid: e8126427e8936fe48bfe92f3497cb18b, type: 3}
+  - key: a2_346_biscuit_dog
+    model: {fileID: 919132149155446097, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+  - key: a2_346_biscuit_dog_Reduced
+    model: {fileID: 919132149155446097, guid: 4b03b67cd03c42f4c95134f5aac52b33, type: 3}
+  - key: a2_347_cat_collar
+    model: {fileID: 919132149155446097, guid: 1e7f42e74fd8b0a4ab7c248ac7fea9ff, type: 3}
+  - key: a2_347_cat_collar_LOD1
+    model: {fileID: 919132149155446097, guid: cc56d1a99d4d5f74d87e462fd53796f9, type: 3}
+  - key: a2_348_dog_collar
+    model: {fileID: 919132149155446097, guid: 60cf48ac3c960d443bd2b07b26095916, type: 3}
+  - key: a2_348_dog_collar_LOD1
+    model: {fileID: 919132149155446097, guid: 619a0f686984f924c86fe1861170710e, type: 3}
+  - key: a2_372_personal_task_clipboard
+    model: {fileID: 919132149155446097, guid: 12dc6a7e7b4493d4197c625c57964eb4, type: 3}
+  - key: a2_372_personal_task_clipboard_LOD1
+    model: {fileID: 919132149155446097, guid: 73f5d51e76466674bbebb67f15113bf8, type: 3}
+  - key: a2_373_player_colored_assigned_object_sticker
+    model: {fileID: 919132149155446097, guid: f1fc1a45ec5989947bdcdbecba918b4e, type: 3}
+  - key: a2_374_shared_task_sticker
+    model: {fileID: 919132149155446097, guid: 66df235d877647946bcb333efb8dfa6e, type: 3}
+  - key: a2_375_task_target_slot_marker
+    model: {fileID: 919132149155446097, guid: 3069105a450733c41be6e5ada8217678, type: 3}
+  - key: a2_376_task_completion_stamp_mesh
+    model: {fileID: 919132149155446097, guid: 8b93fb89c86bf0b47b2fd3a07180c6ff, type: 3}
+  - key: a2_378_grab_point_helper
+    model: {fileID: 919132149155446097, guid: 175b46cf39f2672448c145d650b520bd, type: 3}
+  - key: a2_380_task_placement_ghost_mesh
+    model: {fileID: 919132149155446097, guid: fc0a340c2d03c78488a0f01a5bf8ea80, type: 3}
+  - key: a2_380_task_placement_ghost_mesh_LOD1
+    model: {fileID: 919132149155446097, guid: b0b9307048bb8f049879253a72e8f04a, type: 3}
+  - key: a2_382_mom_sleep_door_plaque
+    model: {fileID: 919132149155446097, guid: 15bba976ab867d043a3218ba5d7e7e67, type: 3}
+  - key: a2_382_mom_sleep_door_plaque_LOD1
+    model: {fileID: 919132149155446097, guid: dc3e45ba7929e3545a26999d34a4bc8e, type: 3}
+  - key: a2_385_collider_proxy_standard
+    model: {fileID: 919132149155446097, guid: b7ad08ba93cd36141a5961b94c4125cd, type: 3}
+  - key: a2_386_cartoon_impact_star_geometry
+    model: {fileID: 919132149155446097, guid: 66e86ea6b91be7542b07cf967b6f6894, type: 3}
+  - key: a2_387_comic_dust_puff_quad_mesh
+    model: {fileID: 919132149155446097, guid: 243c2888346fc7a439e3189caa2af961, type: 3}
+  - key: a2_388_animated_sound_wave_ring
+    model: {fileID: 919132149155446097, guid: b71d47c19894ed64e879f5080391e755, type: 3}
+  - key: a2_389_panic_motion_trail
+    model: {fileID: 919132149155446097, guid: 1958a4255e6a36f40b5eb70dece2a929, type: 3}
+  - key: a2_390_pet_surprise_glyph
+    model: {fileID: 919132149155446097, guid: 8c0933caac5dd5d47a23935688fe5a85, type: 3}
+  - key: a2_392_grip_sparkle_mesh
+    model: {fileID: 919132149155446097, guid: edc5a5958d8321b4f95af896cfb6c87f, type: 3}
+  - key: a2_393_soft_glow_decal
+    model: {fileID: 919132149155446097, guid: f246468a2188dae44b1ba7ec044bdc36, type: 3}
+  - key: a2_398_wall_postcard
+    model: {fileID: 919132149155446097, guid: 2bf820005c8b5bb488ebddf92268bfa8, type: 3}
+  - key: a2_405_home_key_hook
+    model: {fileID: 919132149155446097, guid: e7ed5418610bfe64ca7f27724337e4a0, type: 3}
+  - key: a2_ROOM_Bedroom
+    model: {fileID: 919132149155446097, guid: fd95a244619eefd47bd4b4a626eb03a5, type: 3}
+  - key: a2_ROOM_Kitchen
+    model: {fileID: 919132149155446097, guid: 2d65af401b1d2ab49b0e44b89292a448, type: 3}
+  - key: a2_ROOM_Laundry
+    model: {fileID: 919132149155446097, guid: 11b48f095f9d9424d90c3ca1a1c13cfa, type: 3}
+  - key: a2_ROOM_LivingRoom
+    model: {fileID: 919132149155446097, guid: 0ab5407e864e11848b6ef259f2b9b078, type: 3}
+  - key: a2_ROOM_Lobby
+    model: {fileID: 919132149155446097, guid: 052c72f597470664da07ea5c1be60564, type: 3}
+  - key: a2_ROOM_MainMenu
+    model: {fileID: 919132149155446097, guid: aaf895e908ab83c47b6409cd098dac2c, type: 3}
+  toonBase: {fileID: 2100000, guid: 7fa8b34d8a3c2204f8b4c010b69eceeb, type: 2}
+  litBase: {fileID: 2100000, guid: 6c5c466a2b3e46948a5bf5f34d15b752, type: 2}
+  unlitBase: {fileID: 2100000, guid: a485aacfecd0c4a418fbb82d01320c94, type: 2}
+  unlitTransparent: {fileID: 2100000, guid: 3294952d6ffb90549ae43e6900aa60c7, type: 2}
+  handMaterial: {fileID: 0}
+  logo: {fileID: 2800000, guid: dcd53a71a3196d1418d8c1e283266c44, type: 3}
+  logoIcon: {fileID: 2800000, guid: 2cf084ee880f3f34f905ee0430fb066c, type: 3}
+  brandFont: {fileID: 11400000, guid: 79f4bc2f4d9912b478ecb5b5c2f04540, type: 2}
+  siblingAnimator: {fileID: 0}
+  momAnimator: {fileID: 9100000, guid: df8d190b7a62fdc4a8009897b47493c4, type: 2}

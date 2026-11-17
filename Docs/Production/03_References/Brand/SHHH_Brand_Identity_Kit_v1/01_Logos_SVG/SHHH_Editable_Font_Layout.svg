@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="700" viewBox="0 0 1300 700">
+<title>SHHH! editable typography study - requires Luckiest Guy font</title>
+<desc>Text stays editable. It is NOT identical to the approved logo illustration. Install Luckiest Guy and Fredoka.</desc>
+<rect width="1300" height="700" rx="45" fill="#211530"/>
+<text x="650" y="405" text-anchor="middle" font-family="Luckiest Guy, sans-serif" font-size="300" fill="#FFCF2E" stroke="#F45F73" stroke-width="15" stroke-linejoin="round" paint-order="stroke fill">SHHH!</text>
+<text x="650" y="540" text-anchor="middle" font-family="Fredoka, sans-serif" font-size="76" font-weight="700" fill="#FFF0BA">DON'T WAKE MOM!</text></svg>

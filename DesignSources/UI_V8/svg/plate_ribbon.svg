@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 256" width="1024" height="256"><title>SHHH! ribbon banner</title>
+<path d="M30,96 L130,80 L120,130 L150,180 L40,190 L80,140Z" fill="#C92C4D" stroke="#261239" stroke-width="12" stroke-linejoin="round"/>
+<path d="M994,96 L894,80 L904,130 L874,180 L984,190 L944,140Z" fill="#C92C4D" stroke="#261239" stroke-width="12" stroke-linejoin="round"/>
+<path d="M120,60 C380,20 644,20 904,60 L904,190 C644,150 380,150 120,190Z" fill="#F45F73" stroke="#261239" stroke-width="14" stroke-linejoin="round"/>
+<path d="M140,80 C390,44 634,44 884,80" fill="none" stroke="#FFFFFF" stroke-width="10" opacity=".35" stroke-linecap="round"/></svg>

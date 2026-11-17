@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67cc4740199d4eb4489c336f67028d93, type: 3}
+  m_Name: CharacterCatalog
+  m_EditorClassIdentifier: 
+  characters:
+  - key: pip
+    model: {fileID: 919132149155446097, guid: 2f0932d818319874db60332acf76cf25, type: 3}
+    height: 1.3
+    triangles: 8702
+    clips:
+    - name: idle
+      clip: {fileID: -623603649343465320, guid: cecd9f0c991c5044a8d43b1d569e8c08, type: 3}
+    - name: walk
+      clip: {fileID: -623603649343465320, guid: 8e98c1506f1639a48b17ecd14384cbdc, type: 3}
+    - name: run
+      clip: {fileID: -623603649343465320, guid: d829093d3f866e74e99d117154a71aaa, type: 3}
+    - name: react
+      clip: {fileID: -623603649343465320, guid: e2350da98f915f045b1c58837bf8b1d1, type: 3}
+    - name: carry
+      clip: {fileID: -1452134912074811654, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: celebrate
+      clip: {fileID: -2313426892615126152, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: shush
+      clip: {fileID: 4938552596220777721, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: surprised
+      clip: {fileID: 6952578476171241216, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: grab
+      clip: {fileID: -3443985681492114326, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: setdown
+      clip: {fileID: 1607929059950540999, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: panic
+      clip: {fileID: -1957115505338983334, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: laugh
+      clip: {fileID: -167814886002320886, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+    - name: lose
+      clip: {fileID: -1901335152038202995, guid: 15ba6bc3b4ba9c44fa16c0740ce59457, type: 3}
+  - key: nell
+    model: {fileID: 919132149155446097, guid: 335bb90fdfa8c7441913ac8ad4c1a034, type: 3}
+    height: 1.3
+    triangles: 7784
+    clips:
+    - name: idle
+      clip: {fileID: -623603649343465320, guid: 3a87e54e82002e741b5bf16a7c65cbd7, type: 3}
+    - name: walk
+      clip: {fileID: -623603649343465320, guid: 9bfd25878714ea4439bde9c9666724f8, type: 3}
+    - name: run
+      clip: {fileID: -623603649343465320, guid: 1338dc33987f1844384eedd32637a99f, type: 3}
+    - name: react
+      clip: {fileID: -623603649343465320, guid: 16748c1a10d7f704d9e7fb541c9a28c0, type: 3}
+    - name: carry
+      clip: {fileID: -1452134912074811654, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: celebrate
+      clip: {fileID: -2313426892615126152, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: shush
+      clip: {fileID: 4938552596220777721, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: surprised
+      clip: {fileID: 6952578476171241216, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: grab
+      clip: {fileID: -3443985681492114326, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: setdown
+      clip: {fileID: 1607929059950540999, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: panic
+      clip: {fileID: -1957115505338983334, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: laugh
+      clip: {fileID: -167814886002320886, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+    - name: lose
+      clip: {fileID: -1901335152038202995, guid: e81965f5797932a4e88f24d3d160b479, type: 3}
+  - key: rory
+    model: {fileID: 919132149155446097, guid: 8b5f6e36e91ad6946bf0a1d61c95f1d4, type: 3}
+    height: 1.3
+    triangles: 8234
+    clips:
+    - name: idle
+      clip: {fileID: -623603649343465320, guid: 29298c00f0cea2141acc0c87a5c0af17, type: 3}
+    - name: walk
+      clip: {fileID: -623603649343465320, guid: 27420649ea1ae5a4f915c1842d45d21a, type: 3}
+    - name: run
+      clip: {fileID: -623603649343465320, guid: 412ab0df085cd4342bd06d05dda2b961, type: 3}
+    - name: react
+      clip: {fileID: -623603649343465320, guid: 52fa753297fe60440b063cf5eadabb96, type: 3}
+    - name: carry
+      clip: {fileID: -1452134912074811654, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: celebrate
+      clip: {fileID: -2313426892615126152, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: shush
+      clip: {fileID: 4938552596220777721, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: surprised
+      clip: {fileID: 6952578476171241216, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: grab
+      clip: {fileID: -3443985681492114326, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: setdown
+      clip: {fileID: 1607929059950540999, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: panic
+      clip: {fileID: -1957115505338983334, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: laugh
+      clip: {fileID: -167814886002320886, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+    - name: lose
+      clip: {fileID: -1901335152038202995, guid: 48321b78e9763ca4f951242898ce7b0b, type: 3}
+  - key: tess
+    model: {fileID: 919132149155446097, guid: ff72f7772a807cf40a411d1ea750d2ec, type: 3}
+    height: 1.3
+    triangles: 7666
+    clips:
+    - name: idle
+      clip: {fileID: -623603649343465320, guid: 1118f55f99f736240aa5b78c8fb232bb, type: 3}
+    - name: walk
+      clip: {fileID: -623603649343465320, guid: fd4e87bef25e9e3478c604517b968cea, type: 3}
+    - name: run
+      clip: {fileID: -623603649343465320, guid: 2f388f28b7e2e7440a216c5bc194b45f, type: 3}
+    - name: react
+      clip: {fileID: -623603649343465320, guid: 19d55da8223806243bd11ef3b97fbbd6, type: 3}
+    - name: carry
+      clip: {fileID: -1452134912074811654, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: celebrate
+      clip: {fileID: -2313426892615126152, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: shush
+      clip: {fileID: 4938552596220777721, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: surprised
+      clip: {fileID: 6952578476171241216, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: grab
+      clip: {fileID: -3443985681492114326, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: setdown
+      clip: {fileID: 1607929059950540999, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: panic
+      clip: {fileID: -1957115505338983334, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: laugh
+      clip: {fileID: -167814886002320886, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+    - name: lose
+      clip: {fileID: -1901335152038202995, guid: 3fa6989000568f942b3d997438719b22, type: 3}
+  - key: mom
+    model: {fileID: 919132149155446097, guid: 5b37bc4a3ae38a347815870a272f56e3, type: 3}
+    height: 1.72
+    triangles: 7838
+    clips:
+    - name: idle
+      clip: {fileID: 9150686684125865913, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: walk
+      clip: {fileID: -3684798315268185001, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: sleep
+      clip: {fileID: -7823349284736719028, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: wake
+      clip: {fileID: -1842654383876135146, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: situp
+      clip: {fileID: -5329735669802446831, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: scan
+      clip: {fileID: -6693144197702687899, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: point
+      clip: {fileID: -6587472529987475451, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: admonish
+      clip: {fileID: 775020172061323205, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: squint
+      clip: {fileID: 6805970702594421533, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: inspect
+      clip: {fileID: 1619658978437038216, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: returnbed
+      clip: {fileID: 1478578503368217953, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: opendoor
+      clip: {fileID: 7591461373149748780, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+    - name: arms
+      clip: {fileID: 3209228258220711226, guid: 246ff7b31772c5b4cb00e3e47fbabf8d, type: 3}
+  - key: mochi
+    model: {fileID: 919132149155446097, guid: e8126427e8936fe48bfe92f3497cb18b, type: 3}
+    height: 0.42
+    triangles: 2666
+    clips:
+    - name: idle
+      clip: {fileID: 7768665271157011547, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: walk
+      clip: {fileID: 4912488621135777042, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: run
+      clip: {fileID: 4912488621135777042, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: startle
+      clip: {fileID: 3193125129390388206, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: jump
+      clip: {fileID: -5720579770158941087, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: eat
+      clip: {fileID: -5095403392371285619, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: react
+      clip: {fileID: -6320923397104748324, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+    - name: sleep
+      clip: {fileID: 4083764022316323108, guid: 123375a2f59e7b84faff215282bd1548, type: 3}
+  - key: biscuit
+    model: {fileID: 919132149155446097, guid: 4b03b67cd03c42f4c95134f5aac52b33, type: 3}
+    height: 0.55
+    triangles: 3126
+    clips:
+    - name: idle
+      clip: {fileID: -7149645217231119202, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: walk
+      clip: {fileID: 4485979462976030268, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: run
+      clip: {fileID: 3110944643467835832, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: sniff
+      clip: {fileID: 2715466257119994812, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: wag
+      clip: {fileID: 3191663333962363408, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: startle
+      clip: {fileID: -8071758638283141673, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: pick
+      clip: {fileID: 878188561902394591, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: eat
+      clip: {fileID: -3493960085021664841, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}
+    - name: react
+      clip: {fileID: 3927674034308989017, guid: 01ed11329bbed7045997ca7dbd81f9d9, type: 3}

@@ -1,0 +1,38 @@
+Gate,System,Acceptance requirement,Required evidence,Priority
+G0,Project,Safely cloned existing project; recovery branch/tag and backup,Git log; backup path; project snapshot,P0
+G0,Build,"Project compiles, launches to Quest title",Unity build log; device logcat; screenshot,P0
+G0,Dependency,Installed Meta XR/Unity versions and Photon dependency audit,manifest; asmdefs; resolved SDK versions,P0
+G1,Hands,Both tracked stylized hands appear and fingers mirror gesture,Quest recording; hand pose diagnostic,P0
+G1,HandGrab,At least 27/30 intentional grab-hold-release trials across 3 object types,User headset trials + event logs,P0
+G1,GripPose,"Plate, book, cup correctly align with tracked hand without obvious clipping",Quest video; grip anchor inspect,P0
+G1,Place,10/10 intended shelf/drop-zone placements registered once,Task event IDs; Quest video,P0
+G1,Ray,Hand ray can choose UI targets without confusing direct grab,Quest recording; interactor logs,P0
+G1,Poke,Near hand poke selects all 10 primary UI actions at comfortable distance,Quest seated/standing video; button logs,P0
+G1,Locomotion,Carrying does not unexpectedly move avatar; hand teleport available,Repeated Quest trial; gesture events,P0
+G1,TrackingLoss,Hand loss/recovery does not launch object or falsely cause Mom noise,Synthetic + physical headset tests,P0
+G2,PhotonInstall,"Play With Friends creates real room, no Not Found SDK error",Photon run logs; Quest video,P0
+G2,PhotonJoin,Two independent clients join same private room via code,Two device/client logs; shared room ID,P0
+G2,PhotonProps,Networked prop ownership/grab/release synchronized across both clients,Two recordings/clients; object ID and state logs,P0
+G2,PhotonBotFill,"2 human +2 bot, 3 human +1 bot, 4 human +0 bot tested with correct allocation",Test harness logs; room roster screenshots,P0
+G2,PhotonVoice,Microphone opt-in and two-way Voice chat; mute and spatial playback,"Two client mic test, Voice logs",P0
+G2,SceneSwitch,Room transition preserves live Photon session and authoritative scores,Network runner logs; two clients,P0
+G3,Onboarding,New player knows current personal chore/target within 10s of round start,Observed user recording and 1-sentence recap,P0
+G3,Chore,Human can complete a 3-step personal chore with actual physics,Quest uninterrupted footage and task state events,P0
+G3,Bots,"AI bot physically approaches, grabs, transports, and places a personal prop",Quest video; bot state logs,P0
+G3,Sabotage,Rival sabotages using real physical object; target has clear counterplay,Quest video; causality/actor event log,P0
+G3,Noise,Impact sound/VFX at object source; host noise accumulation and blame sensible,Audio recording; event logs; gameplay footage,P0
+G3,Mom,"Mom animated reaction is short, causal, expressive, and explains eliminated sibling",Quest recording; elimination rules log,P0
+G3,Fun,"At least 60s live play showcases clear objective, sabotage, recovery and surprise",Uninterrupted Quest footage; external tester feedback if possible,P0
+G4,Brand,Original SHHH logo/type/3D menu coherent with chosen art direction,SVG source; reference comparison; Quest capture,P1
+G4,UX,No room-scale walk or uncomfortable reach to operate basic menu,Seated+standing test; player spawn/panel distance log,P1
+G4,Art,Living room full coherent architecture; assets actually placed at correct scale,In-headset scene inspection; layout plan,P1
+G4,Avatar,Four sibling identities with expressive faces; no head clipping in 1st person,Mirror/remote avatar views,P1
+G4,MomPet,"Mom, cat and dog have believable model+animations and real contacts",Blender/Unity test footage; QA list,P1
+G5,ThreeRooms,Solo full 4→3→2→1 match all three rooms and single winner works,Full uninterrupted Quest match; state logs,P1
+G5,Spectator,Eliminated human cannot interact; spectator can view and rematch,Quest test plus network logic tests,P1
+G5,Replay,"Multiple matches vary personal tasks and bot behavior, remain fair",Seed logs; 3-match test,P1
+G6,Audio,"Replacement Foley, meaningful silence, Mom English acting, sliders and subtitles",Audio assets/license manifest; Quest capture,P1
+G6,VFX,Event VFX attached to source; shaders work in both eyes and do not obscure tasks,Quest video; shader inspection; GPU timings,P1
+G6,Performance,Quest 2 stable >=72 FPS target or honest recorded limitation,Device performance CSV; CPU/GPU frametime,P1
+G6,QuestModels,Quest 3/3S build config compatible; actual verification only if devices available,Build settings + hardware tests explicitly marked,P2
+G6,Alpha,Signed APK ready and authorized Meta Alpha submission/tester process documented,APK hash; build report; authorized dashboard proof,P2

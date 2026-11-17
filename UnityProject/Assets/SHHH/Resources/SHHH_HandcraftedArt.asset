@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a3838a5f6c5c3b42b9e24d67db5f050, type: 3}
+  m_Name: SHHH_HandcraftedArt
+  m_EditorClassIdentifier: 
+  props:
+  - kind: book
+    visual: {fileID: 7249197955682491063, guid: 4781e3862cfb9884ca2c9657efd1f075, type: 3}
+  - kind: cup
+    visual: {fileID: 906203835164624953, guid: 2610adfcb10a4ce4e8e2ccdc3792c247, type: 3}
+  - kind: mug
+    visual: {fileID: 906203835164624953, guid: 2610adfcb10a4ce4e8e2ccdc3792c247, type: 3}
+  - kind: plate
+    visual: {fileID: 2709735032113112766, guid: 8bd7b489aad3fde4885f98a8c49e0969, type: 3}
+  - kind: toy_car
+    visual: {fileID: 5389580915544175338, guid: 0eab525406b5b564081b45b6593aebf9, type: 3}
+  - kind: cushion
+    visual: {fileID: 3928573311596712487, guid: f31a5ab895c35424e89689d4ca8869e5, type: 3}
+  - kind: remote
+    visual: {fileID: 2237636191569236994, guid: db42b24a619b01e4ba3fa2799b18fa55, type: 3}

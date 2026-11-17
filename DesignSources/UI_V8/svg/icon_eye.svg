@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon eye</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M24,128 C70,62 186,62 232,128 C186,194 70,194 24,128Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M88,128 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M110,128 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M24,128 C70,62 186,62 232,128 C186,194 70,194 24,128Z" fill="#FFF8E8"/>
+<path d="M88,128 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0Z" fill="#65C8C5"/>
+<path d="M110,128 a18,18 0 1,0 36,0 a18,18 0 1,0 -36,0Z" fill="#261239"/>
+</g></svg>

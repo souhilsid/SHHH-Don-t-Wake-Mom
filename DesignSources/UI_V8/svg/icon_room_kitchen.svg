@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon room_kitchen</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M50,110 H206 V176 C206,200 186,214 162,214 H94 C70,214 50,200 50,176Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M46,100 H210 Q220,100 220,110 V112 Q220,122 210,122 H46 Q36,122 36,112 V110 Q36,100 46,100Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M118,76 H138 Q146,76 146,84 V92 Q146,100 138,100 H118 Q110,100 110,92 V84 Q110,76 118,76Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M92,60 C82,46 102,40 92,26 M128,60 C118,46 138,40 128,26 M164,60 C154,46 174,40 164,26" fill="none" stroke="#261239" stroke-width="36"/>
+<path d="M50,110 H206 V176 C206,200 186,214 162,214 H94 C70,214 50,200 50,176Z" fill="#9ED9D6"/>
+<path d="M46,100 H210 Q220,100 220,110 V112 Q220,122 210,122 H46 Q36,122 36,112 V110 Q36,100 46,100Z" fill="#FFF8E8"/>
+<path d="M118,76 H138 Q146,76 146,84 V92 Q146,100 138,100 H118 Q110,100 110,92 V84 Q110,76 118,76Z" fill="#FFF8E8"/>
+<path d="M92,60 C82,46 102,40 92,26 M128,60 C118,46 138,40 128,26 M164,60 C154,46 174,40 164,26" fill="none" stroke="#FFF8E8" stroke-width="8"/>
+</g></svg>

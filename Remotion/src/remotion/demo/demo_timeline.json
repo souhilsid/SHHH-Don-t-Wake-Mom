@@ -1,0 +1,1460 @@
+{
+ "composition": "SHHH-MetaVRStart2026Demo",
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "durationInFrames": 5199,
+ "seconds": 173.3,
+ "brand": {
+  "navy": "#19183F",
+  "night": "#10132F",
+  "yellow": "#FFD65A",
+  "coral": "#FF7769",
+  "teal": "#65C8C5",
+  "purple": "#7958BB",
+  "cream": "#FFF3DD",
+  "ink": "#2A214B"
+ },
+ "color": {
+  "note": "no grade: Quest captures are shown as recorded; vignette 0.30 only"
+ },
+ "items": [
+  {
+   "id": "H1",
+   "kind": "shot",
+   "from": 0,
+   "frames": 90,
+   "transitionIn": "cut",
+   "analysisId": "M12",
+   "note": "kitchen: grab the egg plate... crash",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 281.6,
+   "srcDur": 3.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/H1.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "H2",
+   "kind": "shot",
+   "from": 90,
+   "frames": 66,
+   "transitionIn": "cut",
+   "analysisId": "M13",
+   "note": "MOM IS UP! She heard the plate crash in the kitchen",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 285.0,
+   "srcDur": 2.2,
+   "playbackRate": 1.0,
+   "proxy": "demo/H2.mp4",
+   "zoom": [
+    1.02,
+    1.07
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "H3",
+   "kind": "shot",
+   "from": 156,
+   "frames": 102,
+   "transitionIn": "cut",
+   "analysisId": "M14",
+   "note": "Mom is looking around the kitchen",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 287.2,
+   "srcDur": 3.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/H3.mp4",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "T1",
+   "kind": "sting",
+   "from": 258,
+   "frames": 48,
+   "transitionIn": "moon",
+   "analysisId": null,
+   "note": "title sting: moon + stars + logo pop"
+  },
+  {
+   "id": "E1",
+   "kind": "shot",
+   "from": 306,
+   "frames": 84,
+   "transitionIn": "moon",
+   "analysisId": "M02",
+   "note": "Pick a mode",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 33.6,
+   "srcDur": 2.8,
+   "playbackRate": 1.0,
+   "proxy": "demo/E1.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "E2",
+   "kind": "shot",
+   "from": 390,
+   "frames": 78,
+   "transitionIn": "cut",
+   "analysisId": "M03",
+   "note": "Genies wardrobe - tops, live avatar",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 73.0,
+   "srcDur": 2.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/E2.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "E3",
+   "kind": "shot",
+   "from": 468,
+   "frames": 132,
+   "transitionIn": "cut",
+   "analysisId": "M05",
+   "note": "online room PDBE: Player62 joins, both READY",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 178.4,
+   "srcDur": 4.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/E3.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "E4",
+   "kind": "shot",
+   "from": 600,
+   "frames": 60,
+   "transitionIn": "cut",
+   "analysisId": "M06",
+   "note": "Tonight's siblings: 2 humans + 2 bots",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 186.3,
+   "srcDur": 2.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/E4.mp4",
+   "zoom": [
+    1.0,
+    1.03
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "E5",
+   "kind": "shot",
+   "from": 660,
+   "frames": 66,
+   "transitionIn": "cut",
+   "analysisId": "M08",
+   "note": "the match starts in the living room",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 189.2,
+   "srcDur": 2.2,
+   "playbackRate": 1.0,
+   "proxy": "demo/E5.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P1",
+   "kind": "shot",
+   "from": 726,
+   "frames": 138,
+   "transitionIn": "swoosh",
+   "analysisId": "M07",
+   "note": "toy chest: press to open",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 199.0,
+   "srcDur": 4.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/P1.mp4",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P2",
+   "kind": "shot",
+   "from": 864,
+   "frames": 222,
+   "transitionIn": "cut",
+   "analysisId": "M07",
+   "note": "blocks sorted into colour slots",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 211.4,
+   "srcDur": 7.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/P2.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P0",
+   "kind": "shot",
+   "from": 1086,
+   "frames": 78,
+   "transitionIn": "cut",
+   "analysisId": "M10",
+   "note": "into the kitchen",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 264.2,
+   "srcDur": 2.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/P0.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P3",
+   "kind": "shot",
+   "from": 1164,
+   "frames": 81,
+   "transitionIn": "cut",
+   "analysisId": "M11",
+   "note": "soap pump with the sponge (ghost-hand hint, press burst)",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 271.4,
+   "srcDur": 2.7,
+   "playbackRate": 1.0,
+   "proxy": "demo/P3.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P4",
+   "kind": "shot",
+   "from": 1245,
+   "frames": 186,
+   "transitionIn": "cut",
+   "analysisId": "M18",
+   "note": "two-hand scrub: stain shrinks",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 327.3,
+   "srcDur": 6.2,
+   "playbackRate": 1.0,
+   "proxy": "demo/P4.mp4",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P5",
+   "kind": "shot",
+   "from": 1431,
+   "frames": 108,
+   "transitionIn": "cut",
+   "analysisId": "M19",
+   "note": "clean plate with bubbles to the sink",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 334.0,
+   "srcDur": 3.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/P5.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P6",
+   "kind": "shot",
+   "from": 1539,
+   "frames": 228,
+   "transitionIn": "swoosh",
+   "analysisId": "M31",
+   "note": "fridge: handle, hinge, food on a shelf",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 603.4,
+   "srcDur": 7.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/P6.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P7",
+   "kind": "shot",
+   "from": 1767,
+   "frames": 162,
+   "transitionIn": "cut",
+   "analysisId": "M32",
+   "note": "burger onto the fridge shelf",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 638.4,
+   "srcDur": 5.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/P7.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P8",
+   "kind": "shot",
+   "from": 1929,
+   "frames": 138,
+   "transitionIn": "cut",
+   "analysisId": "M34",
+   "note": "bin lid lifts, trash in",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 676.4,
+   "srcDur": 4.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/P8.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P9",
+   "kind": "shot",
+   "from": 2067,
+   "frames": 204,
+   "transitionIn": "swoosh",
+   "analysisId": "M44",
+   "note": "fold the blanket: hold + rub with the other hand",
+   "src": "F06",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261115-170859-0.mp4",
+   "in": 248.2,
+   "srcDur": 6.8,
+   "playbackRate": 1.0,
+   "proxy": "demo/P9.mp4",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P10",
+   "kind": "shot",
+   "from": 2271,
+   "frames": 120,
+   "transitionIn": "cut",
+   "analysisId": "M48",
+   "note": "fold the towel",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 483.0,
+   "srcDur": 4.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/P10.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "P11",
+   "kind": "shot",
+   "from": 2391,
+   "frames": 90,
+   "transitionIn": "cut",
+   "analysisId": "M47",
+   "note": "pair the slippers on the board",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 308.0,
+   "srcDur": 3.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/P11.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "W1",
+   "kind": "shot",
+   "from": 2481,
+   "frames": 102,
+   "transitionIn": "stars",
+   "analysisId": "M09",
+   "note": "finger-gun hop",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 236.6,
+   "srcDur": 3.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/W1.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "W2",
+   "kind": "shot",
+   "from": 2583,
+   "frames": 108,
+   "transitionIn": "cut",
+   "analysisId": "M08",
+   "note": "bot siblings at work in the living room",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 222.0,
+   "srcDur": 3.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/W2.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "W3",
+   "kind": "shot",
+   "from": 2691,
+   "frames": 72,
+   "transitionIn": "cut",
+   "analysisId": "M22",
+   "note": "kitchen: siblings racing for jobs",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 402.0,
+   "srcDur": 2.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/W3.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "W4",
+   "kind": "shot",
+   "from": 2763,
+   "frames": 108,
+   "transitionIn": "cut",
+   "analysisId": "M40",
+   "note": "the house at night",
+   "src": "F04",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4",
+   "in": 238.8,
+   "srcDur": 3.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/W4.mp4",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "W5",
+   "kind": "shot",
+   "from": 2871,
+   "frames": 147,
+   "transitionIn": "cut",
+   "analysisId": "M24",
+   "note": "wrist watch: clock, points, Mom is suspicious",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 435.0,
+   "srcDur": 4.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/W5.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "S2",
+   "kind": "shot",
+   "from": 3018,
+   "frames": 84,
+   "transitionIn": "swoosh",
+   "analysisId": "M52",
+   "note": "sabotage: lifting the bowl off Nell's drying mat",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 201.9,
+   "srcDur": 2.8,
+   "playbackRate": 1.0,
+   "proxy": "demo/S2.mp4",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "S1",
+   "kind": "shot",
+   "from": 3102,
+   "frames": 78,
+   "transitionIn": "cut",
+   "analysisId": "M53",
+   "note": "Nell's job card: Someone messed with this! (push-in)",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 199.6,
+   "srcDur": 2.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/S1.mp4",
+   "zoom": [
+    1.0,
+    1.4
+   ],
+   "zoomOrigin": "62% 56%"
+  },
+  {
+   "id": "C0",
+   "kind": "shot",
+   "from": 3180,
+   "frames": 66,
+   "transitionIn": "swoosh",
+   "analysisId": "M50",
+   "note": "MEOWS warning",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 155.4,
+   "srcDur": 2.2,
+   "playbackRate": 1.0,
+   "proxy": "demo/C0.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C0b",
+   "kind": "shot",
+   "from": 3246,
+   "frames": 60,
+   "transitionIn": "cut",
+   "analysisId": "M51",
+   "note": "WOOF warning",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 360.2,
+   "srcDur": 2.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/C0b.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C1",
+   "kind": "shot",
+   "from": 3306,
+   "frames": 147,
+   "transitionIn": "cut",
+   "analysisId": "M23",
+   "note": "a toy block goes into the fridge",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 389.5,
+   "srcDur": 4.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/C1.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C2a",
+   "kind": "shot",
+   "from": 3453,
+   "frames": 63,
+   "transitionIn": "cut",
+   "analysisId": "M43",
+   "note": "practice: carrying the book...",
+   "src": "F05",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261112-170302-0.mp4",
+   "in": 125.8,
+   "srcDur": 2.1,
+   "playbackRate": 1.0,
+   "proxy": "demo/C2a.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C2b",
+   "kind": "slow",
+   "from": 3516,
+   "frames": 48,
+   "transitionIn": "cut",
+   "analysisId": "M43",
+   "note": "...it slips: noise bursts (0.5x)",
+   "src": "F05",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261112-170302-0.mp4",
+   "in": 127.9,
+   "srcDur": 0.8,
+   "playbackRate": 0.5,
+   "proxy": "demo/C2b.mp4",
+   "zoom": [
+    1.04,
+    1.08
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C2c",
+   "kind": "shot",
+   "from": 3564,
+   "frames": 42,
+   "transitionIn": "cut",
+   "analysisId": "M43",
+   "note": "second burst, real speed",
+   "src": "F05",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261112-170302-0.mp4",
+   "in": 128.7,
+   "srcDur": 1.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/C2c.mp4",
+   "zoom": [
+    1.08,
+    1.1
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C3",
+   "kind": "shot",
+   "from": 3606,
+   "frames": 96,
+   "transitionIn": "cut",
+   "analysisId": "M49",
+   "note": "red noise ring -> Mom is almost awake",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 286.9,
+   "srcDur": 3.2,
+   "playbackRate": 1.0,
+   "proxy": "demo/C3.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C4",
+   "kind": "shot",
+   "from": 3702,
+   "frames": 150,
+   "transitionIn": "cut",
+   "analysisId": "M25",
+   "note": "I am getting up... MOM IS UP",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 440.6,
+   "srcDur": 5.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/C4.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C5",
+   "kind": "shot",
+   "from": 3852,
+   "frames": 258,
+   "transitionIn": "moon",
+   "analysisId": "M15",
+   "note": "MOM: Who made the plate crash? - point at a sibling or a pet",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 292.6,
+   "srcDur": 8.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/C5.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "S3",
+   "kind": "shot",
+   "from": 4110,
+   "frames": 90,
+   "transitionIn": "cut",
+   "analysisId": "M54",
+   "note": "evidence option: Saw Nell mess with You's Refill Mochi's bowl",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 687.4,
+   "srcDur": 3.0,
+   "playbackRate": 1.0,
+   "proxy": "demo/S3.mp4",
+   "zoom": [
+    1.0,
+    1.08
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C6",
+   "kind": "shot",
+   "from": 4200,
+   "frames": 108,
+   "transitionIn": "cut",
+   "analysisId": "M16",
+   "note": "the friend's avatar; not enough proof",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 308.6,
+   "srcDur": 3.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/C6.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "C7",
+   "kind": "shot",
+   "from": 4308,
+   "frames": 102,
+   "transitionIn": "cut",
+   "analysisId": "M17",
+   "note": "picking the crashed plates off the floor",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 318.4,
+   "srcDur": 3.4,
+   "playbackRate": 1.0,
+   "proxy": "demo/C7.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "R0",
+   "kind": "shot",
+   "from": 4410,
+   "frames": 108,
+   "transitionIn": "swoosh",
+   "analysisId": "M28",
+   "note": "Who messed with Tess's job? - both humans present",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 501.0,
+   "srcDur": 3.6,
+   "playbackRate": 1.0,
+   "proxy": "demo/R0.mp4",
+   "zoom": [
+    1.0,
+    1.04
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "R1",
+   "kind": "shot",
+   "from": 4518,
+   "frames": 57,
+   "transitionIn": "cut",
+   "analysisId": "M27",
+   "note": "wrist 0:00 MOM IS UP",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 498.6,
+   "srcDur": 1.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/R1.mp4",
+   "zoom": [
+    1.0,
+    1.05
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "R2",
+   "kind": "shot",
+   "from": 4575,
+   "frames": 246,
+   "transitionIn": "cut",
+   "analysisId": "M29",
+   "note": "RESULTS: Rory (bot) wins; both humans ranked",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 519.6,
+   "srcDur": 8.2,
+   "playbackRate": 1.0,
+   "proxy": "demo/R2.mp4",
+   "zoom": [
+    1.0,
+    1.06
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "X1",
+   "kind": "shot",
+   "from": 4821,
+   "frames": 27,
+   "transitionIn": "stars",
+   "analysisId": "M18",
+   "note": "montage: scrub",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 330.2,
+   "srcDur": 0.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/X1.mp4",
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "X2",
+   "kind": "shot",
+   "from": 4848,
+   "frames": 27,
+   "transitionIn": "cut",
+   "analysisId": "M31",
+   "note": "montage: fridge",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 606.0,
+   "srcDur": 0.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/X2.mp4",
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "X3",
+   "kind": "shot",
+   "from": 4875,
+   "frames": 27,
+   "transitionIn": "cut",
+   "analysisId": "M07",
+   "note": "montage: toy chest",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 215.2,
+   "srcDur": 0.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/X3.mp4",
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "X4",
+   "kind": "shot",
+   "from": 4902,
+   "frames": 27,
+   "transitionIn": "cut",
+   "analysisId": "M13",
+   "note": "montage: MOM IS UP",
+   "src": "F09",
+   "srcFile": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH/Remotion/Raw/Records-20261117T150733Z-1-001/Records/com.oculus.vrshell-20261117-174620-0.mp4",
+   "in": 285.2,
+   "srcDur": 0.9,
+   "playbackRate": 1.0,
+   "proxy": "demo/X4.mp4",
+   "zoom": [
+    1.04,
+    1.1
+   ],
+   "zoomOrigin": "50% 30%"
+  },
+  {
+   "id": "L1",
+   "kind": "logo",
+   "from": 4929,
+   "frames": 270,
+   "transitionIn": "moon",
+   "analysisId": null,
+   "note": "logo reveal"
+  }
+ ],
+ "voice": [
+  {
+   "at": 3.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_suspicious_2_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: I know that sound. That's a plate."
+  },
+  {
+   "at": 6.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D01.wav",
+   "gainDb": 0,
+   "caption": "Welcome to SHHH! Don't Wake Mom."
+  },
+  {
+   "at": 10.45,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D02.wav",
+   "gainDb": 0,
+   "caption": "Four siblings. One sleeping Mom. A whole house of chores."
+  },
+  {
+   "at": 14.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D03.wav",
+   "gainDb": 0,
+   "caption": "Pick your look."
+  },
+  {
+   "at": 15.9,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D04.wav",
+   "gainDb": 0,
+   "caption": "Then play solo against bot siblings, or open a room and play with a friend online."
+  },
+  {
+   "at": 24.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D05.wav",
+   "gainDb": 0,
+   "caption": "Every job is hands-on."
+  },
+  {
+   "at": 26.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D06.wav",
+   "gainDb": 0,
+   "caption": "Press the toy chest open, and sort the blocks by colour."
+  },
+  {
+   "at": 38.95,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D07.wav",
+   "gainDb": 0,
+   "caption": "Pump soap onto the sponge,"
+  },
+  {
+   "at": 41.95,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D08.wav",
+   "gainDb": 0,
+   "caption": "hold the plate, and scrub until it's actually clean."
+  },
+  {
+   "at": 51.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D09.wav",
+   "gainDb": 0,
+   "caption": "Open the fridge by its handle. Groceries go on the shelves."
+  },
+  {
+   "at": 64.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D10.wav",
+   "gainDb": 0,
+   "caption": "Lift the bin lid. In goes the trash."
+  },
+  {
+   "at": 69.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D11.wav",
+   "gainDb": 0,
+   "caption": "Hold the blanket with one hand, and rub with the other to fold it."
+  },
+  {
+   "at": 83.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D12.wav",
+   "gainDb": 0,
+   "caption": "Hop from room to room with a finger gun, while your siblings race you to every job."
+  },
+  {
+   "at": 95.85,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D13.wav",
+   "gainDb": 0,
+   "caption": "Your watch shows the clock, your points, and how close Mom is to waking up."
+  },
+  {
+   "at": 100.85,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D21.wav",
+   "gainDb": 0,
+   "caption": "Sneakily mess up a rival's job,"
+  },
+  {
+   "at": 103.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D22.wav",
+   "gainDb": 0,
+   "caption": "but someone may be watching."
+  },
+  {
+   "at": 137.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D23.wav",
+   "gainDb": 0,
+   "caption": "Saw a sibling mess with your job? Show Mom."
+  },
+  {
+   "at": 109.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D14.wav",
+   "gainDb": 0,
+   "caption": "The pets don't help."
+  },
+  {
+   "at": 120.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D15.wav",
+   "gainDb": 0,
+   "caption": "Every clink, crash and bang wakes Mom up a little more."
+  },
+  {
+   "at": 123.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_almost_3_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: I am getting up. I am really getting up."
+  },
+  {
+   "at": 128.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D16.wav",
+   "gainDb": 0,
+   "caption": "And when Mom is up, she wants a name."
+  },
+  {
+   "at": 131.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_question_1_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: Alright... who did this? Show me."
+  },
+  {
+   "at": 134.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D17.wav",
+   "gainDb": 0,
+   "caption": "Point at a sibling. Or blame the cat."
+  },
+  {
+   "at": 144.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D18.wav",
+   "gainDb": 0,
+   "caption": "Then, clean up the evidence."
+  },
+  {
+   "at": 150.7,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D19.wav",
+   "gainDb": 0,
+   "caption": "When the clock hits zero, the most helpful kid wins."
+  },
+  {
+   "at": 154.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_win_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: ...the quietest, most helpful kid in this house. I'm SO proud. Now everybody... SLEEP!"
+  },
+  {
+   "at": 165.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\narration\\D20.wav",
+   "gainDb": 0,
+   "caption": "Shhh. Don't wake Mom."
+  }
+ ],
+ "sfx": [
+  {
+   "at": 2.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_ceramic_3.wav",
+   "gainDb": -3
+  },
+  {
+   "at": 2.55,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_ceramic_5.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 3.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\mom_wake_stinger_1.ogg",
+   "gainDb": -10
+  },
+  {
+   "at": 8.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_long.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 9.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\card_show_1.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 10.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 13.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\ui_click_1.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 16.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\join_pop_1.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 18.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\ui_click_1.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 24.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 25.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\slot_click_1.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 27.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\lid_open_2.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 33.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\slot_click_2.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 35.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\slot_click_3.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 41.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\squeak_1.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 43.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\sponge_1.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 44.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\sponge_2.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 46.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\sponge_3.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 50.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\rinse_1.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 51.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 52.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\door_creak_1.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 57.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\grab_1.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 63.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\grab_1.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 66.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\lid_open_1.wav",
+   "gainDb": -7
+  },
+  {
+   "at": 67.9,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\rustle_1.wav",
+   "gainDb": -7
+  },
+  {
+   "at": 68.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\lid_close_1.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 68.9,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 70.9,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\rustle_2.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 72.9,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\rustle_3.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 78.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_fabric_2.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 81.9,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_soft_2.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 82.7,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\sparkle.wav",
+   "gainDb": -12
+  },
+  {
+   "at": 85.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\point_at_1.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 96.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\ui_hover_1.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 100.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 101.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\grab_1.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 105.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\recipe_undone_1.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 105.15,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\bot_giggle_3.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 137.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\ui_click_1.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 106.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 106.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\cat_meow_1.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 108.25,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\dog_bark_1.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 108.55,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\dog_bark_2.wav",
+   "gainDb": -11
+  },
+  {
+   "at": 114.15,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\bot_giggle_2.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 117.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_wood_4.wav",
+   "gainDb": -4
+  },
+  {
+   "at": 119.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_wood_2.wav",
+   "gainDb": -6
+  },
+  {
+   "at": 126.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\mom_wake_stinger_1.ogg",
+   "gainDb": -9
+  },
+  {
+   "at": 128.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_long.wav",
+   "gainDb": -9
+  },
+  {
+   "at": 135.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\ui_click_1.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 141.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\bot_giggle_1.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 147.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 152.75,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\win_other_1.ogg",
+   "gainDb": -6
+  },
+  {
+   "at": 160.7,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\sparkle.wav",
+   "gainDb": -10
+  },
+  {
+   "at": 161.6,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -13
+  },
+  {
+   "at": 162.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -13
+  },
+  {
+   "at": 163.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_short.wav",
+   "gainDb": -13
+  },
+  {
+   "at": 164.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\MetaVRStart2026Demo\\Audio\\editorial_sfx\\whoosh_long.wav",
+   "gainDb": -8
+  },
+  {
+   "at": 164.85,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\chore_done_1.wav",
+   "gainDb": -7
+  },
+  {
+   "at": 168.7,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\mom_snore_1.wav",
+   "gainDb": -6
+  }
+ ],
+ "music": [
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Investigations.mp3",
+   "srcIn": 0.0,
+   "at": 0.0,
+   "dur": 24.2,
+   "fadeIn": 0.02,
+   "fadeOut": 0.4,
+   "gainDb": -6
+  },
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Marty_Gots_a_Plan.mp3",
+   "srcIn": 38.0,
+   "at": 24.2,
+   "dur": 81.8,
+   "fadeIn": 0.05,
+   "fadeOut": 0.5,
+   "gainDb": -6
+  },
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Scheming_Weasel_faster.mp3",
+   "srcIn": 0.0,
+   "at": 106.0,
+   "dur": 41.0,
+   "fadeIn": 0.05,
+   "fadeOut": 0.6,
+   "gainDb": -7
+  },
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Fluffing_a_Duck.mp3",
+   "srcIn": 30.0,
+   "at": 147.0,
+   "dur": 26.3,
+   "fadeIn": 0.3,
+   "fadeOut": 1.5,
+   "gainDb": -6
+  }
+ ]
+}

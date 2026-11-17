@@ -1,0 +1,11 @@
+== 09_FinalExports/SHHH_Official_Game_Trailer_1080p.mp4
+size_bytes 161749070
+sha256 71d0ce127012c199a718e408ce1a81ba01d887721dbdf898dc7c7b57ae144638
+stream|codec_name=h264|profile=High|width=1920|height=1080|pix_fmt=yuv420p|color_space=bt709|field_order=progressive|r_frame_rate=30/1|avg_frame_rate=30/1|
+stream|codec_name=aac|profile=LC|sample_rate=48000|channels=2|r_frame_rate=0/0|avg_frame_rate=0/0
+format|format_name=mov,mp4,m4a,3gp,3g2,mj2|duration=103.100000|bit_rate=12550849
+faststart (moov before mdat): True
+ I: -13.9 LUFS
+ LRA: 6.7 LU
+ Peak: -1.5 dBFS
+[Parsed_blackdetect_0 @ 0000024b21b5c680] black_start:0 black_end:1.433333 black_duration:1.433333

@@ -1,0 +1,28 @@
+id,area,requirement,how,status,evidence
+SLOT-01,slots,Solo = 1H+3B,Core test,PASS,QA_Evidence/core_tests_run2.txt
+SLOT-02,slots,2H+2B/3H+1B/4H+0B always 4 seats,Core test,PASS,core_tests_run2.txt
+SLOT-03,slots,No 5th competitor; idempotent seating,Core test,PASS,core_tests_run2.txt
+SLOT-04,slots,Pre-match leave reverts to bot; locked roster,Core test,PASS,core_tests_run2.txt
+NOISE-01,noise,Dropped pan wakes Mom & eliminates dropper,Core test,PASS,core_tests_run2.txt
+NOISE-02,noise,Tiny impacts never wake Mom,Core test,PASS,core_tests_run2.txt
+NOISE-03,noise,Independent pet crash -> warning only,Core test + editor playtest,PASS,core_tests_run2.txt
+NOISE-04,noise,Unavoidable trap -> setter,Core test,PASS,core_tests_run2.txt
+NOISE-05,noise,Avoidable visible trap + careless victim -> victim,Core test,PASS,core_tests_run2.txt
+NOISE-06,noise,Too-fresh clue -> setter,Core test,PASS,core_tests_run2.txt
+NOISE-07,noise,Chain reaction -> root actor,Core test,PASS,core_tests_run2.txt
+NOISE-08,noise,Simultaneous release deterministic,Core test,PASS,core_tests_run2.txt
+NOISE-09,noise,Pet lure -> provoker,Core test + editor playtest log,PASS,core_tests_run2.txt
+NOISE-10,noise,Tiny last noise doesn't take blame,Core test,PASS,core_tests_run2.txt
+NOISE-11,noise,Simultaneous wakes -> one elimination,Core test,PASS,core_tests_run2.txt
+NOISE-12,noise,Duplicate events ignored; no voice input,Core test,PASS,core_tests_run2.txt
+SCORE-01..09,scoring,Proportional credit; anti-farm; undo; bonus; inspection ties; timer; spectators; idle; rescue cap,Core tests,PASS,core_tests_run2.txt
+MATCH-01,match,200 solo sims 4->3->2->1 three rooms,Core sim,PASS,core_tests_run2.txt
+MATCH-02..08,match,Room order; mixed modes; ready check; disconnect takeover; determinism; rematch; bots do chores,Core tests,PASS,core_tests_run2.txt
+UNITY-01,unity,Full solo match completes in Unity with physics bodies,playtest_autopilot,PASS (editor),QA_Evidence/playtest_autopilot_run_ok.json
+UNITY-02,unity,No magenta materials,material_audit,PASS (editor),Editor log
+UNITY-03,unity,Memory stable during match,QAReporter,PASS (~2.4 GB editor),playtest json
+DEV-01,device,Quest 2 install & launch without controllers,metavr,BLOCKED (USB auth),-
+DEV-02,device,Hand grab/locomotion/teleport/snap on device,manual QA,NOT RUN,-
+DEV-03,device,Sustained >=72 FPS on Quest 2,metavr perf,NOT RUN,-
+NET-01,online,2H+2B/3H+1B/4H+0B over Fusion,two clients,NOT IMPLEMENTED,-
+REL-01,release,Signed Alpha APK uploaded,MVDH,NOT DONE,-

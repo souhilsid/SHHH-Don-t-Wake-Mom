@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon clock</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M36,132 a92,92 0 1,0 184,0 a92,92 0 1,0 -184,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M128,132 V82 M128,132 L162,150" fill="none" stroke="#261239" stroke-width="44"/>
+<path d="M118,132 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M112,26 H144 Q152,26 152,34 V40 Q152,48 144,48 H112 Q104,48 104,40 V34 Q104,26 112,26Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M36,132 a92,92 0 1,0 184,0 a92,92 0 1,0 -184,0Z" fill="#FFF8E8"/>
+<path d="M128,132 V82 M128,132 L162,150" fill="none" stroke="#261239" stroke-width="16"/>
+<path d="M118,132 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0Z" fill="#261239"/>
+<path d="M112,26 H144 Q152,26 152,34 V40 Q152,48 144,48 H112 Q104,48 104,40 V34 Q104,26 112,26Z" fill="#F57F78"/>
+</g></svg>

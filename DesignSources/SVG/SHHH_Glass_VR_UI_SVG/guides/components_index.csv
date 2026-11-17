@@ -1,0 +1,76 @@
+category,filename,title,width,height,role,states
+panels,components/panels/glass_panel_large.svg,Large spatial glass panel,820,520,Mounted at comfortable 1.5m distance,default
+panels,components/panels/glass_panel_medium.svg,Medium spatial glass panel,560,350,Floating world-anchored,default
+panels,components/panels/glass_panel_compact.svg,Compact contextual panel,390,160,Only near object or wrist,default
+panels,components/panels/wall_choreboard.svg,Physical household taskboard,390,390,"Houseboard, world-space",default
+panels,components/panels/glass_dialog.svg,Glass confirmation dialog,575,340,Confirm risky action,default
+buttons,components/buttons/button_play_primary.svg,PLAY button (primary),390,96,"Hand poke/pinch press, world-space",primary
+buttons,components/buttons/button_continue_primary.svg,CONTINUE button (primary),390,96,"Hand poke/pinch press, world-space",primary
+buttons,components/buttons/button_rematch_teal.svg,REMATCH button (teal),390,96,"Hand poke/pinch press, world-space",teal
+buttons,components/buttons/button_back_secondary.svg,BACK button (secondary),390,96,"Hand poke/pinch press, world-space",secondary
+buttons,components/buttons/button_exit_danger.svg,EXIT button (danger),390,96,"Hand poke/pinch press, world-space",danger
+buttons,components/buttons/button_unavailable_disabled.svg,UNAVAILABLE button (disabled),390,96,"Hand poke/pinch press, world-space",disabled
+buttons,components/buttons/button_state_default.svg,Button state: default,410,110,Hand interaction visual state,default
+buttons,components/buttons/button_state_hover.svg,Button state: hover,410,110,Hand interaction visual state,hover
+buttons,components/buttons/button_state_pressed.svg,Button state: pressed,410,110,Hand interaction visual state,pressed
+buttons,components/buttons/button_state_disabled.svg,Button state: disabled,410,110,Hand interaction visual state,disabled
+buttons,components/buttons/icon_button_pause.svg,Pause icon button,100,100,,default
+buttons,components/buttons/toggle_enabled.svg,Toggle ON,158,78,,default
+buttons,components/buttons/toggle_disabled.svg,Toggle OFF,158,78,,default
+buttons,components/buttons/slider_sound.svg,Audio slider,404,85,,default
+buttons,components/buttons/room_stepper.svg,Room player-count stepper,500,100,,default
+navigation,components/navigation/logo_main_menu.svg,Main menu logo emblem,470,520,World mounted logo; transparent true vector recreation,default
+navigation,components/navigation/main_menu_board.svg,Main spatial menu,600,660,Main physical living-room board,default
+navigation,components/navigation/private_room_code.svg,Invite code tile,485,185,,default
+navigation,components/navigation/player_slot_ready.svg,Player ready tile,275,153,,default
+navigation,components/navigation/player_slot_waiting.svg,Empty player tile,275,153,,default
+navigation,components/navigation/player_nameplate.svg,Floating avatar nameplate,285,100,,default
+navigation,components/navigation/ready_countdown.svg,Ready start number,160,160,,default
+navigation,components/navigation/tab_active.svg,Active spatial tab,232,90,,default
+navigation,components/navigation/tab_inactive.svg,Inactive spatial tab,232,90,,default
+navigation,components/navigation/wardrobe_swatch.svg,Wardrobe color swatch,120,120,,default
+navigation,components/navigation/scene_arrow_forward.svg,Proceed to next room,110,100,,default
+gameplay,components/gameplay/sleep_meter_calm.svg,Mom sleep meter calm,347,119,"Anchored near bedroom, only when inspected",calm
+gameplay,components/gameplay/sleep_meter_suspicious.svg,Mom sleep meter suspicious,347,119,Anchored near bedroom,suspicious
+gameplay,components/gameplay/sleep_meter_alarm.svg,Mom sleep meter alarm,347,119,Anchored near bedroom,alarm
+gameplay,components/gameplay/physical_clock.svg,Clock timer,210,111,"Physical timer in-room, no head-lock",default
+gameplay,components/gameplay/chore_task_available.svg,Available task row,540,90,,default
+gameplay,components/gameplay/chore_task_completed.svg,Completed task row,540,90,,default
+gameplay,components/gameplay/bonus_task.svg,Individual bonus chore,600,128,,default
+gameplay,components/gameplay/contribution_card.svg,Player chore contribution,530,158,,default
+gameplay,components/gameplay/target_place_ring.svg,Place object target ring,250,120,World-positioned on tabletop,default
+gameplay,components/gameplay/grab_hand_highlight.svg,Hand grab cue,150,150,Appears at hand-target proximity,default
+gameplay,components/gameplay/task_complete_local.svg,Task complete feedback,378,112,,default
+gameplay,components/gameplay/round_banner_living.svg,Round banner living room,520,172,,default
+gameplay,components/gameplay/round_banner_kitchen.svg,Round banner kitchen,520,172,,default
+gameplay,components/gameplay/round_banner_final.svg,Round banner final,520,172,,default
+effects,components/effects/noise_ring_small.svg,Noise propagation wave small,230,230,At source of collision,default
+effects,components/effects/noise_ring_medium.svg,Noise propagation medium,260,260,Object-local event,default
+effects,components/effects/noise_ring_large.svg,Noise propagation burst,322,322,Dangerous impact,default
+effects,components/effects/noise_warning_tag.svg,Noise +28 tag,382,116,"At impact origin, short display",default
+effects,components/effects/prank_clue.svg,Mischief trap visual clue,426,123,Visible counterplay near object,default
+effects,components/effects/pet_warning_cat.svg,Mochi pet warning,480,120,Appears near cat,default
+effects,components/effects/pet_warning_dog.svg,Biscuit pet warning,480,120,Appears near dog,default
+effects,components/effects/mom_stir_notice.svg,Mom stirring hint,452,120,Diegetic bedroom cue,default
+effects,components/effects/mom_about_to_wake.svg,Mom near wake notice,500,120,Short-lived in-world cue,default
+effects,components/effects/glass_tooltip.svg,Tool tip,423,109,Object-local help,default
+effects,components/effects/sticker_shhh.svg,Spectator SHHH sticker,194,170,Harmless spectator reaction,default
+effects,components/effects/sticker_oh_no.svg,Spectator oh no sticker,194,170,Harmless spectator reaction,default
+effects,components/effects/sticker_clap.svg,Spectator clap sticker,194,170,Harmless spectator reaction,default
+mom,components/mom/investigation_glass.svg,Mom investigation banner,700,225,Anchored inside level during scripted reaction,default
+mom,components/mom/culprit_evidence.svg,Culprit evidence card,560,267,Host-authoritative blame result,default
+mom,components/mom/inspection_card.svg,Quiet inspection card,565,304,When no player wakes Mom,default
+mom,components/mom/elimination_banner.svg,Elimination banner,590,251,One elimination per round,default
+mom,components/mom/sleeping_door_sign.svg,Sleeping door warning sign,223,134,Bedroom door diegetic prop,default
+mom,components/mom/mom_danger_marker.svg,Mom wake danger ring,224,224,World-anchored above bedroom,default
+results,components/results/winner_plaque.svg,Winner plaque,756,323,Winner title in room,default
+results,components/results/ranking_row.svg,Results rank row,700,115,,default
+results,components/results/award_medal.svg,Funny award,435,174,,default
+results,components/results/replay_scrubber.svg,Chaos replay time scrubber,600,110,,default
+results,components/results/rematch_choices.svg,Rematch action board,603,340,,default
+system,components/system/disconnect_alert.svg,Connection warning,570,236,,default
+system,components/system/tracking_alert.svg,Hand tracking lost,570,236,,default
+system,components/system/privacy_mic.svg,Microphone permission panel,582,280,,default
+system,components/system/mute_indicator.svg,Muted microphone state,120,120,,default
+system,components/system/latency_badge.svg,Network latency badge,260,97,,default
+system,components/system/voice_chat_active.svg,Voice chat active indicator,282,105,,default

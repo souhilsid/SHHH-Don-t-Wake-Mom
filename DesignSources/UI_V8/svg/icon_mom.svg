@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon mom</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M92,64 a36,36 0 1,0 72,0 a36,36 0 1,0 -72,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M58,144 a70,70 0 1,0 140,0 a70,70 0 1,0 -140,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M58,132 C58,86 92,70 128,70 C164,70 198,86 198,132 C186,104 160,96 128,96 C96,96 70,104 58,132Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M92,148 Q106,158 118,148 M138,148 Q150,158 164,148" fill="none" stroke="#261239" stroke-width="37"/>
+<path d="M110,176 H146 Q152,176 152,182 V182 Q152,188 146,188 H110 Q104,188 104,182 V182 Q104,176 110,176Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M92,64 a36,36 0 1,0 72,0 a36,36 0 1,0 -72,0Z" fill="#7A4A3A"/>
+<path d="M58,144 a70,70 0 1,0 140,0 a70,70 0 1,0 -140,0Z" fill="#F6C9A8"/>
+<path d="M58,132 C58,86 92,70 128,70 C164,70 198,86 198,132 C186,104 160,96 128,96 C96,96 70,104 58,132Z" fill="#7A4A3A"/>
+<path d="M92,148 Q106,158 118,148 M138,148 Q150,158 164,148" fill="none" stroke="#261239" stroke-width="9"/>
+<path d="M110,176 H146 Q152,176 152,182 V182 Q152,188 146,188 H110 Q104,188 104,182 V182 Q104,176 110,176Z" fill="#F57F78"/>
+</g></svg>

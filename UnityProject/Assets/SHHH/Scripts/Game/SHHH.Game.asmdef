@@ -1,0 +1,12 @@
+{
+    "name": "SHHH.Game",
+    "rootNamespace": "SHHH.Game",
+    "references": ["SHHH.Core", "Oculus.VR", "Unity.TextMeshPro", "Unity.AI.Navigation", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}

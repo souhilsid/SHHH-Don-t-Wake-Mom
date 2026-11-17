@@ -1,0 +1,54 @@
+id,filename,title,category,room,behavior
+1,01_launch.svg,Launch / loading,entry,living,Temporary splash; environment loading and tracking health.
+2,02_main_menu.svg,Main Menu,entry,living,"Wall-anchored menu, 1.4–1.8m viewer distance; hand poke or pinch, no head-locked overlay."
+3,03_play_mode.svg,Choose Mode,entry,living,Only private online play or solo practice at launch.
+4,04_create_room.svg,Create Private Room,multiplayer,living,Host room creation; no public matchmaking.
+5,05_join_room.svg,Join With Code,multiplayer,living,Six-character private room-code entry and join action.
+6,06_lobby_waiting.svg,Multiplayer Lobby / waiting,multiplayer,living,"World-scale remote sibling avatars, room code, voice status and Ready states."
+7,07_lobby_ready.svg,Multiplayer Lobby / all ready,multiplayer,living,"3-2-1 start host countdown, synchronized across clients."
+8,08_invite_friends.svg,Invite Friends / private code,multiplayer,living,"Invite card is anchored to physical wall, accessible to host."
+9,09_sibling_select.svg,Sibling Selection,customization,living,"Life-size avatar, spatial wardrobe options, cosmetics only."
+10,10_outfit_detail.svg,Outfit Details,customization,living,"Virtual wardrobe control, no gameplay ability difference."
+11,11_comfort_check.svg,XR Comfort Calibration,onboarding,living,"Physical 1.6 m test plate, pinch affordance and comfort choice."
+12,12_mom_opening.svg,Mom’s Opening Scene,cinematic,living,"Fully animated Mom in room; world-anchored subtitles, brief skip affordance."
+13,13_rules_intro.svg,Rules / One Survivor,onboarding,living,Narrative warning card; one elimination per round; independent competition.
+14,14_solo_practice.svg,Solo Practice Room,practice,living,"Practice grab, place, sleep noise, no elimination."
+15,15_round1_intro.svg,Round 1 — Living Room,round_intro,living,"Spatial announcement in room, 3-sec countdown."
+16,16_round1_active.svg,Round 1 — Active Gameplay,round_active,living,"No fixed flat HUD; local taskboard, physical clock, bedroom wake cue."
+17,17_task_place_mug.svg,Task — Return Mug,task_substate,living,"Object-local grab and placement rings, target exposed on surface."
+18,18_taskboard_open.svg,Chore Board — Expanded,task_substate,living,Physical task board enlarged by approaching it; shared and individual tasks.
+19,19_pet_alert_cat.svg,Pet Alert — Cat,pet_substate,living,"Localized cue near pet, no full-screen warning."
+20,20_pet_alert_dog.svg,Pet Alert — Dog,pet_substate,living,"Dog may chase squeaky toy, visual cue local to object."
+21,21_mischief_setup.svg,Sibling Sabotage — Object Trap,sabotage_substate,living,Player physically rearranges props; no arbitrary prank button.
+22,22_mischief_spotted.svg,Prank Detected,sabotage_substate,living,Alert appears near rigged object; clear visible counterplay.
+23,23_noise_collision.svg,Noise Incident — Falling Pan,noise_substate,kitchen,"Spatial sound waves emerge from collision origin, replayable noise score."
+24,24_mom_stirring.svg,Mom Stirring — Warning,mom_state,living,"Drowsy reaction + bedroom light, diegetic wake cue."
+25,25_mom_almost_awake.svg,Mom Almost Awake,mom_state,living,"Strong bedroom environmental cue, no eye-locked overlay."
+26,26_mom_investigation.svg,Mom Investigation,round_resolution,living,"Mom physical entrance, active gameplay freezes safely, implicated culprit sourced from ledger."
+27,27_incident_evidence.svg,Incident Evidence,round_resolution,living,"Causal record presentation, not arbitrary score-based blame."
+28,28_first_elimination.svg,First Elimination,round_resolution,living,"One competitor sent to bed, three remain; not a team win."
+29,29_spectator.svg,Spectator / Bedtime,spectator,living,"Voice and harmless stickers, no collision, no task or sabotage actions."
+30,30_room_transition.svg,Room Transition,transition,kitchen,Persistent Photon session; Fusion-authoritative scene sync.
+31,31_round2_intro.svg,Round 2 — Kitchen,round_intro,kitchen,Three players; 130 sec; server-authoritative start countdown.
+32,32_round2_active.svg,Round 2 — Kitchen Gameplay,round_active,kitchen,"Taskboard, clock, local pet signs, no full-screen HUD."
+33,33_plate_slip.svg,Kitchen Hazard — Slipping Plates,task_substate,kitchen,"Physics danger with grip feedback, visual rescue target."
+34,34_kitchen_pet_sabotage.svg,Kitchen Pet & Sabotage,sabotage_substate,kitchen,Rival lures cat with toy; causal blame when inevitable chain starts.
+35,35_quiet_inspection.svg,Quiet End — Mom Inspects Chores,round_resolution,kitchen,Timer expiry or all shared chores complete; lowest contribution eliminated.
+36,36_second_elimination.svg,Second Elimination,round_resolution,kitchen,"One eliminated, two proceed to laundry final."
+37,37_round3_intro.svg,Final Round — Laundry,round_intro,laundry,Two remaining siblings; 110 sec final round.
+38,38_round3_active.svg,Final Round — Laundry Gameplay,round_active,laundry,"Final round chores, countdown and distant mother cues."
+39,39_final_tiebreak.svg,Tie Break — Sudden Death,round_resolution,laundry,Only if same score and deterministic tiebreaks persist; 20-sec quick task.
+40,40_winner_reveal.svg,Winner Reveal,result,living,"Single survivor winner, no team win or currency rewards."
+41,41_family_scoreboard.svg,Family Scoreboard,result,living,Ranking by survival first; chores and attributed noise shown as stats.
+42,42_funny_awards.svg,Funny Awards,result,living,"Noncompetitive humorous awards, no XP/currency/chests."
+43,43_chaos_replay.svg,Chaos Replay,result,living,"Game-state reconstruction, not actual camera footage, spectator safe."
+44,44_rematch.svg,Rematch / Same Party,result,living,"Preserves voice and party, regenerates chores and hazards."
+45,45_pause_menu.svg,Pause / Personal Menu,system,living,Per-player world-anchored pause panel; online match continues for others.
+46,46_settings_audio.svg,Settings / Audio,system,living,"SFX, Mom voice, voice chat options; voice chat never affects Mom noise."
+47,47_settings_vr.svg,VR Comfort Settings,system,living,"Seated, snap turn, teleport, UI scale; all hand-accessible."
+48,48_hand_tracking_lost.svg,Hand Tracking Lost,system,living,Freeze grab safely; stop locomotion and ask for visible hands.
+49,49_reconnection.svg,Multiplayer Reconnecting,system,living,No input to live physics until network state recovered.
+50,50_invalid_room_code.svg,Invalid Invite Code,system,living,"Safe error recovery, join lobby untouched."
+51,51_practice_complete.svg,Practice Complete,practice,living,Invites user to private multiplayer after safe interaction tutorial.
+52,52_privacy_consent.svg,Voice Chat Permissions,onboarding,living,"Microphone is optional, mute default if denied. Clear per-user permission."
+53,53_exit_confirm.svg,Leave Match Confirmation,system,living,Destructive exit confirms; spectators and host session handled explicitly.

@@ -1,0 +1,20 @@
+== 09_FinalExports/SHHH_Official_Gameplay_Walkthrough_1080p.mp4
+size_bytes 1508393971
+sha256 ff8c3a91b3173057222ad26939d05b06f3348db8c3491c9c124c45e6d7b713b1
+stream|codec_name=h264|profile=High|width=1920|height=1080|pix_fmt=yuv420p|color_space=bt709|field_order=progressive|r_frame_rate=30/1|avg_frame_rate=30/1|
+stream|codec_name=aac|profile=LC|sample_rate=48000|channels=2|r_frame_rate=0/0|avg_frame_rate=0/0
+format|format_name=mov,mp4,m4a,3gp,3g2,mj2|duration=1171.106667|bit_rate=10304058
+faststart (moov before mdat): True
+ I: -14.8 LUFS
+ LRA: 6.6 LU
+ Peak: -0.7 dBFS
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_start: 5
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_end: 9.509646 | silence_duration: 4.509646
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_start: 46.475687
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_end: 49.024104 | silence_duration: 2.548417
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_start: 134.896646
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_end: 137.439729 | silence_duration: 2.543083
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_start: 791.376813
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_end: 793.941125 | silence_duration: 2.564312
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_start: 1147.86875
+[Parsed_silencedetect_0 @ 00000257edf15f80] silence_end: 1150.439146 | silence_duration: 2.570396

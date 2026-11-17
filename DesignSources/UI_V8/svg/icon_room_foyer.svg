@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon room_foyer</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M50,64 H118 V150 C150,150 206,160 216,190 V208 H50Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M54,186 H212" fill="none" stroke="#261239" stroke-width="38"/>
+<path d="M84,100 H118 M84,124 H118" fill="none" stroke="#261239" stroke-width="36"/>
+<path d="M50,64 H118 V150 C150,150 206,160 216,190 V208 H50Z" fill="#F57F78"/>
+<path d="M54,186 H212" fill="none" stroke="#261239" stroke-width="10"/>
+<path d="M84,100 H118 M84,124 H118" fill="none" stroke="#FFF8E8" stroke-width="8"/>
+</g></svg>

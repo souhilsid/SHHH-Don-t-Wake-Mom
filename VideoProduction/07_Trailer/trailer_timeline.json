@@ -1,0 +1,802 @@
+{
+ "fps": 30,
+ "width": 1920,
+ "height": 1080,
+ "durationInFrames": 3093,
+ "seconds": 103.1,
+ "items": [
+  {
+   "id": "B0",
+   "kind": "black",
+   "from": 0,
+   "frames": 42,
+   "note": "fade up from black"
+  },
+  {
+   "id": "A1",
+   "kind": "shot",
+   "from": 42,
+   "frames": 102,
+   "note": "night living room, TV, sibling (Nov 11 build, night lighting)",
+   "src": "F04",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4",
+   "in": 238.6,
+   "proxy": "trailer/A1.mp4",
+   "zoom": [
+    1.2,
+    1.27
+   ]
+  },
+  {
+   "id": "A2",
+   "kind": "shot",
+   "from": 144,
+   "frames": 99,
+   "note": "stairs + balcony under the night sky",
+   "src": "F04",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4",
+   "in": 245.0,
+   "proxy": "trailer/A2.mp4",
+   "zoom": [
+    1.22,
+    1.28
+   ]
+  },
+  {
+   "id": "A3",
+   "kind": "shot",
+   "from": 243,
+   "frames": 90,
+   "note": "warm living room, lamp, bookshelf",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 143.5,
+   "proxy": "trailer/A3.mp4",
+   "zoom": [
+    1.24,
+    1.3
+   ]
+  },
+  {
+   "id": "A4",
+   "kind": "shot",
+   "from": 333,
+   "frames": 90,
+   "note": "the dog asleep in its bed",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 222.4,
+   "proxy": "trailer/A4.mp4",
+   "zoom": [
+    1.24,
+    1.3
+   ]
+  },
+  {
+   "id": "A5",
+   "kind": "shot",
+   "from": 423,
+   "frames": 90,
+   "note": "Genies wardrobe - your look",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 36.0,
+   "proxy": "trailer/A5.mp4",
+   "zoom": [
+    1.12,
+    1.18
+   ]
+  },
+  {
+   "id": "A6",
+   "kind": "shot",
+   "from": 513,
+   "frames": 96,
+   "note": "bot siblings walking down the hall, the cat",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 551.6,
+   "proxy": "trailer/A6.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "K1",
+   "kind": "card",
+   "from": 609,
+   "frames": 45,
+   "note": "EVERY CHORE.",
+   "text": "EVERY CHORE."
+  },
+  {
+   "id": "C1",
+   "kind": "shot",
+   "from": 654,
+   "frames": 69,
+   "note": "pair the slippers",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 308.0,
+   "proxy": "trailer/C1.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "C2",
+   "kind": "shot",
+   "from": 723,
+   "frames": 66,
+   "note": "mugs onto the tray, coasters",
+   "src": "F04",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4",
+   "in": 195.0,
+   "proxy": "trailer/C2.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "C3",
+   "kind": "shot",
+   "from": 789,
+   "frames": 66,
+   "note": "fold the towels",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 484.0,
+   "proxy": "trailer/C3.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "C4",
+   "kind": "shot",
+   "from": 855,
+   "frames": 69,
+   "note": "scrub the plates",
+   "src": "F06",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261115-170859-0.mp4",
+   "in": 248.0,
+   "proxy": "trailer/C4.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "C5",
+   "kind": "shot",
+   "from": 924,
+   "frames": 60,
+   "note": "kitchen table jobs",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 99.0,
+   "proxy": "trailer/C5.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "C6",
+   "kind": "shot",
+   "from": 984,
+   "frames": 60,
+   "note": "the washing machine",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 645.3,
+   "proxy": "trailer/C6.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "R1",
+   "kind": "shot",
+   "from": 1044,
+   "frames": 69,
+   "note": "house map on the wrist",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 357.0,
+   "proxy": "trailer/R1.mp4",
+   "zoom": [
+    1.1,
+    1.16
+   ]
+  },
+  {
+   "id": "R2",
+   "kind": "shot",
+   "from": 1113,
+   "frames": 66,
+   "note": "kitchen, siblings at work",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 564.0,
+   "proxy": "trailer/R2.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "R3",
+   "kind": "shot",
+   "from": 1179,
+   "frames": 66,
+   "note": "laundry room",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 492.0,
+   "proxy": "trailer/R3.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "R4",
+   "kind": "shot",
+   "from": 1245,
+   "frames": 72,
+   "note": "finger-gun hop across the living room",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 398.6,
+   "proxy": "trailer/R4.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "K2",
+   "kind": "card",
+   "from": 1317,
+   "frames": 45,
+   "note": "NOT ONE SOUND.",
+   "text": "NOT ONE SOUND."
+  },
+  {
+   "id": "C7",
+   "kind": "shot",
+   "from": 1362,
+   "frames": 198,
+   "note": "practice: carry the book... it drops (two real noise bursts at +5.05 s and +5.95 s)",
+   "src": "F05",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261112-170302-0.mp4",
+   "in": 123.0,
+   "proxy": "trailer/C7.mp4",
+   "zoom": [
+    1.24,
+    1.3
+   ]
+  },
+  {
+   "id": "D1",
+   "kind": "shot",
+   "from": 1560,
+   "frames": 69,
+   "note": "MEOWS warning by the armchair",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 155.6,
+   "proxy": "trailer/D1.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "D2",
+   "kind": "shot",
+   "from": 1629,
+   "frames": 60,
+   "note": "WOOF warning, dog bowl",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 360.2,
+   "proxy": "trailer/D2.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "D3",
+   "kind": "shot",
+   "from": 1689,
+   "frames": 69,
+   "note": "a sibling with a book: 'is somebody... rattling?'",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 171.4,
+   "proxy": "trailer/D3.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "D4",
+   "kind": "shot",
+   "from": 1758,
+   "frames": 48,
+   "note": "red noise ring on the slipper board",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 286.9,
+   "proxy": "trailer/D4.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "D5",
+   "kind": "shot",
+   "from": 1806,
+   "frames": 54,
+   "note": "red noise ring at the washer",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 649.0,
+   "proxy": "trailer/D5.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "D6",
+   "kind": "shot",
+   "from": 1860,
+   "frames": 60,
+   "note": "wrist: Mom is suspicious",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 347.5,
+   "proxy": "trailer/D6.mp4",
+   "zoom": [
+    1.1,
+    1.16
+   ]
+  },
+  {
+   "id": "D7",
+   "kind": "shot",
+   "from": 1920,
+   "frames": 69,
+   "note": "wrist: MOM IS UP -20 PTS",
+   "src": "F04",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4",
+   "in": 253.0,
+   "proxy": "trailer/D7.mp4",
+   "zoom": [
+    1.1,
+    1.16
+   ]
+  },
+  {
+   "id": "D8",
+   "kind": "shot",
+   "from": 1989,
+   "frames": 78,
+   "note": "'MOM IS UP! She heard the dog barking...'",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 291.2,
+   "proxy": "trailer/D8.mp4",
+   "zoom": [
+    1.08,
+    1.12
+   ]
+  },
+  {
+   "id": "S1",
+   "kind": "shot",
+   "from": 2067,
+   "frames": 66,
+   "note": "a sibling at the kitchen counter",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 464.5,
+   "proxy": "trailer/S1.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "S2",
+   "kind": "shot",
+   "from": 2133,
+   "frames": 69,
+   "note": "a sibling by the dog bed",
+   "src": "F06",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261115-170859-0.mp4",
+   "in": 331.0,
+   "proxy": "trailer/S2.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "K3",
+   "kind": "card",
+   "from": 2202,
+   "frames": 45,
+   "note": "DON'T GET BLAMED.",
+   "text": "DON'T GET BLAMED."
+  },
+  {
+   "id": "E1",
+   "kind": "shot",
+   "from": 2247,
+   "frames": 90,
+   "note": "final inspection: Mom is checking everyone's jobs",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 678.4,
+   "proxy": "trailer/E1.mp4",
+   "zoom": [
+    1.24,
+    1.28
+   ]
+  },
+  {
+   "id": "E2",
+   "kind": "shot",
+   "from": 2337,
+   "frames": 96,
+   "note": "MOM: Who messed with Nell's job?",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 686.2,
+   "proxy": "trailer/E2.mp4",
+   "zoom": [
+    1.06,
+    1.12
+   ]
+  },
+  {
+   "id": "E3",
+   "kind": "shot",
+   "from": 2433,
+   "frames": 66,
+   "note": "MOM: Who messed with Tess's job?",
+   "src": "F06",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261115-170859-0.mp4",
+   "in": 468.5,
+   "proxy": "trailer/E3.mp4",
+   "zoom": [
+    1.06,
+    1.12
+   ]
+  },
+  {
+   "id": "E4",
+   "kind": "shot",
+   "from": 2499,
+   "frames": 138,
+   "note": "results: TESS WINS (bot) - you 2nd",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 702.6,
+   "proxy": "trailer/E4.mp4",
+   "zoom": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "id": "E5",
+   "kind": "shot",
+   "from": 2637,
+   "frames": 90,
+   "note": "living room wide",
+   "src": "F07",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261117-122141-0.mp4",
+   "in": 138.6,
+   "proxy": "trailer/E5.mp4",
+   "zoom": [
+    1.24,
+    1.3
+   ]
+  },
+  {
+   "id": "E6",
+   "kind": "shot",
+   "from": 2727,
+   "frames": 96,
+   "note": "night living room",
+   "src": "F04",
+   "srcFile": "C:/Users/aisci/Downloads/com.oculus.vrshell-20261111-170037-0.mp4",
+   "in": 240.4,
+   "proxy": "trailer/E6.mp4",
+   "zoom": [
+    1.2,
+    1.27
+   ]
+  },
+  {
+   "id": "L1",
+   "kind": "logo",
+   "from": 2823,
+   "frames": 270,
+   "note": "logo reveal + tagline",
+   "logo": "trailer/shhh_logo.png",
+   "tagline": "A VR comedy about very quiet chores"
+  }
+ ],
+ "voice": [
+  {
+   "at": 0.55,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N01.wav",
+   "gainDb": 0,
+   "caption": "It's late."
+  },
+  {
+   "at": 1.85,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N02.wav",
+   "gainDb": 0,
+   "caption": "The house is a total mess..."
+  },
+  {
+   "at": 5.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N03.wav",
+   "gainDb": 0,
+   "caption": "...and Mom is finally asleep."
+  },
+  {
+   "at": 11.45,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_stir_1_1.wav",
+   "gainDb": -1,
+   "caption": "MOM: Mmm... five more minutes."
+  },
+  {
+   "at": 14.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N04.wav",
+   "gainDb": 0,
+   "caption": "So tonight, you and your siblings have one job."
+  },
+  {
+   "at": 22.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N05a.wav",
+   "gainDb": 0,
+   "caption": "Pair up the slippers."
+  },
+  {
+   "at": 24.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N05b.wav",
+   "gainDb": 0,
+   "caption": "Stack the mugs."
+  },
+  {
+   "at": 26.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N05c.wav",
+   "gainDb": 0,
+   "caption": "Fold the towels."
+  },
+  {
+   "at": 28.75,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N05d.wav",
+   "gainDb": 0,
+   "caption": "Scrub the plates."
+  },
+  {
+   "at": 35.15,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\NR.wav",
+   "gainDb": 0,
+   "caption": "Jobs in every room... and one clock for everybody."
+  },
+  {
+   "at": 46.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N06.wav",
+   "gainDb": 0,
+   "caption": "...without making a single sound."
+  },
+  {
+   "at": 51.75,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N07.wav",
+   "gainDb": 0,
+   "caption": "...Mostly."
+  },
+  {
+   "at": 52.8,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N08a.wav",
+   "gainDb": 0,
+   "caption": "The cat is bored."
+  },
+  {
+   "at": 54.5,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N08b.wav",
+   "gainDb": 0,
+   "caption": "The dog is hungry."
+  },
+  {
+   "at": 56.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N08c.wav",
+   "gainDb": 0,
+   "caption": "Your siblings are... not helping."
+  },
+  {
+   "at": 58.75,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N09.wav",
+   "gainDb": 0,
+   "caption": "And every little noise wakes Mom up a little more."
+  },
+  {
+   "at": 64.15,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_almost_3_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: I am getting up. I am really getting up."
+  },
+  {
+   "at": 69.1,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_sabotage_1_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: Why are things moving around out there?"
+  },
+  {
+   "at": 66.85,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_wake_1_1.wav",
+   "gainDb": 1,
+   "caption": "MOM: WHO is making that noise?!"
+  },
+  {
+   "at": 75.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N10.wav",
+   "gainDb": 0,
+   "caption": "And when she finds a mess... somebody's getting blamed."
+  },
+  {
+   "at": 78.2,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_question_1_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: Alright... who did this? Show me."
+  },
+  {
+   "at": 81.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_caught_4_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: Aha! It was you."
+  },
+  {
+   "at": 83.45,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_win_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: ...the quietest, most helpful kid in this house. I'm SO proud. Now everybody... SLEEP!"
+  },
+  {
+   "at": 88.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\VO\\vo_mom_bed_1_1.wav",
+   "gainDb": 0,
+   "caption": "MOM: Goodnight. And keep it DOWN."
+  },
+  {
+   "at": 91.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N11.wav",
+   "gainDb": 0,
+   "caption": "So be quick. Be helpful. And whatever you do..."
+  },
+  {
+   "at": 95.0,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\05_Voiceover\\narration\\N12.wav",
+   "gainDb": 0,
+   "caption": "Shhh. Don't wake Mom."
+  }
+ ],
+ "sfx": [
+  {
+   "at": 50.45,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_wood_4.wav",
+   "gainDb": -4,
+   "caption": null
+  },
+  {
+   "at": 51.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\impact_wood_2.wav",
+   "gainDb": -6,
+   "caption": null
+  },
+  {
+   "at": 52.05,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\cat_meow_1.wav",
+   "gainDb": -8,
+   "caption": null
+  },
+  {
+   "at": 54.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\dog_bark_1.wav",
+   "gainDb": -8,
+   "caption": null
+  },
+  {
+   "at": 54.7,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\dog_bark_2.wav",
+   "gainDb": -10,
+   "caption": null
+  },
+  {
+   "at": 58.35,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\bot_giggle_2.wav",
+   "gainDb": -6,
+   "caption": null
+  },
+  {
+   "at": 66.3,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\mom_wake_stinger_1.ogg",
+   "gainDb": -9,
+   "caption": null
+  },
+  {
+   "at": 72.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\bot_giggle_1.wav",
+   "gainDb": -6,
+   "caption": null
+  },
+  {
+   "at": 82.95,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\bot_giggle_3.wav",
+   "gainDb": -7,
+   "caption": null
+  },
+  {
+   "at": 98.4,
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\UnityProject\\Assets\\SHHH\\Resources\\Audio\\mom_snore_1.wav",
+   "gainDb": -6,
+   "caption": null
+  }
+ ],
+ "music": [
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Sneaky_Adventure.mp3",
+   "srcIn": 0.0,
+   "at": 0.35,
+   "dur": 49.65,
+   "fadeIn": 0.8,
+   "fadeOut": 0.6,
+   "gainDb": -4
+  },
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Scheming_Weasel_faster.mp3",
+   "srcIn": 0.0,
+   "at": 52.0,
+   "dur": 14.75,
+   "fadeIn": 0.05,
+   "fadeOut": 0.25,
+   "gainDb": -5
+  },
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Investigations.mp3",
+   "srcIn": 2.0,
+   "at": 68.9,
+   "dur": 19.8,
+   "fadeIn": 0.6,
+   "fadeOut": 1.2,
+   "gainDb": -6
+  },
+  {
+   "file": "C:\\Users\\aisci\\Downloads\\SHHH Game\\SHHH\\VideoProduction\\04_MusicAndLicenses\\Sneaky_Adventure.mp3",
+   "srcIn": 58.0,
+   "at": 87.9,
+   "dur": 15.2,
+   "fadeIn": 1.0,
+   "fadeOut": 2.5,
+   "gainDb": -5
+  }
+ ]
+}

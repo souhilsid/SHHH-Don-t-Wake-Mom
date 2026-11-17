@@ -1,0 +1,12 @@
+{
+    "name": "SHHH.Game.Editor",
+    "rootNamespace": "SHHH.EditorTools",
+    "references": ["SHHH.Game", "SHHH.Core", "SHHH.Automation.Editor", "Oculus.VR", "Oculus.VR.Editor", "Unity.RenderPipelines.Universal.Runtime", "Unity.TextMeshPro", "Unity.AI.Navigation", "Unity.XR.Management", "Unity.XR.Management.Editor"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}

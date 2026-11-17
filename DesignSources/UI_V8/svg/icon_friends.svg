@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon friends</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M64,98 a28,28 0 1,0 56,0 a28,28 0 1,0 -56,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M42,196 C42,150 68,134 92,134 C116,134 142,150 142,196Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M134,90 a32,32 0 1,0 64,0 a32,32 0 1,0 -64,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M112,200 C112,148 140,130 166,130 C192,130 220,148 220,200Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M64,98 a28,28 0 1,0 56,0 a28,28 0 1,0 -56,0Z" fill="#FFF8E8"/>
+<path d="M42,196 C42,150 68,134 92,134 C116,134 142,150 142,196Z" fill="#FFF8E8"/>
+<path d="M134,90 a32,32 0 1,0 64,0 a32,32 0 1,0 -64,0Z" fill="#FFF8E8"/>
+<path d="M112,200 C112,148 140,130 166,130 C192,130 220,148 220,200Z" fill="#FFF8E8"/>
+</g></svg>

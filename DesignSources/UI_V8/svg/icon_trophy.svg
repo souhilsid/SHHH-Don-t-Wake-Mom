@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon trophy</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M76,40 H180 V96 C180,140 156,160 128,160 C100,160 76,140 76,96Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M76,62 C30,62 40,118 82,118 M180,62 C226,62 216,118 174,118" fill="none" stroke="#261239" stroke-width="44"/>
+<path d="M116,156 H140 Q146,156 146,162 V180 Q146,186 140,186 H116 Q110,186 110,180 V162 Q110,156 116,156Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M88,184 H168 Q178,184 178,194 V204 Q178,214 168,214 H88 Q78,214 78,204 V194 Q78,184 88,184Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M76,40 H180 V96 C180,140 156,160 128,160 C100,160 76,140 76,96Z" fill="#FFCF2E"/>
+<path d="M76,62 C30,62 40,118 82,118 M180,62 C226,62 216,118 174,118" fill="none" stroke="#FFCF2E" stroke-width="16"/>
+<path d="M116,156 H140 Q146,156 146,162 V180 Q146,186 140,186 H116 Q110,186 110,180 V162 Q110,156 116,156Z" fill="#FFCF2E"/>
+<path d="M88,184 H168 Q178,184 178,194 V204 Q178,214 168,214 H88 Q78,214 78,204 V194 Q78,184 88,184Z" fill="#70409F"/>
+</g></svg>

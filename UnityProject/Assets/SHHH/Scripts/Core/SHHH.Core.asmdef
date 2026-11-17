@@ -1,0 +1,12 @@
+{
+    "name": "SHHH.Core",
+    "rootNamespace": "SHHH.Core",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": true
+}

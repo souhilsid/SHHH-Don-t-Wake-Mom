@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>SHHH! icon practice</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M46,128 a82,82 0 1,0 164,0 a82,82 0 1,0 -164,0Z" fill="none" stroke="#261239" stroke-width="48"/>
+<path d="M82,128 a46,46 0 1,0 92,0 a46,46 0 1,0 -92,0Z" fill="none" stroke="#261239" stroke-width="48"/>
+<path d="M112,128 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0Z" fill="#261239" stroke="#261239" stroke-width="28"/>
+<path d="M46,128 a82,82 0 1,0 164,0 a82,82 0 1,0 -164,0Z" fill="none" stroke="#FFF8E8" stroke-width="20"/>
+<path d="M82,128 a46,46 0 1,0 92,0 a46,46 0 1,0 -92,0Z" fill="none" stroke="#FFF8E8" stroke-width="20"/>
+<path d="M112,128 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0Z" fill="#FFCF2E"/>
+</g></svg>
